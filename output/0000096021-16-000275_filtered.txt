@@ -1,0 +1,7 @@
+These systems are vulnerable to disruption from circumstances beyond our control, including fire, natural disasters, power outages, systems failures, security breaches, cyber attacks, and viruses.
+A cybersecurity incident and other technology disruptions could negatively affect our business and our relationships with customers.
+Such uses give rise to
+cybersecurity risks, including security breach, espionage, system disruption, theft and inadvertent release of information.
+Further, as the company pursues its strategy to grow through acquisitions and to pursue new initiatives that improve our operations and cost structure, the company is also expanding and improving its information technologies, resulting in a larger technological presence and corresponding exposure to cybersecurity risk.
+If we fail to assess and identify cybersecurity risks associated with acquisitions and new initiatives, we may become increasingly vulnerable to such risks.
+Additionally, while we have implemented measures to prevent security breaches and cyber incidents, our preventative measures and incident response efforts may not be entirely effective.

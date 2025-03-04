@@ -1,0 +1,6 @@
+Some of our lines of business will rely on third-party service providers to host and deliver services and data, and any interruptions or delays in these hosted services, security, or privacy breaches, including cybersecurity attacks, or failures in data collection could expose us to liability claims, increased costs, reduced revenue, and harm our business and reputation.
+A security incident or cybersecurity attack at those facilities or ours may compromise the confidentiality, integrity, or availability of customer data.
+We have a cybersecurity policy in place, however, unauthorized access to customer data stored on our computers or networks may be obtained through break-ins, breaches of our secure network by an unauthorized party, employee theft or misuse, or other misconduct.
+Furthermore, our ability to collect and report data may be delayed or interrupted by several factors, including access to the internet, the failure of our network or software systems or security breaches.
+In addition, computer viruses or other malware may harm our systems, causing us to lose data, and the transmission of computer viruses or other malware could expose us to litigation.
+We are in the process of implementing tighter cybersecurity measures to safeguard against hackers.

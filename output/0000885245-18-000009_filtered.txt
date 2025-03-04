@@ -1,0 +1,10 @@
+The Company’s information systems are vulnerable to damage or interruption from:
+•
+Earthquake, fire, flood, tornado, and other natural disasters;
+•
+Power loss, computer systems failure, internet and telecommunications or data network failure;
+•
+Hackers, computer viruses, software bugs, or glitches.
+Despite safeguards and security processes and protections, the Company’s computer systems may be susceptible to electronic or physical computer break-ins, viruses, and other disruptions and security breaches.
+Additionally, the Company may not have the resources or technical sophistication to anticipate or prevent rapidly evolving types of cyber-attacks.
+In addition, data and security breaches can also occur as a result of non-technical issues, including intentional or inadvertent breach by employees or by persons with whom the Company has commercial relationships that result in the unauthorized release of personal or confidential information.

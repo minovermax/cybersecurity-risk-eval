@@ -1,0 +1,1 @@
+Despite the implementation of security measures, our internal computer systems, and those of third parties on which we rely, are vulnerable to damage from computer viruses, unauthorized access, natural disasters, fire, terrorism, war and telecommunication and electrical failures.

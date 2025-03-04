@@ -1,0 +1,8 @@
+While the Company has policies and procedures designed to prevent or limit the effect of the failure, interruption or security breach of its information systems, there can be no assurance that any such failures, interruptions or security breaches will not occur or, if they do occur, that they will be adequately addressed.
+The occurrence of any failures, interruptions or security breaches of the Company’s information systems could damage the Company’s reputation, result in a loss of customer business, subject the Company to additional regulatory scrutiny,
+or expose the Company to civil litigation and possible financial liability, any of which could have a material adverse effect on the Company’s financial condition and results of operations.
+Security breaches and other disruptions could compromise the Company’s information and expose the Company to liability, which would cause its business and reputation to suffer.
+Despite its security measures, its information technology and infrastructure may be vulnerable to attacks by hackers or breached due to employee error, malfeasance or other disruptions.
+The Company may be exposed to damage to its business or its reputation by Cybersecurity incidents.
+As the World becomes more interconnected through the use of the internet and users rely more extensively on the internet for the transmission and storage of data, such information becomes more susceptible to incursion by hackers and other parties intent on stealing or destroying data on which the Company or our clients rely.
+These cybersecurity incidents have increased in number and severity and it is expected that these trends will continue.

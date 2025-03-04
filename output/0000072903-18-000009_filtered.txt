@@ -1,0 +1,3 @@
+We are unable to quantify the potential impact of cyber security threats or subsequent related actions.
+The cyber security threat is dynamic and evolves continually, and our efforts to prioritize network monitoring may not be effective given the constant changes to threat vulnerability.
+Cyber security breaches seen in the news have at times exploited third party equipment or software in order to gain access.

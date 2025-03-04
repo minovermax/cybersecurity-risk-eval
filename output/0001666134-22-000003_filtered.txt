@@ -1,0 +1,39 @@
+The risk of a cybersecurity incident occurring has also increased as more companies and individuals work remotely, and potentially expose us to new, complex threats.
+Our platform is at risk for security breaches and incidents as a result of third-party action, employee, vendor or contractor error, malfeasance, ransomware and other malicious software, or other factors.
+The risk of a cybersecurity incident occurring has increased as more companies and individuals work remotely, and potentially expose us to new, complex threats.
+As we rely more on third-party and public-cloud infrastructure, such as Google Cloud Platform, and other third-party service providers, we will become more dependent on third-party security measures to protect against unauthorized access, cyberattacks and the mishandling of customer, employee and other confidential data and we may be required to expend significant time and resources to address any incidents related to the failure of those third-party security measures.
+There have been and may continue to be significant attacks on certain third-party providers, and we cannot guarantee that our or our third-party providers' systems and networks have not been breached, or that they do not contain exploitable defects or bugs that could result in a breach of or disruption to our systems and networks or the systems and networks of third parties that support us and our platform.
+We may also suffer breaches of our internal systems.
+Security breaches or incidents impacting our platform or our internal systems could also result in significant costs incurred in order to remediate or otherwise respond to a breach or incident, which may include liability for stolen assets or information and repair of system damage that may have been caused, incentives offered to customers or other business partners in an effort to maintain business relationships after a breach, and other costs, expenses and liabilities.
+We may be required to or find it appropriate to expend substantial capital and other resources to alleviate problems caused by any actual or perceived security breaches or incidents.
+Additionally, many jurisdictions have enacted or may enact laws and regulations requiring companies to notify individuals of data security breaches involving certain types of personal data.
+We incur significant expenses to minimize the risk of security breaches, including deploying additional personnel and protection technologies, training employees annually, and engaging third-party experts and contractors.
+We continually increase our investments in cybersecurity to counter emerging risks and threats.
+Such a breach or incident, or series of breaches or incidents, could also result in regulatory or contractual security requirements that could make compliance challenging.
+We may also experience security breaches and incidents that may remain undetected for an extended period of time.
+Periodically, we experience cyber security events including “phishing” attacks targeting our employees, web application and infrastructure attacks and other information technology incidents that are typical for a SaaS company of our size.
+These threats continue to evolve in sophistication and volume and are difficult to detect and predict due to advances in electronic warfare techniques, new discoveries in the field of cryptography and new and sophisticated methods used by criminals including phishing, social engineering or other illicit acts.
+We may experience security breaches and incidents introduced through the tools and services we use.
+However, there can be no assurances that our defensive measures will prevent cyber-attacks or other security breaches or incidents, and any such attacks, breaches or incidents could damage our brand and reputation and negatively impact our business.
+Some of the important factors that may cause our revenue, operating results and cash flows to fluctuate from quarter to quarter include:
+•our ability to attract new customers and retain and increase sales to existing customers;
+•the number of new employees added;
+•the rate of expansion and productivity of our sales force;
+•long sales cycles and the timing of large contracts;
+•changes in our or our competitors’ pricing policies;
+•the amount and timing of operating costs and capital expenditures related to the operations and expansion of our business;
+•new products, features or functionalities introduced by us and our competitors;
+•significant security breaches, technical difficulties or interruptions to our platform;
+•the timing of customer payments and payment defaults by customers;
+•general economic conditions that may adversely affect either our customers’ ability or willingness to purchase additional products or services, delay a prospective customer’s purchasing decision or affect customer retention, including the effects of COVID-19;
+•changes in foreign currency exchange rates;
+•the impact of new accounting pronouncements;
+•the impact and timing of taxes or changes in tax law;
+•the timing and the amount of grants or vesting of equity awards to employees;
+•seasonality of our business; and
+•changes in customer buying patterns.
+Any changes in third-party service levels or any disruptions or delays from errors, defects, hacking incidents, security breaches, computer viruses, DDoS attacks, bad acts or performance problems could harm our reputation, damage our customers’ businesses, and adversely affect our business and operating results.
+Some of these requirements include obligations on companies to notify individuals of security breaches involving particular personal information, which could result from breaches or incidents experienced by us or by organizations with which we have formed strategic relationships.
+In China, we continue to monitor legal and government advisory developments regarding the Chinese Cybersecurity Law and Cybersecurity Review Measures for impact to our business related to cross-border transfer limitations and evolving privacy, security, and data protection requirements.
+PIPL and any such other laws relating to privacy, data protection and cybersecurity in China may require us to modify our operations, and may limit our ability to collect, retain, store, use, share, disclose, transfer, disseminate, and otherwise process personal data, may require additional investment of resources in our compliance programs, may impact strategies, and could result in increased compliance costs and/or changes in our ongoing or planned business practices and policies.
+The performance of the internet and its acceptance as a business tool has been adversely affected by “viruses,” “worms,” and similar malicious programs and the internet has experienced a variety of outages and other delays as a result of damage to portions of its infrastructure.

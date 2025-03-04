@@ -1,0 +1,7 @@
+Our information technology systems and those of our service providers are subject to cybersecurity risks and threats.
+We depend on information technology systems that we manage, and others that are managed by our third-party service and equipment providers, to conduct our operations, including critical systems on our drilling units, and these systems are subject to risks associated with cyber incidents or attacks.
+It has been reported that unknown entities or groups have mounted cyber-attacks on businesses and other organizations solely to disable or disrupt computer systems, disrupt operations and, in some cases, steal data.
+Due to the nature of cyber-attacks, breaches to our or our service or equipment providers’ systems could go unnoticed for a prolonged period of time.
+These cybersecurity risks could disrupt our operations and result in downtime, loss of revenue, or the loss of critical data as well as result in higher costs to correct and remedy the effects of such incidents.
+If our or our service or equipment providers’ systems for protecting against cyber incidents or attacks prove to be insufficient and an incident were to occur, it could have a material adverse effect on our business, financial condition, results of operations or cash flows.
+Currently, we do not carry insurance for losses related to cybersecurity attacks, and may elect to not obtain such insurance in the future.

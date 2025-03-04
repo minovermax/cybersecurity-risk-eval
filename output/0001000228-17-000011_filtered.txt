@@ -1,0 +1,68 @@
+Quarterly results may also be materially adversely affected by a variety of other factors, including:
+•
+timing and amount of sales and marketing expenditures;
+•
+timing of pricing changes offered by our suppliers;
+•
+timing of the introduction of new products and services by our suppliers;
+•
+timing of the release of upgrades and enhancements to our technology-related products and services;
+•
+changes in or availability of supplier contracts or rebate programs;
+•
+supplier rebates based upon attaining certain growth goals;
+•
+changes in the way suppliers introduce or deliver products to market;
+•
+costs of developing new applications and services;
+•
+our ability to correctly identify customer needs and preferences and predict future needs and preferences;
+•
+uncertainties regarding potential significant breaches of data security or disruptions of our information technology systems;
+•
+unexpected regulatory actions, or government regulation generally;
+•
+exclusivity requirements with certain suppliers may prohibit us from distributing competitive products manufactured by other suppliers;
+•
+loss of sales representatives;
+•
+costs related to acquisitions and/or integrations of technologies or businesses;
+•
+costs associated with our self-insured medical and dental insurance programs;
+•
+general market and economic conditions, as well as those specific to the health care industry and related industries;
+•
+our success in establishing or maintaining business relationships;
+•
+unexpected difficulties in developing and manufacturing products;
+•
+product demand and availability or recalls by manufacturers;
+•
+exposure to product liability and other claims in the event that the use of the products we sell results in injury;
+•
+increases in shipping costs or service issues with our third-party shippers;
+•
+fluctuations in the value of foreign currencies;
+•
+restructuring costs;
+•
+the adoption or repeal of legislation; and
+•
+changes in accounting principles.
+These information technology systems may be vulnerable to breakdown, wrongful intrusions, data breaches and malicious attack, which could require us to expend significant resources to eliminate these problems and address related security concerns, and could involve claims against us by private parties and/or governmental agencies.
+HIPAA requires, among other things, the implementation of various recordkeeping, operational, notice and other practices intended to safeguard that information, limit its use to allowed purposes and notify individuals in the event of privacy and security breaches.
+Security risks generally associated with our information systems and our technology products and services could materially adversely affect our business, and our results of operations could be materially adversely affected if our information systems (or third-party systems we rely on) are interrupted, damaged by unforeseen events, are subject to cyberattacks or fail for any extended period of time.
+Information security risks have generally increased in recent years, and a cyberattack that bypasses our IS security systems causing an IS security breach may lead to a material disruption of our IS business systems and/or the loss of business information resulting in a material adverse effect on our business.
+In addition, we develop products and provide services to our customers that are technology-based, and a cyberattack that bypasses the IS security systems of our products or services causing a security breach and/or perceived security vulnerabilities in our products or services could also cause significant reputational harm, and actual or perceived vulnerabilities may lead to claims against us by our customers and/or governmental agencies.
+Additionally, legislative or regulatory action related to cybersecurity may increase our costs to develop or implement new technology products and services.
+Risks associated with these and other IS security breaches may include, among other things:
+•
+future results could be materially adversely affected due to the theft, destruction, loss, misappropriation or release of confidential data or intellectual property;
+•
+operational or business delays resulting from the disruption of information systems and subsequent clean-up and mitigation activities;
+•
+procedures and safeguards must continually evolve to meet new IS challenges, and enhancing protections, and conducting investigations and remediation, may impose additional costs on us;
+•
+we may incur claims, fines and penalties, and costs for remediation, or substantial defense and settlement expenses; and
+•
+negative publicity resulting in reputation or brand damage with our customers, partners or industry peers.

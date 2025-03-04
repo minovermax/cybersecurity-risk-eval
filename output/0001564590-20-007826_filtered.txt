@@ -1,0 +1,34 @@
+If any unauthorized access to or security breaches of our platform, or those of our service providers, occurs, or is believed to have occurred, such an event or perceived event could result in the loss of data, loss of intellectual property or trade secrets, loss of business, severe reputational or brand damage adversely affecting customer or investor confidence, regulatory investigations and orders, litigation, indemnity obligations, damages for contract breach, penalties for violation of applicable laws, regulations, or contractual obligations, and significant costs for remediation that may include liability for stolen assets or information and repair of system damage that may have been caused, incentives offered to customers or other business partners in an effort to maintain business relationships after a breach, and other liabilities.
+We could be required to expend significant capital and other resources to alleviate problems caused by such actual or perceived breaches and to remediate our systems, we could be exposed to a risk of loss, litigation or regulatory action and possible liability, and our ability to operate our business may be impaired.
+Moreover, failure to maintain effective internal accounting controls related to data security breaches and cybersecurity in general could impact our ability to produce timely and accurate financial statements and could subject us to regulatory scrutiny.
+Moreover, failure to maintain effective internal accounting controls related to data security breaches and cybersecurity in general could impact our ability to produce timely and accurate financial statements and could subject us to regulatory scrutiny.
+In addition, if the security measures of our customers are compromised, even without any actual compromise of our own systems, we may face negative publicity or reputational harm if our customers or anyone else incorrectly attributes the blame for such security breaches to us or our systems.
+We may also experience security breaches that may remain undetected for an extended period.
+Our success in this area will depend on a wide range of factors, some of which are beyond our control, including the following:
+•
+the efficacy of our marketing efforts;
+•
+our ability to continue to offer high-quality, innovative and error- and bug-free applications;
+•
+our ability to retain existing customers and obtain new customers;
+•
+our ability to maintain high customer satisfaction;
+•
+the quality and perceived value of our applications;
+•
+our ability to successfully differentiate our applications from those of our competitors;
+•
+actions of competitors and other third parties;
+•
+our ability to provide customer support and professional services;
+•
+any misuse or perceived misuse of our applications;
+•
+positive or negative publicity;
+•
+interruptions or delays on our platform or applications;
+•
+cyber-attacks on or security breaches of our platform and applications or the platforms of certain of our subcontractors; and
+•
+litigation, legislative or regulatory-related developments.
+Such laws and regulations may require companies to implement or update privacy and security policies, permit users to access, correct and delete personal information stored or maintained by such companies, inform individuals of security breaches that affect their personal information, and, in some cases, obtain individuals’ consent to use PII for certain purposes.

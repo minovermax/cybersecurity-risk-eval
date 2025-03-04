@@ -1,0 +1,6 @@
+The evolving nature of such threats, in light of new and sophisticated methods used by criminals, including phishing, misrepresentation, social engineering and forgery, are making it increasingly difficult for us to anticipate and adequately mitigate these risks.
+Cyber security and privacy breaches may hurt the company’s business, damage its reputation, increase its costs, and cause losses.
+The company’s information technology systems could be subject to invasion, cyber-attack, or data privacy breaches by employees, others with authorized access, and unauthorized persons.
+Although the company has developed systems and processes that are designed to protect information and prevent data loss and other security breaches, including systems and processes designed to reduce the impact of a security breach, such measures cannot provide absolute security.
+Such breaches, whether successful or unsuccessful, could result in the company incurring costs related to, for example, rebuilding internal systems, defending against litigation, responding to regulatory inquiries or actions, paying damages, or taking other remedial steps.
+The size and complexity of the company's computer systems make them potentially vulnerable to breakdown, malicious intrusion, and random attack.

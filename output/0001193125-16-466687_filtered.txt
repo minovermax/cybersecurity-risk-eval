@@ -1,0 +1,5 @@
+Cyber Attacks Targeting Our Systems and Infrastructure May Adversely Impact Our Operations
+Our industry has become increasingly dependent on digital technologies to conduct daily operations.
+Concurrently, the industry has become the subject of increased levels of cyber-attack activity.
+Cyber attacks often attempt to gain unauthorized access to digital systems for purposes of misappropriating assets or sensitive information, corrupting data or causing operational disruption and may be carried out by third parties or insiders.
+The techniques utilized range from highly sophisticated efforts to electronically circumvent network security to more traditional intelligence gathering and social engineering aimed at obtaining information necessary to gain access.

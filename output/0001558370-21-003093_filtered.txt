@@ -1,0 +1,12 @@
+Any problems caused by these third parties, including those resulting from disruptions in communication services provided by a vendor, failure of a vendor to handle current or higher volumes, cyber-attacks and security breaches at a vendor, failure of a vendor to provide services for any reason or poor performance of services, could adversely affect our ability to deliver products and services to our customers and otherwise conduct our business.
+As a financial institution, we are under threat of loss due to hacking and cyber-attacks.
+Two of the most significant cyber-attack risks that we face are e-fraud and loss of sensitive customer data.
+Our risk and
+exposure to these matters remains heightened because of the evolving nature and complexity of these threats from cybercriminals and hackers, our plans to continue to provide internet banking and mobile banking channels, and our plans to develop additional remote connectivity solutions to serve our customers.
+While we have not experienced any material losses relating to cyber-attacks or other information security breaches since 2017, we have been subject of hacking and cyber-attack and there can be no assurance that we will not suffer additional losses in the future.
+The continuation of these work-from-home measures also introduces additional operational risk, including increased cybersecurity risk.
+The occurrence of any cyber-attack or information security breach could result in material adverse consequences to us including damage to our reputation and the loss of customers.
+Even if we do not suffer any material adverse consequences as a result of other future events, successful attacks or systems failures at the Bank or at other financial institutions could lead to a general loss of customer confidence in financial institutions including the Bank.
+Nonetheless, there remains the risk that we may be materially harmed by cyber-attack and information security breach or others in the future.
+Methods used to attack information systems change frequently (with generally increasing sophistication), often are not recognized until launched against a target, may be supported by foreign governments or other well-financed entities, and may originate from less regulated and remote areas around the world.
+To the extent that such an attack or breach relates to products or services provided by others, we seek to engage in due diligence and monitoring to limit the risk.

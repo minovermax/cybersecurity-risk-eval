@@ -1,0 +1,3 @@
+We rely significantly on information technology and any failure, inadequacy, interruption or security lapse of that technology, including any cybersecurity incidents, could harm our ability to operate our business effectively.
+Nevertheless, it is possible that computer hackers and others (through cyberattacks, which are rapidly evolving and becoming increasingly sophisticated, or by other means) might defeat our security measures in the future and obtain the personal information of customers, their loved ones, our employees, and our vendors that we hold.
+Additionally, legislation relating to cyber security threats could impose additional requirements on our operations.

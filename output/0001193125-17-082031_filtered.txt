@@ -1,0 +1,1 @@
+Despite the implementation of security measures, our internal computer systems and those of our contractors and consultants are vulnerable to damage from computer viruses, unauthorized access, natural disasters, terrorism, war and telecommunication and electrical failures.

@@ -1,0 +1,6 @@
+Operational Risks
+A failure or breach, including cyber-attacks, of our operational or security systems could disrupt our business, result in the disclosure of confidential information, damage our reputation, and create significant financial and legal exposure.
+Certain financial institutions in the United States have also experienced attacks from technically sophisticated and well-resourced third parties that were intended to disrupt normal business activities by making internet banking systems inaccessible to customers for extended periods.
+These “denial-of-service” attacks typically do not breach data security systems, but require substantial resources to defend, and may affect customer satisfaction and behavior.
+We rely on third party vendors, which could expose Old National to additional cybersecurity risks.
+Although we require third party providers to maintain certain levels of information security, such providers may remain vulnerable to breaches, unauthorized access, misuse, computer viruses, or other malicious attacks that could ultimately compromise sensitive information.

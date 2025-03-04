@@ -1,0 +1,4 @@
+While we have backup systems and business continuity plans, any significant or lengthy interruption of our ability to provide these centralized functions as a result of natural disasters, prolonged inclement weather, security breaches or otherwise would significantly impair our ability to continue normal business operations.
+General Risk Factors
+Cyber security risk - Our reputation and business may be harmed from cyber security risk and we may be subject to legal claims if there is loss, disclosure or misappropriation of or access to our customers' or our business partners' or our own information or other breaches of our information security.
+With constant changes in the security landscape, experienced computer programmers and hackers may be able to penetrate our network security, or that of our third-party service providers, and misappropriate or compromise our confidential information, create system disruptions, or cause shutdowns.

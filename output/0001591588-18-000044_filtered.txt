@@ -1,0 +1,3 @@
+It is therefore critical that we maintain uninterrupted operation of these systems, and we have invested considerable resources to protect our systems from physical compromise and security breaches and to maintain backup and redundancy.
+In recent years, various companies, including companies that are significantly larger than us, have reported breaches of their computer systems that have resulted in the compromise of customer data.
+There is no guarantee that the procedures that we have implemented to protect against unauthorized access to secured data are adequate to safeguard against all data security breaches.

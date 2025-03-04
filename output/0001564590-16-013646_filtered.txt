@@ -1,0 +1,42 @@
+Our operating results in any given quarter can be influenced by numerous factors, many of which we are unable to predict or are outside of our control, including:
+·
+our ability to grow our user base and user engagement;
+·
+our ability to attract and retain advertisers and platform partners;
+·
+the occurrence of planned significant events, such as the World Cup, Super Bowl, Champions League Final, World Series, Olympics and the Oscars, or unplanned significant events, such as natural disasters and political revolutions;
+·
+the pricing of our products and services;
+·
+the development and introduction of new products or services or changes in features of existing products or services;
+·
+the impact of competitors or competitive products and services;
+·
+our ability to maintain or increase revenue;
+·
+our ability to maintain or improve gross margins and operating margins;
+·
+increases in research and development, marketing and sales and other operating expenses that we may incur to grow and expand our operations and to remain competitive;
+·
+stock-based compensation expense;
+·
+costs related to the acquisition of businesses, talent, technologies or intellectual property, including potentially significant amortization costs;
+·
+system failures resulting in the inaccessibility of our products and services;
+·
+breaches of security or privacy, and the costs associated with remediating any such breaches;
+·
+adverse litigation judgments, settlements or other litigation-related costs, and the fees associated with investigating and defending claims;
+·
+changes in the legislative or regulatory environment, including with respect to security, privacy or enforcement by government regulators, including fines, orders or consent decrees;
+·
+fluctuations in currency exchange rates and changes in the proportion of our revenue and expenses denominated in foreign currencies;
+·
+changes in U.S. generally accepted accounting principles; and
+·
+changes in global business or macroeconomic conditions.
+If our security measures are breached, or if our products and services are subject to attacks that degrade or deny the ability of users to access our products and services, our products and services may be perceived as not being secure, users and advertisers may curtail or stop using our products and services and our business and operating results could be harmed.
+Our products and services involve the storage and transmission of users’ and advertisers’ information, and security breaches expose us to a risk of loss of this information, litigation and potential liability.
+We experience cyber-attacks of varying degrees on a regular basis, and as a result, unauthorized parties have obtained, and may in the future obtain, access to our data or our users’ or advertisers’ data.
+For example, in February 2013, we disclosed that sophisticated unknown third parties had attacked our systems and may have had access to limited information for approximately 250,000 users.
+However, various events outside of our control pose a threat to our intellectual property rights, as well as to our products, services and technologies.

@@ -1,0 +1,5 @@
+System disruptions and security threats to our computer networks, including breach of the personal information we collect, could have a material adverse effect on our business and our reputation.
+However, despite network security measures, our servers and the servers at our service providers are potentially vulnerable to physical or electronic unauthorized access, computer hackers, computer viruses, malicious code, organized cyber attacks and other security problems and system disruptions.
+Despite the precautions we and our service providers have taken, our systems may still be vulnerable to these threats.
+Possession and use of personal information in our operations also subjects us to legislative and regulatory burdens that could restrict our use of personal information and require notification of data breaches.
+Sustained or repeated system failures or security breaches that interrupt our ability to process information in a timely manner or that result in a breach of proprietary or personal information could have a material adverse effect on our operations and our reputation.

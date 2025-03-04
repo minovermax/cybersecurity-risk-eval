@@ -1,0 +1,4 @@
+Moreover, despite network security and back-up measures, some of our and our vendors’ servers are potentially vulnerable to physical or electronic break-ins, including cyber-attacks, computer viruses and similar disruptive problems.
+The techniques used by criminal elements to attack computer systems are sophisticated, change frequently and may originate from less regulated and remote areas of the world.
+Our internal computer systems, or those of our collaborators or other contractors or consultants, may fail or suffer security breaches, which could result in a material disruption and cause our business and reputation to suffer.
+In the ordinary course of business, our internal computer systems and those of our current and any future collaborators and other contractors or consultants are vulnerable to damage from computer viruses, unauthorized access, natural disasters, terrorism, war and telecommunication and electrical failures.

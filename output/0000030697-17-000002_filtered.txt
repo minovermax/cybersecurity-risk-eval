@@ -1,0 +1,8 @@
+There can be no assurance that the cyber policies maintained by the Company will cover substantially all of the Company’s costs and expenses incurred related to the cybersecurity incidents described below in this Item 1A and in “Item 3.
+Also, despite our considerable efforts and technological resources to secure our computer systems and information technology, security breaches, such as unauthorized access and computer viruses, may occur, resulting in system disruptions, shutdowns or unauthorized disclosure of confidential information.
+The occurrence of cyber incidents, or a deficiency in cybersecurity, could negatively impact our business by causing a disruption to our operations, a compromise or corruption of confidential information, and/or damage to our employee and business relationships, all of which could subject us to loss and harm the Wendy’s brand.
+More specifically, a cyber incident is an intentional attack or an unintentional event that can include gaining unauthorized access to systems to disrupt operations, corrupt data or steal confidential information about customers, franchisees, vendors and employees.
+A number of retailers and other companies have recently experienced serious cyber incidents and breaches of their information technology systems.
+Certain of Our Franchisees have Experienced Cybersecurity Incidents.
+The Company believes the criminal cyberattacks resulted from service providers’ remote access credentials being compromised, allowing access, and the ability to deploy malware, to some franchisees’ point-of-sale systems.
+These civil proceedings seek damages and other relief allegedly arising from the cybersecurity incident.

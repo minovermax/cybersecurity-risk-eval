@@ -1,0 +1,9 @@
+As a result, there is no guarantee that we will recover any amounts with respect to losses due to breaches by the sellers of their representations and warranties.
+Cyber threats and the risk of data breaches or disruptions of our managers’ or our own information technology systems could materially adversely affect our business.
+These threats can be introduced in any number of ways, including through third parties accessing our hotel managers’ information networks and systems.
+The risks from these cyber threats are significant and, Marriott International, the manager of a majority of our hotels, experienced a material data security breach involving the unauthorized access to the Starwood guest reservation database between 2014 and 2018.
+We rely on the security systems of our managers to protect proprietary and hotel customer information from these threats.
+All our major hotel management companies and a majority of our third-party operators maintain insurance against cyber threats.
+There can be no assurance that the security measures we have taken to protect the contents of these systems will prevent failures, inadequacies or interruptions in system services or that system security will not be breached through physical or electronic break-ins, computer viruses, and attacks by hackers.
+Disruptions in service, system shutdowns and security breaches in the information technologies and
+systems we use, including unauthorized disclosure of confidential information, could have a material adverse effect on our business, our financial reporting and compliance, and subject us to liability claims or regulatory penalties, which amounts could be significant.

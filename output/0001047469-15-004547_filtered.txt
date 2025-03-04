@@ -1,0 +1,9 @@
+A security breach or cyber-attack of our website or information technology systems could damage our reputation and our relationships with our customers or employees, expose us to litigation risk and adversely affect our business and the trading price of our common stock.
+A security breach or cyber-attack could adversely affect our business and operations, including damaging our reputation and our relationships with our customers and employees, and exposing us to risks of litigation and liability.
+We cannot assure that any breaches, attacks or unauthorized disclosures will not occur.
+In addition, as a result of recent security breaches at a number of prominent retailers, the media and
+public scrutiny of information security and privacy has become more intense.
+Even if we are compliant with such standards, we still may be vulnerable and unable to prevent security breaches involving customer transaction data.
+We are also vulnerable to certain additional risks and uncertainties associated with our e-commerce websites, including: changes in required technology interfaces; website downtime and other technical failures; costs and technical issues as we upgrade our website software; computer viruses; changes in applicable federal and state regulations; security breaches; and consumer privacy concerns.
+Such systems are subject to damage or interruption from power outages, computer and telecommunications failures, computer viruses, security breaches, fire and natural disasters.
+We are vulnerable to various risks and uncertainties associated with our websites, including changes in required technology interfaces, website downtime and other technical failures, costs and technical issues as we upgrade our website software, computer viruses, changes in applicable federal and state regulation, security breaches, legal claims related to our website operations and e-commerce fulfillment and other consumer privacy concerns.

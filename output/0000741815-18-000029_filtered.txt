@@ -1,0 +1,8 @@
+In addition, computer malware, viruses, hacking and phishing attacks, and spamming could harm our business and results of operations.
+Attacks on our information technology systems, or failure in these systems, could disrupt its operations and cause the loss of confidential information, customers and business opportunities or otherwise adversely impact its business.
+Moreover, despite the security measures we have implemented, our IT systems may be subject to physical or electronic intrusions, computer viruses, unauthorized tampering and similar disruptive problems.
+In addition, we continue to strengthen precautionary measures to reduce the risk of, and to detect and respond to, future cyber threats.
+However, cyber threats are constantly evolving, thereby increasing the difficulty of detecting and successfully defending against them.
+Breaches of our network or data security could disrupt the security of our internal systems and business applications, impair our ability to provide services to its customers, compromise intellectual property or confidential information or otherwise adversely impact the business.
+There can
+be no assurances that our precautionary measures will prevent or successfully defend against cyber threats that could have a significant impact on the business.

@@ -1,0 +1,6 @@
+The risks and uncertainties that come with a digital presence include competition from more established competitors in the marketplace, responding quickly to consumer traffic patterns, supporting demand outside our
+current distribution channels, and additional cybersecurity risks.
+Our business depends on information technology systems and digital capabilities that are implemented in a manner intended to minimize the risk of a cybersecurity breach or other such threat, including the misappropriation of assets or other sensitive information or data corruption, which could cause operational disruption.
+We cannot guarantee that our cybersecurity measures will completely prevent others from obtaining unauthorized access to our enterprise network, system and data.
+If we are the target of a cybersecurity attack resulting in unauthorized disclosure of sensitive or confidential data, we may be required to execute costly notification procedures.
+In addition, catastrophic events, or the threat thereof, can adversely affect U.S. and world economies, and could result in delayed or lost sales of our products.

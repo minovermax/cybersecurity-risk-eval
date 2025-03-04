@@ -1,0 +1,9 @@
+However, despite our safeguards and security processes and protections, security breaches could expose us to a risk of loss or misuse of this information, litigation, and potential liability.
+The retail industry, in particular, has been the target of many recent cyber-attacks.
+We may not have the resources to anticipate or prevent rapidly evolving types of cyber-attacks.
+In addition, even if we take appropriate measures to safeguard our information security and privacy environment from security breaches, we could still expose our customers and our business to risk.
+Measures we implement to protect against cyber-attacks may also have the potential to impact our customers’ shopping experience or decrease activity on our websites by making them more difficult to use.
+Data and security breaches can also occur as a result of non-technical issues, including intentional or inadvertent breach by our employees or
+by persons with whom we have commercial relationships that result in the unauthorized release of personal or confidential information.
+In addition, the regulatory environment surrounding information security, cybersecurity, and privacy is increasingly demanding, with new and changing requirements, and customers have a high expectation that the Company will adequately protect their personal information from cyber-attack or other security breaches.
+Security breaches and cyber incidents could result in a violation of applicable privacy and other laws, significant legal and financial exposure, and a loss of consumer confidence in our security measures, which could have an adverse effect on our results of operations and our reputation.

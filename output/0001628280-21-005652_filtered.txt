@@ -1,0 +1,7 @@
+Information technology system failures, network disruptions or cyber security breaches could adversely affect our business.
+In addition, these systems, networks, and infrastructure may be vulnerable to deliberate cyber-attacks that interfere with their functionality or the confidentiality of our data or information or our customers’ data or information.
+Increasingly advanced cyber-attacks against rapidly evolving computer technologies pose a risk to the security of our systems, networks, information and data.
+Likewise, cyber incidents, including malicious cyber-attacks perpetrated on our employees and cyber incidents caused by third parties surreptitiously accessing our systems by other means, pose a risk to the security of the systems, networks, information and data of ours, our customers, subcontractors and suppliers.
+Despite efforts to protect confidential business information, personal data of ours, our customers, employees, suppliers and subcontractors, our
+information technology systems and those of our third-party service providers may be subject to system breaches.
+System breaches can lead to disclosure, modification and destruction of proprietary business data, personally identifiable information, other sensitive information, production downtime or loss of business, and damage to our reputation, competitiveness and operations.

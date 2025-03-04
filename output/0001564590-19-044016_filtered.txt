@@ -1,0 +1,3 @@
+Our servers or cloud-based systems could be affected by physical or electronic break-ins, and computer viruses or similar disruptions may occur.
+The frequency of data breaches of companies and governments has increased in recent years as the number, intensity and sophistication of attempted attacks and intrusions from around the world have increased.
+Although we maintain insurance coverage for various cybersecurity risks, there can be no guarantee that all costs incurred will be fully insured.

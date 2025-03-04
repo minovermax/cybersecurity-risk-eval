@@ -1,0 +1,9 @@
+Remote work arrangements could increase operational risk, including, but not limited to, cybersecurity risks.
+In connection with our insurance operations, plaintiffs’ lawyers may bring or are bringing class actions and individual suits alleging, among other things, issues relating to sales or underwriting practices, claims payments and procedures, escheatment, product design, disclosure, administration, investments, denial or delay of benefits, lapse or termination of policies, cost of insurance and breaches of fiduciary or other duties to customers.
+Such computer systems have been, and will likely continue to be, subject to a variety of forms of cyberattacks with the objective of gaining unauthorized access to our systems and data or disrupting our operations.
+These include, but are not limited to, phishing attacks, account takeover attempts, malware, ransomware, denial of service attacks, and other computer-related penetrations.
+Administrative and technical controls and other preventive actions taken to reduce the risk of cyber-incidents and protect our information technology may be insufficient to prevent physical and electronic break-ins, cyberattacks or other security breaches to such computer systems.
+In some cases, such physical and electronic break-ins, cyberattacks or other security breaches may not be immediately detected.
+In addition, our transition to our flexible, hybrid work model, which allows our employees the option to work fully remote, could increase our operational risk, including, but not limited to, cybersecurity risks, and could impair our ability to manage our business.
+See “Business - Regulation - Cybersecurity Regulation.” Our third-party service-providers and our employees have access to, and routinely process, personal information through a variety of media, including information technology systems.
+Additionally, our data has been the subject of cyberattacks and could be subject to additional attacks.

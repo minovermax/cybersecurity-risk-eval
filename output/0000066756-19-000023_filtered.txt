@@ -1,0 +1,8 @@
+Risk Factors (Continued)
+Entity-wide Risks (Continued)
+We are vulnerable to acts of terrorism or cybersecurity attacks.
+There have been cybersecurity attacks on U.S. energy infrastructure in the past and there may be such attacks in the future.
+Computer viruses, terrorism, theft and sabotage could impact our systems and facilities, or those of third parties on which we rely, which may disrupt our operations.
+Although we maintain security measures designed to prevent cybersecurity incidents and protect our information technology and control systems, network infrastructure and other assets, our technology systems, or those of third parties on which we rely, may be vulnerable to disability, failures or unauthorized access due to hacking, viruses, acts of war or terrorism and other causes.
+If our business were impacted by terrorist activities or cybersecurity attacks, such impacts could have an adverse effect on our financial position, results of operations and cash flows.
+Our transmission systems and electric generation facilities are subject to the NERC mandatory reliability standards, including cybersecurity standards.

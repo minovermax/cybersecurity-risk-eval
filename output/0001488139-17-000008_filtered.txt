@@ -1,0 +1,2 @@
+Despite our implementation of security measures, our IT systems, like those of other companies, are vulnerable to damages from computer viruses, natural disasters, unauthorized access, cyber attack and other similar disruptions.
+In addition, we may be required to incur significant costs to protect against damage caused by these disruptions or security breaches in the future.

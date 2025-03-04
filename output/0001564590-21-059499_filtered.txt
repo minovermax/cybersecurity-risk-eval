@@ -1,0 +1,26 @@
+The ongoing COVID-19 pandemic, including the emergence of variants for which vaccines may not be effective, may negatively affect our business by causing or contributing to, among other things:
+Potential negative impacts of the pandemic include, but are not limited to, the following:
+•
+Reduction in customer demand for citrus products and decreased consumer spending levels, which could materially and adversely affect our results of operations;
+•
+Potential disruption of services and deliveries of equipment and supplies on which we rely to produce and deliver our harvested citrus to producers and fulfilling deliveries to production plants, any of which could materially and adversely affect our business or reputation;
+•
+We may be unable to obtain financing in the current economic environment on terms that are favorable or acceptable to us, or at all, which could impair our cash flows and restrict our ability to execute on our strategic initiatives and react to changes in our business or the environment;
+•
+There could be increased volatility in our stock price related to the pandemic, which could result in the loss of some or all of the value of an investment in the Company;
+•
+Our ability to maintain our workforce during these uncertain times, which could materially and adversely affect our results of operations;
+•
+Increase in employee absenteeism of employees of the Company and of our independent contractor service providers (such as contracted field workers) due to fear of infection, which could materially and adversely affect our results of operations;
+•
+Increase in possible lawsuits or regulatory actions due to COVID-19 spread in the workplace which could materially and adversely affect our results of operations;
+•
+Spread of COVID-19 in our workplace, which could materially and adversely affect our business and reputation;
+•
+Increase in the possibility of cybersecurity-related events such as COVID-19 themed phishing attacks and other security challenges, particularly as attributable to a substantial number of our employees and suppliers working remotely, which could materially and adversely affect our business and reputation; and
+•
+Adverse impact on the productivity of management and our employees that are working remotely, including an impact on our ability to maintain our financial reporting processes and related controls and our ability to manage complex accounting issues presented by the COVID-19 pandemic which could materially and adversely affect our business and reputation.
+System security risks, data protection breaches, cyber-attacks and systems integration issues could disrupt our internal operations or services provided to customers, and any such disruption could reduce our expected revenues, increase our expenses, damage our reputation and adversely affect our stock price.
+Computer programmers and hackers may be able to penetrate our network security and misappropriate or compromise our confidential information or that of third parties, create system disruptions or cause shutdowns.
+The costs to us to eliminate or alleviate cyber or other security problems, bugs, viruses, worms, malicious software programs and security vulnerabilities could be significant, and our efforts to address these problems may not be
+successful and could result in interruptions, delays, cessation of service and loss of existing or potential customers that may impede our sales, distribution or other critical functions.

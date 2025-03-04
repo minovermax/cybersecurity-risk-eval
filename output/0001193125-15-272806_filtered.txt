@@ -1,0 +1,13 @@
+PART I
+Item 1A
+Cyber-attacks and security vulnerabilities could lead to reduced revenue, increased costs, liability claims, or harm to our competitive position.
+Individual and groups of hackers, and sophisticated organizations including state-sponsored organizations or nation-states themselves, may take steps that pose threats to our customers and our IT.
+Cyber threats are constantly evolving, thereby increasing the difficulty of detecting and successfully defending against them.
+Cyber threats can have cascading impacts that unfold with increasing speed across our internal networks and systems, and those of our partners and customers.
+Breaches of our network or data security could disrupt the security of our internal systems and business applications, impair our ability to provide services to our customers and protect the privacy of their data, result in product development delays, compromise confidential or technical business information harming our competitive position, result in theft or misuse of our intellectual property or other assets, require us to allocate more resources to improved technologies, or otherwise adversely affect our business.
+Security of our products, services, devices, and customers’ data
+Security threats are a particular challenge to companies like us whose business is technology products and services.
+Threats to our own IT infrastructure can also affect our customers.
+Hackers tend to focus their efforts on the most popular operating systems, programs, and services, including many of ours, and we expect that to continue.
+Customers may also spend more on protecting their existing computer systems from attack, which could delay adoption of additional products or services.
+The continued occurrence of high-profile data breaches provides evidence of an external environment increasingly hostile to information security.

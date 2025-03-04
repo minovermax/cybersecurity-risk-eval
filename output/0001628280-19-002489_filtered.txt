@@ -1,0 +1,4 @@
+The Company’s information technology systems could suffer interruptions, failures or breaches and our business operations could be disrupted adversely effecting results of operations and the Company’s reputation.
+These systems could be damaged or cease to function properly due to any number of causes, such as catastrophic events, power outages, security breaches, computer viruses or cyber-based attacks.
+However, the ever-evolving threats mean the Company and its third-party service providers and vendors must continually evaluate and adapt respective systems and processes and overall security environment, as well as those of any companies acquired.
+There is no guarantee that these measures will be adequate to safeguard against all data security breaches, system compromises or misuses of data.

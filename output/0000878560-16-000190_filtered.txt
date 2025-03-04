@@ -1,0 +1,3 @@
+While we take measures to ensure our major systems have redundant capabilities, our systems are susceptible to outages from fire, floods, power loss, telecommunications failures, break-ins, cyber attacks and similar events.
+Despite our implementation of network security measures, our servers are vulnerable to computer viruses, break-ins and similar disruptions resulting from unauthorized tampering with our computer systems.
+As a result, we may be required to incur significant costs to protect against damage caused by these disruptions or security breaches in the future.

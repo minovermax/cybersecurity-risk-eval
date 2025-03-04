@@ -1,0 +1,5 @@
+We may also be impacted by breaches of our third-party processors.
+Although no breaches have had a direct, material impact on us, we are unable to predict the direct or indirect impact of any future attacks to our business.
+In addition, numerous and evolving cybersecurity threats, including advanced and persistent cyber-attacks, phishing and social engineering schemes, particularly on internet applications, could compromise the confidentiality, availability, and integrity of data in our systems.
+The security measures and procedures we, our clients and third-party service providers have in place to protect sensitive data and other information may not be successful or sufficient to counter all data breaches, cyber-attacks, or system failures.
+Although we devote resources to our cybersecurity programs and have implemented security measures to protect our systems and data, and to prevent, detect and respond to data security incidents, there can be no assurance that our efforts will prevent these threats.

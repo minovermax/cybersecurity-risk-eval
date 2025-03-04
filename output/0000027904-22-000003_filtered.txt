@@ -1,0 +1,5 @@
+Breaches or lapses in the security of the technology systems we use and rely on and the data stored within them, as well as ever-evolving global privacy and security regulatory obligations, could have a material adverse effect on our business.
+Our information systems and those of our service providers are subject to an increasing threat of continually evolving cybersecurity risks, and the increase in work-from-home arrangements since the onset of the COVID-19 pandemic could potentially enhance these risks.
+As a result of these types of risks and regular attacks on our systems, we regularly review and update procedures and processes to prevent and protect against unauthorized access to our systems and information and inadvertent misuse of data.
+However, the constantly changing nature of the threats means that we may not be able to prevent all information security breaches or misuse of data.
+The costs to remediate breaches and similar system compromises that do occur could be material.

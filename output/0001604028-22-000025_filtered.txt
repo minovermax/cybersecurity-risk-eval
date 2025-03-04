@@ -1,0 +1,11 @@
+Advanced Drainage Systems, Inc.
+Cybersecurity attacks may threaten our confidential information, disrupt operations and result in harm to our reputation and adversely impact our business and financial performance.
+In the conduct of our business, we collect, use, transmit and store data on information systems, which are vulnerable to
+disruption and an increasing threat of continually evolving cybersecurity risks.
+Cybersecurity attacks across industries are increasing in sophistication and frequency and may range from uncoordinated individual attempts to targeted measures.
+Cybersecurity failures may be caused by employee error, malfeasance, other corporate or governmental actors, system errors or vulnerabilities, including vulnerabilities of our vendors, suppliers, and their products.
+While we have been subject to cybersecurity attacks in the past, that (based on information known to date) did not have a material impact on our financial condition or results of operations, we may experience such attacks in the future, potentially with more frequency or sophistication which may have a material impact on our financial condition or results of operations.
+Failures of our IT systems as a result of cybersecurity attacks or other disruptions could result in a breach of critical operational or financial controls and lead to a disruption of our operations, commercial activities or financial processes.
+Cybersecurity attacks or other disruptions impacting significant customers and/or suppliers could also lead to a disruption of our operations.
+Despite our attempts to safeguard our systems and mitigate potential risks, there is no assurance that such actions will be sufficient to prevent cyberattacks or security breaches that manipulate or improperly use our systems or networks, compromise confidential or otherwise protected information, destroy or corrupt data, or otherwise disrupt our operations.
+Additionally, our key partners, distributors or suppliers could experience a compromise of their information security due to a cybersecurity attack, which may have an impact on our business and financial performance.

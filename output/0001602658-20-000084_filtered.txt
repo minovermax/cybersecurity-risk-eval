@@ -1,0 +1,10 @@
+In addition, a cybersecurity event impacting us or our customers’ data could have a negative impact on our reputation and could materially damage our customers’ confidence in, and willingness to do business with, us.
+Cyber-attacks or other security breaches could adversely affect our operations, net income or reputation.
+Threats to data security, including unauthorized access and cyber-attacks, rapidly emerge and change, exposing us to additional costs for protection or remediation and competing time constraints to secure our data in accordance with customer expectations and statutory and regulatory requirements.
+The increasing sophistication of cyber-criminals makes it extremely difficult to keep up with new threats and could result in a breach of our data security.
+Cyber threats are rapidly evolving and we may not be able to anticipate or prevent all such attacks.
+As a result of any of these threats, our computer systems and/or our customer accounts could become vulnerable to misappropriation of confidential information, account takeover schemes or cyber-fraud.
+We may not be able to anticipate all cyber security breaches or implement effective preventative measures against such breaches.
+Certain fraud risks, including identity theft and account takeover may increase as a result of customers’ account or personally identifiable information being obtained through breaches of retailers’ or other third parties’ networks.
+We also may be subject to disruptions of our operating systems arising from events that are wholly or partially beyond our control (for example, computer viruses or electrical or telecommunications outages), which may give rise to disruption of service to customers and to financial loss or liability.
+Investment in new technology to stay competitive would result in significant costs and increased risks of cyber-attacks.

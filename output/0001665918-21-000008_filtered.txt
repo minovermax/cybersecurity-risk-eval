@@ -1,0 +1,6 @@
+A cybersecurity incident may negatively affect our business and our relationships with customers.
+The use of these networks and systems gives rise to cybersecurity risks, and the risk of other security breaches (including access to or acquisition of supplier, customer, employee or other confidential information).
+Since the outbreak of the COVID-19 pandemic in March 2020, there have been reports of a surge in widespread cyberattacks, particularly with the increase in the number of employees working remotely from home and not in their usual office environment which exacerbate the aforementioned risks.
+While we have implemented measures to prevent security breaches, disruptions or other system failures, our preventative measures and incident response efforts may not be entirely effective.
+The cost to remediate damages to our information technology systems suffered as a result of a cyberattack or other unauthorized access to secured data could be significant.
+In addition, in the event our suppliers or customers experience a breach or system failure, cyberattack or other security breach, their businesses could be disrupted or otherwise negatively affected, which may result in a disruption in our supply chain or reduced customer orders, which would adversely affect our business, financial condition and results of operations.

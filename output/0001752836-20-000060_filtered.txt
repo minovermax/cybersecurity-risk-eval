@@ -1,0 +1,14 @@
+If our information systems (or third-party systems we rely on) are interrupted, damaged by unforeseen events, are subject to cyberattacks or fail for any extended period of time or unauthorized access is obtained to a Customer’s or their Client’s data, we may incur significant liabilities, our service may be perceived as not being secure, Customers may curtail or stop using our products or services and our results of operations could be materially adversely affected.
+In addition, we develop products and provide services to our Customers that are technology-based, and a cyberattack that bypasses the IS security systems of our products or services causing a security breach and/or perceived security vulnerabilities in our products or services could also cause significant reputational harm, and actual or perceived vulnerabilities may lead to claims against us by our Customers, their clients and/or governmental agencies.
+Additionally, changes in the legislative or regulatory action related to cybersecurity may increase our costs to develop or implement new technology-based products and services.
+Risks associated with these and other actual or perceived IS security breaches may include, among other things:
+•
+the theft, destruction, loss, misappropriation or release of confidential data or intellectual property,
+•
+operational or business delays resulting from the disruption of information systems and subsequent clean-up and mitigation activities,
+•
+the need to continually evolve procedures and safeguards to meet new IS challenges, and enhancing protections, and conducting investigations and remediation, may impose additional costs on us,
+•
+claims, fines and penalties, and costs for remediation, or substantial defense and settlement expenses, and
+•
+negative publicity resulting in reputation or brand damage with our Customers or Animal Owners, suppliers or industry peers or the loss of sales or Customers.

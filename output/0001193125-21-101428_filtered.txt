@@ -1,0 +1,3 @@
+Our information systems, and those of our service and support providers, are vulnerable to an increasing threat of continually evolving cybersecurity risks.
+Computer viruses, hackers and other external hazards, as well as improper or inadvertent staff behavior could expose confidential company and personal data systems and information to security breaches.
+However, we remain at risk of a data breach due to the intentional or unintentional non-compliance by a vendor’s employee or agent, the breakdown of a vendor’s data protection processes, or a cyber-attack on a vendor’s information systems or our information systems.

@@ -1,0 +1,84 @@
+These factors include the following:
+•
+deterioration of global economic and financial conditions as well as their impact on e-commerce, financial services, and the communications and Internet industries;
+•
+volume of new domain name registrations and renewals;
+•
+our success in direct marketing and promotional campaigns and the impact of such campaigns on new registrations and renewal rates;
+•
+any changes to the scope and success of marketing efforts by third-party registrars or their resellers in the case of our Registry Services business, and by our sales channels, including resellers, referrers and OEMs, in the case of our NIA Services business;
+•
+market acceptance of our services by our existing customers and by new customers;
+•
+customer renewal rates and turnover of customers of our services, and in the case of our Registry Services business, the customers of the distributors of our services;
+•
+continued development of our distribution channels for our products and services, both in the U.S. and abroad;
+•
+the impact of price changes in our products and services or our competitors’ products and services;
+•
+the impact of decisions by distributors to offer competing or replacement products, including ccTLDs and new gTLDs, or modify or cease their marketing practices, including with respect to new gTLDs;
+•
+the impact of ICANN’s Registry Agreement for new gTLDs (the “New gTLD Registry Agreement”), which requires the distribution of new gTLDs only through registrars who have executed the 2013 Registrar Accreditation Agreement (“the 2013 RAA”) as well as accepting a unilateral right of ICANN to amend the New gTLD Registry Agreement;
+•
+the availability of alternatives to our products;
+•
+seasonal fluctuations in business activity;
+•
+the introduction of new gTLDs, which could cause security, stability and resiliency problems that could possibly harm the industry and could substantially and permanently harm our business;
+•
+in the case of our NIA Services business, the long sales cycles for some of our services and the timing and execution of individual customer contracts;
+•
+potential attacks, including hacktivism, by nefarious actors, which could threaten the reliability or the perceived reliability of our products and services;
+•
+potential attacks on the service offerings of our distributors, such as DDoS attacks, which could limit the availability of their service offerings and their ability to offer our products and services;
+•
+changes in policies regarding Internet administration imposed by governments or governmental authorities inside or outside the U.S.;
+•
+potential disruptions in regional registration behaviors due to catastrophic natural events or armed conflict;
+•
+changes in the level of spending for information technology-related products and services by our customers; and
+•
+the uncertainties, costs and risks as a result of the sale of our Authentication Services business, including costs related to any retained liability related to existing and future claims.
+The successful operation of our business depends on numerous factors, many of which are not entirely under our control, including, but not limited to, the following:
+•
+the use of the Internet and other IP networks, and the extent to which domain names and the DNS are used for e-commerce and communications;
+•
+changes in Internet user behavior, Internet platforms, social networks, mobile devices and web-browsing patterns;
+•
+growth in demand for our services;
+•
+the competition for any of our services;
+•
+the perceived security of e-commerce and communications over the Internet;
+•
+the perceived security of our services, technology, infrastructure and practices;
+•
+the loss of customers through industry consolidation or customer decisions to deploy in-house or competitor technology and services;
+•
+our continued ability to maintain our current, and enter into additional, strategic relationships;
+•
+our ability to successfully market our services to new and existing distributors and customers;
+•
+our ability to develop new products, services or other offerings;
+•
+our success in attracting, integrating, training, retaining and motivating qualified personnel;
+•
+our response to competitive developments;
+•
+the successful introduction, and acceptance by our current or new customers, of new products and services;
+•
+potential disruptions in regional registration behaviors due to catastrophic natural events, armed conflict and currency fluctuations;
+•
+seasonal fluctuations in business activity;
+•
+our ability to implement remedial actions in response to any attacks by nefarious actors;
+•
+the successful introduction of enhancements to our services to address new technologies and standards, alternatives to our products and services and changing market conditions; and
+•
+the successful introduction and compliance with Consensus Policies as they pertain to thick WHOIS and privacy issues for personally identifiable information of .com and .net registrants.
+If we experience security breaches, we could be exposed to liability and our reputation and business could suffer.
+The Company, as an operator of critical Internet infrastructure, is frequently targeted and experiences a high rate of attacks.
+Despite our security measures, we have been subject to a security breach, as disclosed in our Quarterly Report on Form 10-Q for the quarter ended September 30, 2011, and our infrastructure may in the future be vulnerable to physical break-ins, outages resulting from destructive malcode, computer viruses, attacks by hackers or nefarious actors or similar disruptive problems, including hacktivism.
+Any successful attack, or partially successful attack, could disrupt our networks, increase response time, and generally hamper our ability to provide reliable service to our Registry Services customers and the broader Internet community.
+Although our contracts with these customers provide that we may prioritize all or part of these services at no liability to us in order to preserve our operational stability, the provision of such services might expose our critical DNS services to temporary degradations or outages caused by very large-scale DDoS attacks against those customers, in addition to any directed specifically against us and our networks.
+For example, the increase in the number of gTLDs for which we provide registry services on a standalone basis or as a back-end service provider could further increase costs or increase the frequency or scope of targeted attacks from nefarious actors.

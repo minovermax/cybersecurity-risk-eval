@@ -1,0 +1,4 @@
+Our ability to operate effectively on a day-to-day basis and accurately report our results depends on a solid technological infrastructure, which is inherently susceptible to internal and external threats.
+We are vulnerable to interruption by fire, natural disaster, power loss, telecommunication failures, internet failures, security breaches and other catastrophic events.
+We have designed numerous procedures and protocols to mitigate cybersecurity risks.
+In the event a cybersecurity threat occurs, we have processes in place to timely notify the appropriate personnel for assessment and resolution.

@@ -1,0 +1,43 @@
+These transactions involve numerous risks to our business, financial condition and operating results, including but not limited to:
+•
+experiencing difficulty in identifying suitable acquisition candidates and completing selected transactions at appropriate valuations, in a timely manner, on a cost-effective basis or at all, due to substantial competition for acquisition targets;
+•
+inability to successfully integrate any acquisitions into our existing business operations;
+•
+failure to realize the anticipated synergies or other benefits of any such transaction;
+•
+entering into markets in which we have no or limited prior experience;
+•
+finding acquirors and obtaining adequate value in connection with divesting businesses that no longer meet our objectives;
+•
+inability to complete proposed transactions due to failure to obtain regulatory or other approvals;
+•
+requirements imposed by government regulators in connection with their review of a transaction, which may include, among other things, divestitures and restrictions on the conduct of our existing business or the acquired business;
+•
+undertaking multiple transactions at the same time in order to take advantage of acquisition opportunities that do arise, which could strain our ability to effectively execute and integrate such transactions;
+•
+diversion of management’s attention from our day-to-day business due to dedication of significant management resources to such transactions;
+•
+employee uncertainty and lack of focus during integration process that may also disrupt our business;
+•
+the risk of litigation or claims associated with a proposed or completed transaction;
+•
+challenges associated with managing new, more diverse and more widespread operations, projects and people, potentially located in regions where we have not historically conducted or operated our business;
+•
+dependence on unfamiliar or less secure supply chains and inefficient scale of the acquired entity;
+•
+despite our due diligence, we could assume unknown, underestimated or contingent liabilities, such as potential environmental, health and safety liabilities of the acquired company;
+•
+an acquired technology or product may have inadequate or invalid intellectual property protection or may be subject to claims of infringement by a third party, which may result in lower than anticipated revenue or claims for damages;
+•
+we could experience negative effects on our reported results of operations from dilutive results from operations and/or from future potential impairment of acquired assets, including goodwill, related to future acquisitions;
+•
+an acquired company may have inadequate or ineffective internal control over financial reporting, disclosure controls and procedures, cybersecurity, privacy, environmental, health and safety, anti-bribery, anti-corruption, human resource, or other policies or practices;
+•
+reductions in cash balances or increases in debt obligations to finance activities associated with a transaction, which reduce the availability of cash flow for general corporate or other purposes, including share repurchases and dividends; and
+•
+difficulties in retaining key employees or customers of an acquired business.
+We may be subject to information technology system failures, network disruptions and breaches in data security, which could damage our reputation and adversely affect our financial condition, results of operations and cash flows.
+While we have implemented network security procedures, virus protection software, intrusion prevention systems, access control, emergency recovery processes and internal control measures, we have experienced, and expect to continue to be subject to, cybersecurity threats and incidents ranging from employee error or misuse, to individual attempts to gain unauthorized access to our systems, to sophisticated and targeted measures known as advanced persistent threats.
+Despite our precautions, information technology system failures, network disruptions and breaches of data security could cause disruption in our operations, issues with customer communication and order management, the unintentional disclosure of sensitive information, the disruption in our
+transaction processing or undermine the integrity of our disclosures controls and procedures and our internal control over our financial reporting, which could affect our reputation, result in significant liabilities and expenses, adversely affect our ability to report our financial results in a timely manner and could have a material adverse effect on our financial condition, results of operations and cash flows.

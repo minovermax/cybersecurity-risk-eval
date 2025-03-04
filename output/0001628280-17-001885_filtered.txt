@@ -1,0 +1,3 @@
+Moreover, despite network security measures, our servers are potentially vulnerable to digital break-ins, computer viruses and similar disruptive problems.
+These may be caused by natural disasters, accidents, power disruptions, telecommunications failures, acts of terrorism or war, computer viruses, physical or electronic break-ins, or similar events or disruptions.
+These security measures may be compromised as a result of third-party security breaches, fraud, employee error, malfeasance, faulty password management or other irregularities, and result in persons obtaining unauthorized access to our data or our customers’ accounts.

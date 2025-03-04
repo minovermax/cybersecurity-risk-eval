@@ -1,0 +1,17 @@
+There are numerous risks inherent in doing business in international markets, including:
+•fluctuations in currency exchange rates and interest rates;
+•varying regional and geopolitical business and economic conditions and demands;
+•compliance with applicable foreign regulations and licensing requirements, and U.S. laws and regulation with respect to conducting business in other countries, including export controls, sanctions, anti-terrorist, and anti-bribery laws;
+•the cost and uncertainty of obtaining data and creating solutions that are relevant to particular geographic markets;
+•the need to provide sufficient levels of technical support in different locations;
+•the complexity of maintaining effective policies and procedures in locations around the world;
+•political instability and civil unrest;
+•increased risk of hacking, malware or security breaches of our data and databases;
+•restrictions or limitations on outsourcing contracts or services abroad;
+•restrictions or limitations on the repatriation of funds, or tax consequences on the non-repatriation of overseas operationally generated funds; and
+•other potentially adverse tax consequences.
+Significant disruptions of our information technology systems or breaches of information security could adversely affect our business.
+Furthermore, as we automate more of our inspection process and procedures, including through the use of Mistras Digital, we become more vulnerable to security breaches and other system disruptions.
+The size and complexity of our information technology and information security systems, and those of our third-party vendors with whom we contract (and the large amounts of confidential information that is present on them), make such systems potentially vulnerable to service interruptions or to security breaches from inadvertent or intentional actions by our employees or vendors, or from attacks by malicious third parties.
+While we have invested in the protection of data and information technology, there can be no assurance that our efforts will prevent service interruptions or security breaches.
+The occurrence or perception of security breaches in connection with our asset protection solutions or our customers’ concerns about internet security or the security of our solutions, whether warranted or not, would likely harm our reputation and business, inhibit market acceptance of our asset protection solutions and cause us to lose customers, any of which would harm our financial condition and results of operations.

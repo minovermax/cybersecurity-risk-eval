@@ -1,0 +1,3 @@
+Information technology failures or data security breaches could harm our business.
+Our computer systems and those of our third-party providers are subject to damage or interruption from power outages, computer and telecommunication failures, computer viruses, hackers, malware, unauthorized accesses, IT security breaches, natural disasters, usage errors by our employees or contractors, etc.
+Although we and our third-party service providers have implemented administrative and technical controls to address, mitigate and minimize these security issues, there is no guarantee that these measures will be adequate to safeguard against the evolving threats posed by data security breaches, system compromises and misuse of data.

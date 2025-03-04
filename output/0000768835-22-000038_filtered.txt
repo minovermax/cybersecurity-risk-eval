@@ -1,0 +1,5 @@
+Cybersecurity Risks
+If we are unable to secure customer, employee, vendor and company data, our systems could be compromised, our reputation could be damaged, and we could be subject to penalties or lawsuits.
+Despite our procedures, technologies and other information security measures, we cannot be certain that our information technology systems or the information technology systems of our third-party service providers are preventing, containing, or detecting, or will be able to prevent, contain or detect all cyberattacks, cyberterrorism, or security breaches.
+As evidenced by
+other retailers who have suffered serious security breaches, we may be vulnerable to data security breaches and data loss, including cyberattacks.

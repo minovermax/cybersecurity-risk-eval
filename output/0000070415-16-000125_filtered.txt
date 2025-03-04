@@ -1,0 +1,4 @@
+Our systems are susceptible to slow access and download times, outages from fire, floods, power loss, telecommunications failures, hacking, and similar events.
+Our servers are vulnerable to computer viruses, hacking, and similar disruptions from unauthorized tampering with our computer systems.
+We may also be subject to civil actions, regulatory enforcement actions, and criminal prosecution for breaches related to such data or need to expend significant capital and other resources to continue to protect against security breaches or to address any problem they may cause.
+In addition, our liability insurance, which includes cyber insurance, might not be sufficient in type or amount to cover us against claims related to security breaches, cyberattacks and other related breaches.

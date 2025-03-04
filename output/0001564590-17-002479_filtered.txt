@@ -1,0 +1,11 @@
+Moreover, the technology in our products is especially complex because it needs to effectively identify and respond to methods of attack and theft, while minimizing the impact on network, database, file system and web application performance.
+We may not offer updates as rapidly as new threats affect our customers or our newly developed products or enhancements may have defects, errors or failures.
+If we do not quickly respond to the rapidly changing and rigorous needs of our customers by developing and introducing on a timely basis new and effective products, upgrades and services that can respond adequately to new security threats, our competitive position, business and growth prospects will be harmed.
+Real or perceived errors, failures or bugs in our products, particularly those that result in our customers experiencing security breaches, could adversely affect our reputation and business could be harmed.
+If we fail to identify and respond to new and complex methods of attack and to update our products to detect or prevent such threats in time to protect our customers’ business-critical data and applications, our business and reputation will suffer.
+False detection of security breaches or false identification of malicious sources could adversely affect our business.
+Our cyber-security products may falsely detect threats that do not actually exist.
+For example, our ThreatRadar Reputation Services product relies on information on attack sources aggregated from third-party data providers who monitor global malicious activity originating from anonymous proxies, specific IP addresses, botnets and phishing sites.
+If our products and services restrict access to important databases, files or applications based on falsely identifying users or traffic as an attack or otherwise unauthorized, then our customers’ businesses could be adversely effected.
+Disclosing the source code of our proprietary software could make it easier for malicious third parties to discover vulnerabilities in our cyber-security products and allow our competitors to create similar products with decreased development effort and time.
+Because we are a leading provider of cyber-security products, hackers and others may try to access our data or compromise our systems.

@@ -1,0 +1,4 @@
+Specifically, our entry into the financial technology industry may present additional or heightened risks to our business including those relating to the management of information technology systems and infrastructure, cybersecurity, handling of confidential client and financial information and the protection and use of intellectual property.
+If any of these systems do not operate properly or are disabled for any reason or if there is any unauthorized disclosure of data, whether as a result of tampering, a breach of our network security systems, a cyber-incident or attack or otherwise, we could suffer financial loss, a disruption of our businesses, liability to our funds, regulatory intervention or reputational damage.
+Despite our implementation of a variety of security measures, our computer systems could be subject to cyber-attacks and unauthorized access, such as physical
+and electronic break-ins or unauthorized tampering.

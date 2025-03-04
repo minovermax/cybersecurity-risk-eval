@@ -1,0 +1,44 @@
+The New York State Department of Financial Services (NY DFS) also issued Cybersecurity Requirements for Financial Services Companies, effective in 2017, which require banks, insurance companies, and other financial services institutions regulated by the NY DFS to establish and maintain a cybersecurity program designed to protect consumers and ensure the safety and soundness of New York State’s financial services industry.
+Reputational issues include, but are not limited to:
+•
+negative news about Ocwen or the mortgage industry generally;
+•
+compliance with legal and regulatory requirements;
+•
+ethical issues, including alleged deceptive or unfair servicing or lending practices;
+•
+our practices relating to collections, foreclosures, property preservation, modifications, loans impacted by natural disasters, escrow and insurance;
+•
+consumer privacy issues;
+•
+consumer financial fraud issues;
+•
+data security issues related to our customers or employees;
+•
+cybersecurity issues and cyber incidents, whether actual, threatened, or perceived;
+•
+recordkeeping;
+•
+customer service or consumer complaints;
+•
+the proper identification of the legal, reputational, credit, liquidity and market risks inherent in our businesses;
+•
+a downgrade of or negative watch warning on any of our servicer or credit ratings;
+•
+appropriately addressing potential conflicts of interest; and
+•
+general company performance.
+Cybersecurity breaches or system failures may interrupt or delay our ability to provide services to our customers, expose our business and our customers to harm and otherwise adversely affect our operations.
+None of the cybersecurity incidents we have experienced to date has been material to our business, financial condition or operations.
+In addition, consumers generally are concerned with security breaches and privacy on the Internet, and Congress or individual states could enact new laws regulating the use of technology in our business that could adversely affect us or result in significant compliance costs.
+As such, the NY DFS Cybersecurity Regulation requires New York insurance companies, banks, and other regulated financial services institutions - including Ocwen as a non-bank financial services company licensed in the state of New York - to assess their cybersecurity risk profile.
+The NYDFS Cybersecurity regulation is designed to protect consumers and to “ensure the safety and soundness of the institution,” as well as New York State’s financial services industry.
+To comply, Ocwen has made enhancements to its existing cybersecurity program in accordance with the specific requirements of the NY DFS Cybersecurity Regulation.
+Security breaches, computer viruses, cyberattacks, hacking and other acts of vandalism could result in a compromise or breach of the technology that we use to protect our borrowers’ personal information and transaction data and other information that we must keep secure.
+Our financial, accounting, data processing or other operating systems and facilities may fail to operate properly or become disabled as a result of events that are wholly or partially beyond our control, such as a cyberattack, a spike in transaction volume or unforeseen catastrophic events, potentially resulting in data loss and adversely affecting our ability to process these transactions.
+If SIGTARP were to allege breaches of the HAMP program, such allegations could be referred to the enforcement authorities within the Department of the Treasury or the Department of Justice and if such enforcement authorities elected to take action against Ocwen, it could adversely affect our business, reputation and financial condition, regardless of the outcome of any such enforcement action.
+We could be materially adversely affected if an employee or employees, acting alone or in concert with non-affiliated third parties, causes a significant operational break-down or failure, either because of human error or where an individual purposefully sabotages or fraudulently manipulates our operations or systems, including, without limitation, by means of cyberattack or denial-of-service attack.
+Loan putbacks and related liabilities for breaches of representations and warranties regarding sold loans could adversely affect our business.
+A number of lawsuits have been filed against mortgage loan sellers related to repurchase claims arising out of alleged breaches of representations and warranties, and actions have also been filed against RMBS trustees alleging that the trustees breached their contractual and statutory duties by, among other things, failing to require the loan servicers to abide by the servicers’ obligations and failing to declare that certain alleged servicing events of default under the applicable contracts occurred.
+In several recent court actions, mortgage loan sellers against whom repurchase claims have been asserted based on alleged breaches of representations and warranties are defending on various grounds including the expiration of statutes of limitation, lack of notice and opportunity to cure, and vitiation of the obligation to repurchase as a result of foreclosure or charge-off of the loan.
+If, however, we were required to compensate claimants for losses related to the alleged loan servicing breaches, then our business, liquidity, financial condition and results of operations could be adversely affected.

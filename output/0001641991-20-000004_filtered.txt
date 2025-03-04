@@ -1,0 +1,5 @@
+If we are unable to protect our information systems against data corruption, cyber-based attacks or network security breaches, our operations could be disrupted.
+Despite our implementation of security measures, cybersecurity threats, such as malicious software, phishing attacks, computer viruses and attempts to gain unauthorized access, cannot be completely mitigated.
+Security breaches of our, our customers' and our vendors' IT infrastructure can create system disruptions, shutdowns or unauthorized disclosure of confidential information,
+including our intellectual property, trade secrets, customer information, other confidential business information or other information subject to data privacy laws.
+If we are unable to prevent, detect or adequately respond to such breaches, our operations could be disrupted, our competitiveness could be adversely affected or we may suffer financial damage or loss because of lost or misappropriated information or regulatory penalties.

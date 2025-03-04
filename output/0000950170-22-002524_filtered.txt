@@ -1,0 +1,5 @@
+Any security breach or incident, including personal data breaches, that we experience could result in unauthorized access to, or misuse, modification, destruction or unauthorized acquisition of, our internal sensitive corporate data, such as personal data, financial data, trade secrets, intellectual property, or other competitively sensitive or confidential data.
+Our systems have been the target of cyber-attacks.
+Although we have taken and continue to take steps to enhance our cybersecurity posture, we cannot assure that future cyber incidents will not occur or that our systems will not be targeted or breached in the future.
+Significant unavailability of our services due to attacks could cause us to incur significant liability, could cause users to cease using our services and materially and adversely affect our business, prospects, financial condition and results of operations.
+Moreover, the proliferation of supply chain-based cyberattacks and vendor security incidents increases these potential risks and costs even in cases where the attack did not target us, occur on our systems, or result from any action or inaction by us.

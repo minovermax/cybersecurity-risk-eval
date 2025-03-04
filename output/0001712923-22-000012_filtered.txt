@@ -1,0 +1,36 @@
+These risks and uncertainties include, but are not limited to, the following:
+•our proposed merger with Goldman Sachs may not be completed on a timely basis, on anticipated terms, or at all, and there are uncertainties and risks to consummating the merger;
+•current and uncertain future impact from COVID-19 on our business;
+•the non-exclusive, short term nature of our agreements with our Bank Partners;
+•our ability to retain existing, and attract new, merchants, Bank Partners and other funding sources;
+•the concentration of our revenue in our top ten merchants;
+•the effective promotion and support of the GreenSky program by our Sponsors and merchants;
+•our potential liability for remediation costs if our merchants fail to fulfill their obligations to consumers;
+•the results of any federal and state regulatory inquiries regarding our business;
+•changes in market interest rates;
+•loan delinquencies and default rates;
+•the performance of the participations we own in certain loans originated by Bank Partners through the GreenSky program;
+•the rate at which deferred interest loans are repaid prior to the end of the promotional period;
+•the accuracy of information about customers of our merchants and credit decisioning, pricing, loss forecasting and credit decisioning models;
+•fluctuations in the U.S. home improvement industry, given our concentration in that market;
+•our ability to operate successfully in the elective healthcare vertical and to comply with additional regulation of this market;
+•our ability to comply with the evolving regulation of the consumer finance industry;
+•cyber attacks, security breaches or other disruptions in the operation of our computer systems and third-party data centers; and
+•the control of us by the owners of Class B common stock.
+If any third-party vendor fails to provide the services we require, fails to meet contractual requirements (including compliance with applicable laws and regulations), fails to maintain adequate data privacy and electronic security systems, or suffers a cyber-attack or other security breach, we could be subject to CFPB, FTC and other regulatory enforcement actions and suffer economic and reputational harm that could have a material adverse effect on our business.
+The CCPA provides for civil penalties for violations and a private right of action for data breaches.
+Even if we remain in compliance with PCI DSS, we still may not be able to prevent security breaches involving customer transaction data.
+However, if a court, or a state or federal enforcement agency, were to successfully challenge the participation structure and recharacterize us or the purchaser of a participation as the “true lender” or as a loan assignee, and if for this reason (or any other reason) the loans were deemed subject to and in violation of certain consumer finance laws, we could be subject to fines, damages, injunctive relief (including required modification or discontinuation of our business in certain areas), and other penalties or consequences, the loans could be rendered void or unenforceable in whole or in part, and we could be subject to claims for damages or other remedies related to breaches of certain representation and warranties we make to purchasers of participations or to obligations to repurchase loan participations previously sold to purchasers, any of which could have a material adverse effect on our business.
+If the FDIC successfully repudiated any loan participation transfers, we could be subject to claims for damages or other remedies related to breaches of certain representations and warranties we make to purchasers of participations or obligations to repurchase loan participations previously sold to purchasers, any of which could have a material adverse effect on our business.
+Information Technology and Security Risks
+Cyber-attacks and other security breaches could have an adverse effect on our business.
+Although we devote significant resources and management focus to ensuring the integrity of our systems through information security and business continuity programs, our facilities and systems, and those of our Bank Partners, merchants and third-party service providers, are vulnerable to external or internal security breaches, acts of vandalism, computer viruses, misplaced or lost data, programming or human errors, and other similar events.
+We also face security threats from malicious third parties that could obtain unauthorized access to our systems and networks, which threats we anticipate will continue to grow in scope and complexity over time.
+Information security risks in the financial services industry have increased recently, in part because of new technologies, the use of the internet and telecommunications technologies (including mobile devices) to conduct financial and other business transactions and the increased sophistication and activities of organized criminals, perpetrators of fraud, hackers, terrorists and others.
+In addition to cyber-attacks and other security breaches involving the theft of sensitive and confidential information, hackers recently have engaged in attacks that are designed to disrupt key business services, such as consumer-facing websites.
+We may not be able to anticipate or implement effective preventive measures against all security breaches of these types, especially because the techniques used change frequently and because attacks can originate from a wide variety of sources.
+We also face risks related to cyber-attacks and other security breaches that typically involve the transmission of sensitive information regarding borrowers through various third parties, including our Bank Partners, our merchants and data processors.
+Some of these parties have in the past been the target of security breaches and cyber-attacks.
+Because we do not control these third parties or oversee the security of their systems, future security breaches or cyber-attacks affecting any of these third parties could impact us through no fault of our own, and in some cases we may have exposure and suffer losses for breaches or attacks relating to them.
+While we regularly conduct security assessments of significant third-party service providers, our third-party information security protocols may not be sufficient to withstand a cyber-attack or other security breach.
+In addition, there recently have been a number of well-publicized attacks or breaches affecting companies in the financial services industry that have heightened concern by consumers, which could also intensify regulatory focus, cause users to lose trust in the security of the industry in general and result in reduced use of our services and increased costs, all of which could also have a material adverse effect on our business.

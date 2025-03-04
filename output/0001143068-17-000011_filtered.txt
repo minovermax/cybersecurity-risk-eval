@@ -1,0 +1,4 @@
+The FERC, NERC and SPP have implemented and enforce an extensive set of transmission system reliability, cybersecurity and critical infrastructure protection standards that apply to public utilities, including KCP&L and GMO.
+In addition, failure to meet quality of service, reliability, cybersecurity, critical infrastructure protection, operational or other standards and requirements could expose the Companies to penalties, additional compliance costs, or adverse rate consequences.
+Electric utilities and other operators of critical energy infrastructure, like KCP&L and GMO, may face a heightened risk of cyber attack.
+Such failures or breaches of the systems could impact the reliability of generation, transmission and distribution systems, result in legal claims and proceedings, damage the Companies' reputation and also subject the Companies to financial harm.

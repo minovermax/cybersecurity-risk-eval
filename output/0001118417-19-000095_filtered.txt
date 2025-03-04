@@ -1,0 +1,5 @@
+If our solutions experience data security breaches, and there is unauthorized access to our customers’ data, we may lose current or future customers, our reputation and business may be harmed, and we may incur significant liabilities.
+Although we maintain security features in our solutions, our security measures may not detect or prevent hacker interceptions, break-ins, security breaches, the introduction of viruses or malicious code, such as “ransomware,” and other disruptions that may jeopardize the security of information stored in and transmitted by our solutions.
+Certain of our customers may have a greater sensitivity to security defects or breaches in our software than to defects in other, less critical, software solutions.
+When CCPA goes into effect on January 1, 2020, the CCPA will require covered companies to provide new disclosures to California consumers, provide such consumers new ways to opt-out of certain sales of personal information, and allow for a new cause of action for data breaches.
+They are also subject to break-ins, computer viruses, sabotage, intentional acts of vandalism and other misconduct.

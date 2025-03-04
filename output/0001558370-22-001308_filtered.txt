@@ -1,0 +1,7 @@
+Technology and Information Security Risks
+We rely on computer systems to run our business and disruptions or privacy breaches in these systems could impact our ability to service our customers and adversely affect our financial results, damage our reputation, and expose us to litigation risk.
+However, our computer systems are subject to damage or interruption due to cybersecurity threats, system conversions, power outages, computer or telecommunication failures, catastrophic physical events such as fires, tornadoes and hurricanes and usage errors by our employees.
+We are regularly the target of attempted cyber and other security threats and must continuously monitor and develop our information technology networks and infrastructure to prevent, detect, address and mitigate the risk of unauthorized access, misuse, computer viruses and other events that could have a security impact.
+Further, as we pursue our acquisition growth strategy and pursue new initiatives that improve our operations and reduce our costs, we are also expanding and improving our information technologies, resulting in a larger technological presence and corresponding exposure to cybersecurity risk.
+If we fail to assess and identify cybersecurity risks associated with acquisitions and new initiatives, we may become increasingly vulnerable to such risks.
+Additionally, while we have implemented measures to prevent security breaches and cyber incidents, our preventative measures and incident response efforts may not be entirely effective.

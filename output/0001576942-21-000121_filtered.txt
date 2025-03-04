@@ -1,0 +1,28 @@
+Cybersecurity, Legal and Regulatory Risks
+•System interruptions that impair client access to our website or other performance failures in our technology infrastructure could damage our business.
+Our future success will depend in large part upon our ability to, among other things:
+•cost-effectively acquire new clients and engage with existing clients;
+•overcome the impacts of the ongoing COVID-19 pandemic;
+•adequately and effectively staff our fulfillment centers;
+•manage our inventory effectively;
+•increase our market share;
+•increase consumer awareness of our brand and maintain our reputation;
+•anticipate and respond to macroeconomic changes;
+•successfully expand our offering and geographic reach;
+•anticipate and respond to changing style trends and consumer preferences;
+•compete effectively;
+•avoid interruptions in our business from information technology downtime, cybersecurity breaches, or labor stoppages;
+•effectively manage our growth;
+•continue to enhance our personalization capabilities;
+•hire, integrate, and retain talented people at all levels of our organization;
+•maintain the quality of our technology infrastructure;
+•develop new features to enhance the client experience; and
+•retain our existing merchandise vendors and attract new vendors.
+Cybersecurity, Legal and Regulatory Risks
+System interruptions that impair client access to our website or other performance failures in our technology infrastructure could damage our business.
+Interruptions may also be caused by a variety of incidents, including human error, our failure to update or improve our proprietary systems, cyber attacks, fire, flood, earthquake, power loss, or telecommunications failures.
+There can be no assurance, however, that we or our vendors will not suffer a data compromise, that hackers or other unauthorized parties will not gain access to personal information or other data, including payment card data or confidential business information, or that any such data compromise or unauthorized access will be discovered in a timely fashion.
+In addition, our use of open source software may present additional security risks because the source code for open source software is publicly available, which may make it easier for hackers and other third parties to determine how to breach our website and systems that rely on open source software.
+The CCPA also allows consumers to opt out of certain data sharing with third parties, and provides a new cause of action for data breaches with the possibility of significant statutory damage awards.
+The CCPA prohibits discrimination against individuals who exercise their privacy rights, provides for civil penalties for violations, and creates a private right of action for data breaches that is expected to increase data breach litigation.
+The CPRA will, among other things, restrict use of certain categories of sensitive personal information that we handle; further restrict the sharing of personal information; establish restrictions on the retention of personal information; expand the types of data breaches subject to the private right of action; and establish the California Privacy Protection Agency to implement and enforce the new law, as well as impose administrative fines.

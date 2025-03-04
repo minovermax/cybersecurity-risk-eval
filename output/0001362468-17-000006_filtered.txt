@@ -1,0 +1,3 @@
+Our automated systems cannot be completely protected against events that are beyond our control, such as natural disasters, telecommunications failures, computer viruses, security breaches or hacking attacks.
+Although we use these security measures to protect this customer information, a compromise of our physical or network security systems through a cyber-security attack would create the risk that our customers’ personal information might be obtained by unauthorized persons.
+Cancellations or delays due to weather conditions, traffic control problems, and breaches in security could harm our operating results and financial condition.

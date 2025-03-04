@@ -1,0 +1,5 @@
+In addition, any association or perceived association between our equipment or services and such attacks or accidents would likely have an adverse effect on demand for our equipment and services.
+The uninterrupted operations and services of our Connectivity segment depend upon the extent to which our equipment and the equipment of our third-party network providers is protected against damage from fire, flood, earthquakes, power loss, solar flares, telecommunication failures, computer viruses, break-ins, acts of war or terrorism and similar events or factors beyond our control.
+Our business and reputation could be materially harmed as a result of data breaches, data theft, unauthorized access or hacking.
+An increasing number of companies have disclosed breaches of their security, some of which have involved sophisticated and highly targeted attacks on their computer networks.
+Accordingly, we may be unable to anticipate such threatening techniques or to implement adequate preventative measures to protect our business from cyber and similar unauthorized attacks on our information technology systems.

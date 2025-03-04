@@ -1,0 +1,12 @@
+A cyber-attack could include gaining unauthorized access to digital systems for purposes of misappropriating assets or sensitive information, corrupting data, or causing operational disruption, or result in denial-of-service on websites.
+Our technologies, systems, networks, and those of our business partners may become the target of cyber-attacks or information security breaches that could result in the unauthorized release, gathering, monitoring, misuse, loss or destruction of proprietary and other information, or other disruption of our business operations.
+Deliberate attacks on our assets, or security breaches in our systems or infrastructure, the systems or infrastructure of third-parties or the cloud could lead to corruption or loss of our proprietary data and potentially sensitive data, delays in production or delivery, difficulty in completing and settling transactions, challenges in maintaining our books and records, environmental damage, communication interruptions, other operational disruptions and third-party liability, including the following:
+•a cyber-attack on a vendor or service provider could result in supply chain disruptions which could delay or halt development of additional infrastructure, effectively delaying the start of cash flows from the project;
+•a cyber-attack on our facilities may result in equipment damage or failure;
+•a cyber-attack on mid-stream or downstream pipelines could prevent our product from being delivered, resulting in a loss of revenues;
+•a cyber-attack on a communications network or power grid could cause operational disruption resulting in loss of revenues;
+•deliberate corruption of our financial or operational data could result in events of non-compliance which could lead to regulatory fines or penalties; and
+•business interruptions could result in expensive remediation efforts, distraction of management, damage to our reputation, or a negative impact on the price of our units.
+Implementation of various controls and processes to monitor and mitigate security threats and to increase security for our information, facilities and infrastructure is costly and labor intensive.
+Moreover, there can be no assurance that such measures will be sufficient to prevent security breaches from occurring.
+As cyber threats continue to evolve, we may be required to expend significant additional resources to continue to modify or enhance our protective measures or to investigate and remediate any information security vulnerabilities.

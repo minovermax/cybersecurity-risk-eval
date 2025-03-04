@@ -1,0 +1,7 @@
+These platforms could be damaged or interrupted by technological failures, cyber-attacks or other factors, which may adversely impact our sales through these channels.
+The cyber risks we face range from cyber-attacks common to most industries, to attacks that target us due to the confidential consumer information we obtain through our electronic processing of credit and debit card transactions.
+Such security breaches could also result in litigation or governmental investigation against us, as well as the imposition of penalties.
+As privacy and information security laws and regulations change or cyber risks evolve pertaining to data, we may incur significant additional costs in technology,
+third-party services and personnel to maintain systems designed to anticipate and prevent cyber-attacks.
+However, we cannot provide assurance that our security frameworks and measures will be successful in preventing future cyber-attacks or data loss.
+We make a diligent effort to ensure that all providers of outsourced services are observing proper internal control practices, such as redundant processing facilities and adequate security frameworks to guard against breaches or data loss; however, there are no guarantees that failures will not occur.

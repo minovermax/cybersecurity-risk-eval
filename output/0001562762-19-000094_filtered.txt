@@ -1,0 +1,9 @@
+Any disruptions to our information technology systems or breaches of our network security could interrupt our operations, compromise our reputation, expose us to litigation, government enforcement actions, and costly response measures and could have a material adverse effect on our business, financial condition and results of operations.
+If any of our internal systems or the systems of our third-party providers are compromised due to computer virus, unauthorized access, malware, and the like, then sensitive documents could be exposed or deleted, and our ability to conduct business could be impaired.
+Cyber incidents can be caused by various persons or groups, including disgruntled employees and vendors, activists, organized crime groups, and state-sponsored and individual hackers.
+The risk of cybersecurity breach has generally increased as the number, intensity, and sophistication of attempted attacks from around the world has increased.
+While we have cyber security procedures in place, given the evolving nature of these threats, there can be no assurance that we will not suffer material losses in the future due to cyber-attacks.
+﻿
+To date, we have not experienced any material losses relating to cyber-attacks, computer viruses or other systems failures.
+Although we have taken steps to protect the security of data maintained in our information systems, it is possible that our security measures will not be able to prevent the systems’ improper functioning or the improper disclosure of personally identifiable information, such as in the event of cyber-attacks.
+In addition to operational and business consequences, if our cybersecurity is breached, we could be held liable to our customers or other parties in regulatory or other actions, and we may be exposed to reputation damages and loss of trust and business.

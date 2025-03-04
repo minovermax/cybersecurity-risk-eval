@@ -1,0 +1,25 @@
+These factors include:
+•
+changes or proposed changes in laws or regulations or regulator or judicial interpretation thereof that have the effect of making it more difficult or less desirable to transfer money using consumer money transfer and payment service providers, including additional consumer due diligence, identification, reporting, and recordkeeping requirements;
+•
+the quality of our services and our customer experience, and our ability to meet evolving customer needs and preferences, including consumer preferences related to our westernunion.com and mobile money transfer services;
+•
+failure of our agents or their subagents to deliver services in accordance with our requirements;
+•
+reputational concerns resulting from actual or perceived events, including those related to fraud or consumer protection in connection with the Joint Settlement Agreements, the NYDFS Consent Order, or other matters;
+•
+actions by federal, state or foreign regulators that interfere with our ability to transfer consumers' money reliably, for example, attempts to seize money transfer funds, or limit our ability to or prohibit us from transferring money in certain corridors;
+•
+federal, state or foreign legal requirements, including those that require us to provide consumer or transaction data either pursuant to our agreement signed on February 11, 2010 with the State of Arizona regarding our anti-money laundering ("AML") compliance programs along the United States and Mexico border ("Southwest Border Agreement") and requirements under the Joint Settlement Agreements or other requirements or to a greater extent than is currently required;
+•
+any significant interruption in our systems, including by unauthorized entry and computer viruses, fire, natural disaster, power loss, telecommunications failure, terrorism, vendor failure, or disruptions in our workforce; and
+•
+any breach of our computer systems or other data storage facilities, or of certain of our third-party providers, resulting in a compromise of personal or other data.
+Breaches of our information security safeguards could adversely affect our ability to operate and could damage our reputation and adversely affect our business, financial condition, results of operations, and cash flows.
+However, despite those measures, it is possible that hackers, employees acting contrary to our policies or others could improperly access our systems or documents, or the systems or documents of our business partners or service providers and improperly access, obtain or disclose personal information about our consumers, business customer representatives, employees, applicants, agents or others, or that a third-party service provider could intentionally or inadvertently use, disclose or make available personal information to unauthorized parties or in violation of law.
+In 2016, we determined hackers had accessed the system of one of our third-party providers and improperly obtained data about some of our agents and consumers.
+Additionally, transactions undertaken through our mobile services may create risks of fraud, hacking, unauthorized access or acquisition, and other deceptive practices.
+Interruptions in our systems, including as a result of cyber attacks, or disruptions in our workforce may have a significant effect on our business.
+These systems and operations could be exposed to damage or interruption from unauthorized entry and computer viruses, fire, natural disaster, power loss, telecommunications failure, terrorism, vendor failure, or other causes, many of which may be beyond our control or that of our service providers.
+Further, we have been and continue to be the subject of cyber attacks, including distributed denial of service attacks.
+Historically, none of these attacks or breaches has individually or in the aggregate resulted in any material liability to us or any material damage to our reputation, and disruptions related to cybersecurity have not caused any material disruption to the Company's business.

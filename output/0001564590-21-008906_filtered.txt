@@ -1,0 +1,74 @@
+These risks are discussed in greater detail below, and include, but are not limited to, risks related to:
+Risks related to our business
+•
+The COVID-19 pandemic, including its impact on our operations and financial condition;
+•
+Managing our growth effectively, implementing our growth strategy, and opening new branches as planned;
+•
+Our convenience check strategy;
+•
+Our policies and procedures for underwriting, processing, and servicing loans;
+•
+Our ability to collect on our loan portfolio;
+•
+Our insurance operations;
+•
+Exposure to credit risk and repayment risk, which risks may increase in light of adverse or recessionary economic conditions;
+•
+The implementation of new underwriting models and processes, including as to the effectiveness of new custom scorecards;
+•
+Changes in the competitive environment in which we operate or a decrease in the demand for our products;
+•
+Geographic concentration of our loan portfolio;
+•
+Failure of third-party service providers, including those providing information technology products;
+•
+Changes in economic conditions in the markets we serve, including levels of unemployment and bankruptcies;
+•
+Our ability to achieve successful acquisitions and strategic alliances;
+•
+Our ability to make technological improvements as quickly as our competitors;
+•
+Security breaches, cyber-attacks, failures in our information systems, or fraudulent activity;
+•
+Our ability to originate loans;
+•
+Our reliance on information technology resources and providers, including the risk of prolonged system outages;
+•
+Changes in current revenue and expense trends, including trends affecting delinquencies and credit losses;
+•
+Changes in operating and administrative expenses;
+•
+The departure, transition, or replacement of key personnel;
+Regional Management Corp. | 2020 Annual Report on Form 10-K | 14
+•
+Our ability to timely and effectively implement, transition to, and maintain the necessary information technology systems, infrastructure, processes, and controls to support our operations and initiatives;
+•
+Changes in interest rates;
+•
+Existing sources of liquidity become insufficient or access to these sources becomes unexpectedly restricted; and
+•
+Exposure to financial risk due to asset-backed securitization transactions.
+Security breaches, cyber-attacks, failures in our information systems, or fraudulent activity could result in damage to our operations or lead to reputational damage.
+Our computer systems, software, and networks may be vulnerable to breaches (including via computer hackings), unauthorized access, misuse, computer viruses, malware, phishing, employee error or malfeasance, or other failures or disruptions that could result in disruption to our business or the loss or theft of confidential information, including customer, employee, and business information.
+A security breach or cyber-attack on our computer systems could interrupt or damage our operations or harm our reputation.
+Despite the implementation of these security measures, there is no guarantee that they are adequate to safeguard against all security breaches and our systems may still be vulnerable to data theft, computer viruses, programming errors, attacks by third parties, or similar disruptive problems.
+If we were to experience a security breach or cyber-attack, we could be required to incur substantial costs and liabilities, including, among other things, the following:
+•
+expenses to rectify the consequences of the security breach or cyber-attack;
+•
+liability for stolen assets or information;
+•
+costs of repairing damage to our systems;
+•
+lost revenue and income resulting from any system downtime caused by such breach or attack;
+•
+increased costs of cyber security protection;
+•
+costs of incentives we may be required to offer to our customers or business partners to retain their business; and
+•
+damage to our reputation causing customers and investors to lose confidence in our company.
+Further, any compromise of security or cyber-attack could deter consumers from entering into transactions that require them to provide confidential information to us.
+As a result, any compromise of security of our computer systems or cyber-attack could have a material adverse effect on our business, prospects, results of operations, and financial condition.
+The information systems of these third parties may also be vulnerable to security breaches, and we may not be able to ensure that these third parties have appropriate security controls in place to protect the information that we share with them.
+Security breaches in our branches or acts of theft, fraud, or violence could adversely affect our financial condition and results of operations.

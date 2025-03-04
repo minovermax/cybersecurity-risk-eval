@@ -1,0 +1,4 @@
+We may also be adversely affected by operational risks, including cyber security attacks, that could disrupt our Manager’s financial, accounting and other data processing systems.
+Although we have taken steps to protect the security of the data maintained in our information systems, it is possible that our security measures will not be able to prevent the systems’ improper functioning, or the improper disclosure of personally identifiable information such as in the event of cyber attacks.
+Security breaches, including physical or electronic break-ins, computer viruses, attacks by hackers and similar breaches,
+can create system disruptions, shutdowns or unauthorized disclosure of confidential information.

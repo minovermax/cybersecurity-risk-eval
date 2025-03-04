@@ -1,0 +1,5 @@
+Information Technology Risks
+If we encounter difficulties with our management information systems, including cyber-attacks, we would experience problems managing our business.
+All management information systems are vulnerable to security threats, such as hacking, viruses, malicious software, and other unlawful attempts to disrupt or gain access to these systems.
+The steps we have taken to mitigate these risks may not be effective to prevent breaches of our information technology infrastructure, some of which is managed by third parties, and we may be more vulnerable to a successful cyber-attack or information security incident while our workforce works remotely.
+Breaches of our IT infrastructure could lead to disruptions in our business, potentially including the theft, destruction, loss, misappropriation, or release of confidential employee and customer information stored on our IT systems or confidential data or other business information and subject us to potential lawsuits or other material legal liabilities.

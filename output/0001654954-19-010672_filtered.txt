@@ -1,0 +1,37 @@
+In addition, we may potentially experience significant fluctuations in future operating results caused by a variety of factors, many of which are outside of our control, including:
+●
+our ability to retain and increase sales to existing customers, attract new customers and satisfy our customers’ requirements;
+●
+the renewal rates for our subscriptions and other services;
+●
+changes in our pricing policies, whether initiated by us or as a result of competition;
+●
+the cost, timing and management effort for the introduction of new services, including new features to our existing services;
+●
+the rate of expansion and productivity of our sales force;
+●
+new product and service introductions by our competitors;
+●
+variations in the revenue mix of editions or versions of our service;
+●
+technical difficulties or interruptions in our service;
+●
+general economic conditions that may adversely affect either our customers’ ability or willingness to purchase additional subscriptions or upgrade their services, or delay a prospective customer’s purchasing decision, or reduce the value of new subscription contracts or affect renewal rates;
+●
+timing of additional expenses and investments in infrastructure to support growth in our business;
+●
+regulatory compliance costs;
+●
+consolidation in the food industry;
+●
+the timing of customer payments and payment defaults by customers;
+●
+extraordinary expenses such as litigation or other dispute-related settlement payments;
+●
+the impact of new accounting pronouncements;
+●
+the timing of stock awards to employees and the related financial statement impact; and
+●
+system or service failures, security breaches or network downtime.
+Our service involves the storage and transmission of customers’ proprietary information, and security breaches could expose us to a risk of loss of this information, litigation and possible liability.
+These security measures may be breached as a result of third-party action, including intentional misconduct by computer hackers, employee error, malfeasance or otherwise during transfer of data to additional data centers or at any time, and result in someone obtaining unauthorized access to our customers’ data or our data, including our intellectual property and other confidential business information, or our information technology systems.

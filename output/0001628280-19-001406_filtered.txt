@@ -1,0 +1,5 @@
+If we sustain cyber-attacks or other security breaches that disrupt our operations, or that result in the unauthorized release of proprietary or confidential information, we could be exposed to significant liability, reputational harm, loss of revenue, increased costs or other risks.
+A cyber-attack may involve persons gaining unauthorized access to our digital systems for purposes of gathering, monitoring, releasing, misappropriating or corrupting proprietary or confidential information, or causing operational disruption.
+Strategic targets, such as energy-related assets, may be at greater risk of future cyber-attacks than other targets in the United States.
+However, our systems may be susceptible to cyber incidents or security breaches which could result in unauthorized access to our facilities or to information we are trying to protect.
+As cyber threats continue to evolve, we may be required to expend significant additional resources to modify or enhance our protective measures or to investigate and remediate any system vulnerabilities.

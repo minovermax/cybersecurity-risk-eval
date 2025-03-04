@@ -1,0 +1,7 @@
+While we have taken steps to protect our information technology systems from a variety of threats, both internal and external, and human error, there can be no guarantee that those steps will be effective.
+Breaches of data security and the failure to protect our information technology systems from cybersecurity threats could adversely impact our business.
+We have privacy and data security policies in place that are designed to prevent security breaches; however, as newer technologies evolve, and the portfolio of the service providers we share confidential information with grows, we could be exposed to increased risk of breaches in security and other illegal or fraudulent acts, including cyberattacks.
+The evolving nature of such threats, in light of new and sophisticated methods used by criminals and cyberterrorists, including computer viruses, malware, phishing, misrepresentation, social engineering and forgery, are making it increasingly challenging to anticipate and adequately mitigate these risks.
+Breaches in security could expose us, our supply chain, our customers or other individuals to significant disruptions, a risk of public disclosure, loss or misuse of this information.
+Security breaches could result in legal claims or proceedings, liability or regulatory penalties under laws protecting the privacy of personal information, as well as the loss of existing or potential customers and damage to our brand and reputation.
+Such breaches, costs and consequences could adversely affect our business, results of operations or cash flows.

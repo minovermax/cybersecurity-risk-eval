@@ -1,0 +1,5 @@
+The Company's operating results could be negatively impacted by disruptions of its information technology and communication systems and data breaches.
+In addition, the foregoing breaches in security could expose us and our customers, or the individuals affected, to a risk of loss, disclosure or misuse of proprietary information and sensitive or confidential data, including personal information of customers, employees and others.
+Like us, these
+third parties are subject to risks imposed by data breaches and IT systems disruptions like those described above, and other events or actions that could damage, disrupt or close down their networks or systems.
+For example, the European Union's General Data Protection Regulation ("GDPR"), which greatly increases the jurisdictional reach of European Union law and adds a broad array of requirements for handling personal data, including the public disclosure of significant data breaches, became effective in May 2018.

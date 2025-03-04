@@ -1,0 +1,10 @@
+A cyberattack or a failure to implement effective information and cybersecurity policies, procedures and capabilities could disrupt operations and cause financial losses.
+We are dependent on the effectiveness of the information and cybersecurity policies, procedures and capabilities we maintain to protect our systems and data.
+An externally caused information security incident, such as a cyberattack, a phishing scam, virus, or denial-of-service attack, could materially interrupt business operations or cause disclosure or modification of sensitive or confidential client or competitive information.
+In addition, our third-party vendors could be subject to a successful cyberattack or other information security event, and we cannot ensure that such third parties have all appropriate controls in place to protect the confidentiality of information in the custody of those vendors.
+Although we maintain insurance coverage that we believe is reasonable, prudent and
+Page 18
+adequate for the purpose of our business, it may be insufficient to protect us against all losses and costs stemming from breaches of security, cyberattacks and other types of unlawful activity, or any resulting disruptions from such events.
+Our systems, or those of third-party service providers we may use to maintain and transmit such information, could be victimized by unauthorized users or corrupted by computer viruses or other malicious software code.
+Furthermore, if any person, including any of our employees, negligently disregards or intentionally breaches our established controls with respect to client data, or otherwise mismanages or misappropriates that data, we could be subject to significant monetary damages, regulatory enforcement actions, fines and/or criminal prosecution in one or more jurisdictions.
+The CCPA requires companies that process information on California residents to make new disclosures to consumers about their data collection, use and sharing practices, and allows consumers to opt out of certain data sharing with third parties and provides a new cause of action for data breaches.

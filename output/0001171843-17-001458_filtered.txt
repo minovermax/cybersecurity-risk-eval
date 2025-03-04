@@ -1,0 +1,4 @@
+Operational risk is the risk of loss resulting from operations, including the risk of fraud by employees or persons outside a company, the execution of unauthorized transactions by employees, errors relating to transaction processing and technology, breaches of the internal control system and compliance requirements, and business continuation and disaster recovery.
+Risks associated with system failures, interruptions, or breaches of security could negatively affect the Company’s earnings.
+The Company has established policies and procedures to prevent or limit the effect of system failures, interruptions, and security breaches, but such events may still occur or may not be adequately addressed if they do occur.
+Security systems may not protect systems from security breaches.

@@ -1,0 +1,13 @@
+These systems and our operations are vulnerable to damage or interruption from:
+•
+earthquake, fire, flood and other natural disasters;
+•
+failed system implementations;
+•
+power loss, computer systems failures, Internet and telecommunications or data network failures, third-party vendor system failures, operator negligence, improper operation by or supervision of employees;
+•
+physical and electronic loss of data, security breaches, misappropriation, data theft and similar events; and
+•
+computer viruses, worms, Trojan horses, intrusions, or other external threats.
+Despite the security measures we have in place, our facilities and systems, and those of our third-party service providers, may be vulnerable to security breaches, acts of vandalism, computer viruses, data theft, misplaced or lost data, programming or human errors, or other similar events.
+However, the ever-evolving threats mean we must continually evaluate and adapt our systems and processes, and there is no guarantee that they will be adequate to safeguard against all data security breaches or misuses of data.

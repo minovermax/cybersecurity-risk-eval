@@ -1,0 +1,4 @@
+Operational risks, including the threat of cyber attacks, may disrupt our business, breach our clients’ security, result in losses or limit our growth.
+Cyber security risks relating to our business primarily involve the potential security breaches of our clients’ personal and financial information and illegal use thereof through system-wide “hacking” or other means.
+While we have never had any cyber security threat or attack on our technology systems, this may occur in the future.
+As a public company and as our client base, number of investment strategies and/or physical locations increase, developing and maintaining our operational systems and infrastructure and protecting our systems from cyber security attacks and threats may become increasingly challenging and costly, which could constrain our ability to expand our businesses.

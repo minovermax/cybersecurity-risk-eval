@@ -1,0 +1,4 @@
+Cyber-attacks targeting systems and infrastructure used by the oil and gas industry may adversely impact our operations.
+A cyber-attack directed at oil and gas distribution systems could damage critical distribution and storage assets or the environment, delay or prevent delivery of production to markets and make it difficult or impossible to accurately account for production and settle transactions.
+While we have not experienced significant cyber-attacks, we may suffer such-attacks in the future.
+Further, as cyber-attacks continue to evolve, we may be required to expend significant additional resources to continue to modify or enhance our protective measures or to investigate and remediate any vulnerability to cyber-attacks.

@@ -1,0 +1,14 @@
+To operate without interruption, both we and our service providers must guard against:
+·
+damage from fire, power loss, natural disasters and other force majeure events outside our control;
+·
+communications failures;
+·
+software and hardware errors, failures and crashes;
+·
+security breaches, computer viruses, hacking, denial-of-service attacks and similar disruptive problems; and
+·
+other potential interruptions.
+It also tasks HHS with establishing a methodology whereby harmed individuals who were the victims of breaches of unsecured PHI may receive a percentage of the Civil Monetary Penalty fine paid by the violator.
+Breaches affecting 500 patients or more in the same state or jurisdiction must also be reported to the local media.
+Any potential security breach could also result in increased costs associated with liability for stolen assets or information, repairing system damage that may have been caused by such breaches, incentives offered to Clients or other business partners in an effort to maintain our business relationships after a breach and implementing measures to prevent future occurrences, including organizational changes, deploying additional personnel and protection technologies, training employees and engaging third-party experts and consultants.

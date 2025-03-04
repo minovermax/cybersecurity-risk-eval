@@ -1,0 +1,6 @@
+For instance, working remotely may increase the risk of security breaches or other cyber incidents or attacks, loss of data, fraud and other disruptions as a consequence of more employees accessing sensitive and critical information from remote locations.
+We are subject to cybersecurity risks and threats as well as increasing regulation of data privacy and security.
+Threats to our information technology systems, and the systems of our customers and vendors, associated with cybersecurity risks and cyber-incidents or attacks continue to grow.
+Such threats may derive from human error, fraud or malice, social engineering on the part of employees or third parties, or may result from accidental technological failure.
+In addition, breaches to our systems and systems of our customers and vendors could go unnoticed for some period of time.
+Risks associated with these threats include disruptions of certain systems on our rigs; other impairments of our ability to conduct our operations; loss or ransom of intellectual property, proprietary information, personal identifiable information or customer and vendor data; disruption of our customers’ and vendors’ operations; misappropriation of assets; loss or damage to our customer and vendor data delivery systems; and increased costs to prevent, respond to or mitigate cybersecurity events.

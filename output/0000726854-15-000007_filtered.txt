@@ -1,0 +1,6 @@
+System Failure or Cybersecurity Breaches of the Company's Network Security Could Subject the Company to Increased Operating Costs, as Well as Litigation and Other Potential Losses.
+The computer systems and network infrastructure that the Company uses could be vulnerable to unforeseen hardware and cybersecurity issues, including “hacking” and “identity theft.” The Company's operations are dependent upon its ability to protect its computer equipment against damage from fire, power loss, telecommunications failure or a similar catastrophic event.
+In addition, the Company's operations are dependent upon its ability to protect the computer
+systems and network infrastructure utilized by the Company, including our Internet banking activities, against damage from physical break-ins, cybersecurity breaches and other disruptive problems caused by the Internet or other users.
+Despite efforts to ensure the integrity of our systems, we will not be able to anticipate all security breaches of these types, nor will we be able to implement guaranteed preventive measures against such security breaches.
+A successful attack to our system security could cause us serious negative consequences, including significant disruption of operations, misappropriation of confidential information, or damage to our computers or systems or those of our customers and counterparties.

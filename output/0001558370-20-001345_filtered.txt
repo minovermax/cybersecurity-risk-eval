@@ -1,0 +1,8 @@
+The Company’s operations may be adversely affected by cyber security risks and cyber-attacks.
+Any failure, interruption, or breach in security or operational integrity of these systems, such as "hacking", "identity theft" and "cyber fraud", could result in failures or disruptions in the Company’s customer relationship management, the general ledger, deposits, loans, and other systems.
+Despite these security measures, the Company’s computer systems and infrastructure may be vulnerable to attacks by hackers or breached due to employee error, malfeasance, or other disruptions.
+There can be no assurance that the Company will not suffer cyber-attacks or other information security breaches or be impacted by losses from such events in the future.
+The Company’s risk and exposure to these matters remain heightened because of, among other things, the evolving nature of these threats, current use of internet banking and mobile banking channels, expanded operations and third-party information systems.
+Recent instances of attacks specifically targeting financial services businesses indicate that the risk to the Company’s systems remains significant.
+Furthermore, as cyber threats continue to evolve and increase, the Company may be required to expend significant additional financial and operational resources to modify or enhance its protective measures, or to investigate and remediate any identified information security vulnerabilities.
+In addition, most states have enacted security breach legislation requiring varying levels of consumer notification in the event of certain types of security breaches.

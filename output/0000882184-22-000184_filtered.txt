@@ -1,0 +1,10 @@
+Information technology failures, data security breaches, and the failure to satisfy privacy and data protection laws and regulations could harm our business.
+Additionally, phishing attacks, whereby perpetrators attempt to fraudulently induce employees, customers, vendors or other users of a company’s systems to disclose sensitive information to gain access to its data, have become more prevalent in recent years.
+The use of remote work environments and virtual platforms may increase our risk of cyber-attack or data security breaches.
+Further, geopolitical tensions or conflicts, such as the ongoing conflict between Russia and Ukraine, may create a heightened risk of cyber-attacks or other data security breaches.
+We may also be required to incur significant costs to protect against damages caused by information technology failures, security breaches, and the failure to satisfy privacy and data protection laws and regulations in the future as legal requirements continue to increase.
+We provide employee awareness training about cybersecurity threats.
+We use various encryption, tokenization and authentication technologies to mitigate cybersecurity risks and have increased our monitoring capabilities to enhance early detection and rapid response to potential cyber threats.
+As such, we may be unable to anticipate these techniques, to implement adequate preventative measures or to identify and investigate cybersecurity incidents.
+Although past cybersecurity incidents have not had a material effect on our business or operations to date, in the future a data security breach, a significant and extended disruption in the functioning of our information technology systems or a breach of any of our data security controls could disrupt our business operations, damage our reputation and cause us to lose customers.
+We cannot provide assurances that a security breach, cyber-attack, data theft or other significant systems or security failures will not occur in the future, and such occurrences could have a material and adverse effect on our consolidated results of operations or financial position.

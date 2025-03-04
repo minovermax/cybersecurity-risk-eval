@@ -1,0 +1,5 @@
+System Failure or Breaches of Our Network Security Could Subject Us to Increased Operating Costs as well as Litigation and Other Liabilities.
+Our operations are dependent upon our ability to protect our computer equipment against damage from physical theft, fire, power loss, telecommunications failure or a similar catastrophic event, as well as from security breaches, denial of service attacks, viruses, worms and other disruptive problems caused by hackers.
+The financial services industry has experienced an increase in both the number and severity of reported cyber attacks aimed at gaining unauthorized access to bank systems as a way to misappropriate assets and sensitive information, corrupt and destroy data, or cause operational disruptions
+We have established policies and procedures to prevent or limit the impact of security breaches, but such events may still occur or may not be adequately addressed if they do occur.
+Although we rely on security safeguards to secure our data, these safeguards may not fully protect our systems from compromises or breaches.

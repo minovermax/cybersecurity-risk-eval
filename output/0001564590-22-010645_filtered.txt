@@ -1,0 +1,5 @@
+Our systems and those of our technology and communications providers are vulnerable to interruptions caused by natural disasters, power loss, telecommunication and internet failures, cyber-attack, and other events beyond our control.
+We have been, and in the future may be, subject to cybersecurity and malware attacks and other intentional hacking.
+During the attack, we experienced limited disruption and rapidly deployed back-up systems or implemented temporary procedures to maintain operations.
+Despite our efforts, we are not fully insulated from data breaches, technology disruptions or data loss, which could adversely impact our competitiveness and results of operations.
+Any future successful cyber-attack or catastrophic natural disaster could significantly affect our operating and financial systems and could temporarily disrupt our ability to provide required services to our customers, impact our ability to manage our operations and perform vital financial processes, any of which could have a materially adverse effect on our business.

@@ -1,0 +1,7 @@
+We could be harmed by security breaches, damages or other significant disruptions or failures of our networks, information technology infrastructure or related systems, or of those we operate for certain of our customers.
+We strive to maintain the security and integrity of information and systems under our control, and maintain contingency plans in the event of security breaches or other system disruptions.
+These threats may also arise from failure or breaches of systems owned, operated or controlled by other unaffiliated operators to the extent we rely on such other systems to deliver services to our customers.
+Similar to other large telecommunications companies, we are a constant target of cyber-attacks of varying degrees.
+Although some of these attacks have resulted in security breaches, to date, none of these breaches have resulted in a material adverse effect on our operating results or financial condition.
+Consequently, you should assume that we will be unable to implement security barriers or other preventative measures that repel all future cyber-attacks.
+Any such future security breaches or disruptions could materially adversely affect our business, results of operations or financial condition, especially in light of the growing frequency, scope and well-documented sophistication of cyber-attacks and intrusions.

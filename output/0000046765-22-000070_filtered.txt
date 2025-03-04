@@ -1,0 +1,13 @@
+Our business is subject to cybersecurity risks.
+Threats to information technology systems, including as a result of cyberattacks and cyber incidents, continue to grow.
+Remote work relies heavily on the use of remote networking and online conferencing services that enable employees to work outside of our corporate infrastructure and, in some cases, use their own personal devices, which exposes the Company to additional cybersecurity risks, including unauthorized access to sensitive information as a result of increased remote access and other cybersecurity related incidents.
+Furthermore, geopolitical tensions or conflicts, such as Russia's invasion of Ukraine, may further heighten the risk of cybersecurity attacks.
+2022 FORM 10-K | 21
+Cybersecurity incidents involving our own systems or those of our third-party vendors, could:
+•disrupt our rig operations including operational technologies as well as our corporate information technology systems,
+•negatively impact our ability to compete,
+•enable the theft or misappropriation of funds,
+•cause the loss, corruption or misappropriation of proprietary or confidential information,
+•expose us to litigation, regulatory action, and potential liability, and
+•result in injury to our reputation, downtime, loss of revenue, and increased costs to prevent, respond to or mitigate cybersecurity events.
+Additionally, customers as well as other third parties upon whom we rely on face similar cybersecurity threats, which could directly or indirectly impact our business and operations.

@@ -1,0 +1,2 @@
+Techniques used in these attacks often range from highly sophisticated efforts to electronically circumvent network security to more traditional intelligence gathering and social engineering aimed at obtaining information necessary to gain access.
+In addition, our vendors, midstream providers and other business partners may separately suffer disruptions or breaches from cyber attacks, which, in turn, could adversely impact our operations and compromise our information.

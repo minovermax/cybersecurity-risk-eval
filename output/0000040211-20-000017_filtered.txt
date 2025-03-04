@@ -1,0 +1,5 @@
+If we are unable to adequately maintain and secure our information technology (“IT”) infrastructure from cybersecurity threats and related disruptions, our business could be negatively impacted.
+Threats to IT systems associated with cybersecurity risks and cyber incidents or attacks have continued to increase in recent years.
+All IT systems are vulnerable to security threats, such as hacking, viruses, malicious software, and other unlawful attempts to disrupt or gain access to these systems.
+The steps we have taken to mitigate these risks may not be effective to prevent breaches of our IT infrastructure, some of which is managed by third parties.
+Breaches of our IT infrastructure could lead to disruptions in our business, potentially including the theft, destruction, loss, misappropriation, or release of confidential employee and customer information stored on our IT systems or confidential data or other business information and subject us to potential lawsuits or other material legal liabilities.

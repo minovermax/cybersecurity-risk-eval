@@ -1,0 +1,37 @@
+Risks Related to Our Business and Operations
+● Declines in, or extended periods of low oil, NGL or natural gas prices and/or widened differentials;
+● The occurrence of epidemic or pandemic diseases, including the coronavirus (“COVID-19”) pandemic;
+● Actions of the Organization of Petroleum Exporting Countries (“OPEC”) and other oil exporting nations to set and maintain production levels;
+● The potential shutdown of the Dakota Access Pipeline (“DAPL”);
+● The geographic concentration of our operations;
+● Our potential inability to access oil and gas markets due to market conditions or operational impediments;
+● Market availability of, and risks associated with, transport of oil and natural gas, which may subject us to substantial liability claims;
+● Shortages of or delays in obtaining qualified personnel or equipment, including drilling rigs and completion services;
+● Adverse weather conditions that may negatively impact development or production activities;
+● Lack of control over non-operated properties;
+● Cybersecurity attacks or failures of our telecommunication and other information technology infrastructure;
+● Our level of success in development and production activities;
+● Our ability to replace our oil and natural gas reserves;
+● Impacts resulting from the allocation of resources among our strategic opportunities;
+● Our ability to successfully complete asset acquisitions and dispositions and the risks related thereto;
+● The timing of our development expenditures;
+● Unforeseen underperformance of or liabilities associated with acquired properties or other strategic partnerships or investments; and
+● Competition in the oil and gas industry.
+We depend on computer and telecommunications systems, and failures in our systems or cybersecurity attacks could have a material adverse effect on our business, financial condition, results of operations or cash flows.
+A cyber-attack could include unauthorized access to digital systems for purposes of misappropriating assets or sensitive information, corrupting data, or causing operational disruption, or result in denial-of-service on websites.
+It is possible that we could incur interruptions or loss of data from cybersecurity attacks, computer viruses or malware, or that third-party service providers could cause a breach of our data.
+Any interruptions to our arrangements with third parties for our computing and communications infrastructure or any other interruptions to, or breaches of, our information systems could lead to data corruption, communication interruption, loss of sensitive or confidential information or otherwise significantly disrupt our business operations.
+Strategic targets, such as energy-related assets and transportation assets, may be at greater risk of future cyber-attacks than other targets.
+The various procedures, facilities, infrastructure and controls we utilize to monitor these threats and mitigate our exposure to such threats are costly and labor intensive.
+Moreover, there can be no assurance that such measures will be sufficient to prevent security breaches from occurring.
+We do not expect to obtain or maintain specialized insurance for possible liability or loss resulting from a cyber-attack on our assets that may shut down all or part of our business.
+However, as cyber threats continue to evolve, we may be required to expend significant additional resources to continue to modify or enhance our protective measures or to investigate and remediate any information security vulnerabilities.
+State and federal cybersecurity legislation could also impose new requirements, which could increase our cost of doing business.
+To our knowledge we have not experienced any material losses relating to cyber-attacks; however, there can be no assurance that we will not suffer material losses in the future either as a result of an interruption to or a breach of our systems or those of our third-party vendors and service providers.
+A cyber incident involving our information systems and related infrastructure, or that of third parties, could disrupt our business plans and negatively impact our operations in the following ways, among others, any of which could have a material adverse effect on our reputation, business, financial condition, results of operations or cash flows:
+● unauthorized disclosure of sensitive or personally identifiable information, including by cyber-attacks or other security breaches, could cause loss of data, give rise to remediation or other expenses, expose us to liability under federal and state laws, reduce our customers’ willingness to do business with us, disrupt the services we provide to customers and property owners and subject us to litigation and investigations;
+● a cyber-attack on a third party could result in supply chain disruptions which could delay or halt development of additional infrastructure, effectively delaying the start of cash flow from the project;
+● a cyber-attack on downstream or midstream pipelines could prevent us from delivering product, resulting in a loss of revenues;
+● a cyber-attack on a communications network or power grid could cause operational disruption resulting in a loss of revenues;
+● a deliberate corruption of our financial or operational data could result in events of non-compliance which could lead to regulatory fines or penalties; and
+● business interruptions could result in expensive remediation efforts, distraction of management, damage to our reputation, or a negative impact on the price of our common shares.

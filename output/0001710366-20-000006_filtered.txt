@@ -1,0 +1,26 @@
+The operating risks that may have a significant impact on our coal operations include:
+•
+variations in thickness of the layer, or seam, of coal;
+•
+adverse geological conditions, including amounts of rock and other natural materials intruding into the coal seam that could affect the stability of the roof and the side walls of the mine - for example, unit costs were negatively impacted in 2017 and 2016 due to adverse geological conditions at the Enlow Fork Mine, primarily related to sandstone intrusions, which resulted in reduced coal production at that mine;
+•
+environmental hazards;
+•
+equipment failures or unexpected maintenance problems;
+•
+fires or explosions, including as a result of methane, coal, coal dust or other explosive materials and/or other accidents;
+•
+inclement or hazardous weather conditions and natural disasters or other force majeure events;
+•
+seismic activities, ground failures, rock bursts or structural cave-ins or slides;
+•
+delays in moving our longwall equipment;
+•
+railroad derailments;
+•
+security breaches or terroristic acts; and
+•
+other hazards that could also result in personal injury and loss of life, pollution and suspension of operations.
+Deliberate attacks on our assets, or security breaches in our systems or infrastructure, or cloud-based applications could lead to corruption or loss of our proprietary data and potentially sensitive data, delays in production or delivery, difficulty in completing and settling transactions, challenges in maintaining our books and records, environmental damage, communication interruptions, other operational disruptions and third-party liability.
+Similarly, our vendors or service providers could be the subject of such attacks or breaches that result in the risks of corruption or loss of our proprietary and sensitive data and/or the other disruptions as described above.
+In addition to the existing risks, the adoption of new technologies may also increase our exposure to data breaches or our ability to detect and remediate effects of a breach.

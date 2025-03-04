@@ -1,0 +1,20 @@
+A cyber-attack could include gaining unauthorized access to digital systems for purposes of misappropriating assets or sensitive information, corrupting data, or causing operational disruption, or result in denial of service on websites.
+Our technologies, systems and networks, and those of our business partners may become the target of cyber-attacks or information security breaches that could result in the unauthorized release, gathering, monitoring, misuse, loss or destruction of proprietary and other information, or other disruption of our business operations.
+A cyber incident involving our information systems and related infrastructure, or that of our business partners, could disrupt our business plans and negatively impact our operations in the following ways, among others:
+●
+unauthorized access to seismic data, reserves information, operational results or other sensitive or proprietary information could have a negative impact on our competitive position in developing our oil and gas resources;
+●
+data corruption, communication interruption, or other operational disruption during drilling activities could result in a dry hole cost or even drilling incidents;
+●
+data corruption or operational disruption of production infrastructure could result in loss of production or accidental discharge;
+●
+a cyber-attack on a vendor or service provider could result in supply chain disruptions which could delay or halt one of our major projects, effectively delaying the start of cash flows from the project;
+●
+a cyber-attack involving commodities exchanges or financial institutions could slow or halt commodities trading, thus preventing us from marketing our production or engaging in hedging activities, resulting in a loss of revenues;
+●
+a cyber-attack on a communications network or power grid could cause operational disruption resulting in loss of revenues;
+●
+a deliberate corruption of our financial or operational data could result in events of non-compliance which could lead to regulatory fines or penalties; and
+●
+significant business interruptions could result in expensive remediation efforts, distraction of management, damage to our reputation, or a negative impact on the price of our common stock.
+As cyber threats continue to evolve, we may be required to expend significant additional resources to continue to modify or enhance our protective measures or to investigate and remediate any information security vulnerabilities.

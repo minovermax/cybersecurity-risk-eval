@@ -1,0 +1,3 @@
+Despite testing, external and internal risks, such as malware, insecure coding, “Acts of God,” data leakage and human error pose a direct threat to our information technology systems and operations.
+We may also be subject to cybersecurity attacks and other intentional hacking.
+Any failure to identify and address such defects or errors or prevent a cyber-attack could result in service interruptions, operational difficulties, loss of revenues or market share, liability to customers or others, diversion of resources, injury to our reputation and increased service and maintenance costs.

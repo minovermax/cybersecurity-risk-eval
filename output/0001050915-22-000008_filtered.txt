@@ -1,0 +1,26 @@
+In addition to these current dynamics, the COVID-19 pandemic may create or exacerbate risks related to our operations and regulatory and compliance matters, including as a result of:
+•evolving governmental guidance or requirements, including travel and movement restrictions and vaccination and testing requirements, that could impact our ability to perform services or complete projects in accordance with required delivery schedules, which could result in additional costs or penalties (e.g., liquidated damages);
+•additional delays with respect to permitting and regulatory matters and additional project deferrals, delays, and cancellations and changes in customer spending patterns and strategic plans as a result of, among other things, prolonged decreases in energy demand, lack of available financing for our customers’ businesses or termination of, or force majeure events arising under, existing customer agreements;
+•potential illness that negatively impacts the availability or productivity of our key personnel or a significant number of employees or causes other disruptions to our business, corporate governance or financial reporting processes;
+•increased payment risk associated with customers experiencing financial difficulties (including bankruptcy) and an increase in disputes with customers relating to billing and payment under contracts and change orders;
+•potential liabilities and reputational harm related to occupational health and safety matters;
+•our inability to execute our business strategy, including with respect to certain capital investments such as acquisitions, investments and service offering expansions;
+•limitations on the ability of our suppliers, vendors and subcontractors to perform;
+•additional impairment charges related to goodwill, other intangible assets, other long-lived assets and investments;
+•additional costs associated with restructuring, severance and related matters or other increased employment-related costs (e.g., workers’ compensation insurance claims); and
+•an increase in cyber-attacks and attempted intrusions into our information technology systems as a result of, among other things, increased reliance on such systems.
+For example, a cyber-attack on one of our vendors or vulnerabilities identified in proprietary or open-source code disclosed by vendors or federal agencies could potentially impact our systems.
+While to date we have not experienced any material impact as a result of cyber-attacks, the ultimate impact of these and similar events remains unknown, and additional vulnerabilities will arise in the future.
+Cyber-attacks can result in compromises of our payment systems, monetary losses, inability to access our systems, delays in processing transactions or reporting financial results, the disclosure or misappropriation of confidential or proprietary company information (including for the purpose of transacting in our stock), or the release of customer, stockholder, vendor or employee data.
+While we have security measures and technology in place to protect our and our clients’ confidential or proprietary company information, there can be no assurance that our efforts will prevent all threats to our computer systems.
+An attack could also cause service disruptions to our internal systems or, in extreme circumstances, infiltration into, damage to or loss of control of our customers’ energy infrastructure systems.
+As a result, we may be required to expend
+significant resources to protect against the threat of system disruptions and security breaches or to alleviate problems caused by these disruptions and breaches.
+Our ability to integrate and realize benefits can be negatively impacted by, among other things:
+•failure of an acquired business to achieve the results we expect;
+•diversion of our management’s attention from operational and other matters or other potential disruptions to our existing business;
+•difficulties incorporating the operations and personnel, or inability to retain key personnel, of an acquired business;
+•additional financial reporting and accounting challenges associated with an acquired business;
+•unanticipated events or liabilities associated with the operations of an acquired business;
+•loss of business due to customer overlap or other factors; and
+•risks and liabilities arising from the prior operations of an acquired business, such as performance, operational, safety, cybersecurity, workforce or other compliance or tax issues, some of which we may not have discovered or accurately estimated during our due diligence and may not be covered by indemnification obligations or available insurance.

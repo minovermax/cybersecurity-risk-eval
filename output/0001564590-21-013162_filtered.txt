@@ -1,0 +1,20 @@
+If we are unable to protect our information systems against service interruption, misappropriation of data, breaches of security, or other cyber-related attacks, our operations could be disrupted, we may suffer financial losses and our reputation may be damaged.
+Further, our computer systems and the third-party systems of our vendors are also subject to damage or interruption from a number of non-criminal causes, including power outages; computer and telecommunications failures; computer viruses; and design or usage errors by our employees or contractors.
+We are, however, continuing to work with our cybersecurity vendors to monitor any impact or activity related to the malware and are tracking governmental notifications and directives as they are issued.
+If we or third parties with which we do business were to fall victim to successful cyber-attacks or experience other cybersecurity incidents such as the SolarWinds incident, including the loss of individually identifiable customer or other sensitive data, we may incur substantial costs and suffer other negative consequences, which may include:
+•
+remediation costs, such as liability for stolen assets or information, repairs of system damage or replacement of systems, and incentives to customers or business partners in an effort to maintain relationships after an attack;
+•
+increased cybersecurity protection costs, which may include the costs to continuing to make organizational changes, deploy additional personnel and protection technologies, train employees, and engage third party consultants;
+•
+lost revenues resulting from the unauthorized use of proprietary information or the failure to retain or attract customers following an attack;
+•
+litigation and legal risks, including regulatory actions by state and federal governmental authorities;
+•
+increased cybersecurity and other insurance premiums;
+•
+reputational damage that adversely affects customer or investor confidence; and
+•
+damage to our competitiveness, stock price, and long-term stockholder value.
+Despite advances in security hardware, software, and encryption technologies, the methods and tools used to obtain unauthorized access, disable or degrade service, or sabotage systems are constantly changing and evolving, and may be difficult to anticipate or detect for long periods of time, and there is no guarantee that the proactive measures we put in place will be adequate to safeguard against all data security breaches or misuses of data.
+In fact, as more business activities have shifted online due to COVID-19 restrictions and otherwise, and as many of our non-store associates are working remotely, we face an increased risk due to the potential interruptions to internal or external information technology infrastructure as well as increased threats and attempts to breach our security networks.

@@ -1,0 +1,5 @@
+Our operations may be subject to cyber-attacks that could have an adverse effect on our business operations.
+We make significant efforts to maintain the security and integrity of these types of information and systems (and maintain contingency plans in the event of security breaches or system disruptions).
+However, we cannot provide assurance that our security efforts and measures will prevent security threats from materializing, unauthorized access to our systems, loss or destruction of data, account takeovers, or other forms of cyber-attacks or similar events, whether caused by mechanical failures, human error, fraud, malice, sabotage or otherwise.
+The frequency, scope and sophistication of cyber-attacks continue to grow, which increases the possibility that our security measures will be unable to prevent our systems’ improper functioning or the improper disclosure of proprietary information.
+Any failure of our information or communication systems, whether caused by attacks, mechanical failures, natural disasters or otherwise, could interrupt our operations, damage our reputation, or subject us to claims, any of which could materially adversely affect us.

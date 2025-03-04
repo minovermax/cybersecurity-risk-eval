@@ -1,0 +1,4 @@
+If we fail to maintain an adequate security infrastructure, adapt to emerging security threats or follow our internal business processes with respect to security, the information or assets we hold could be compromised.
+This risk is increased by transmittal of information over the internet and the increased threat and sophistication of cyber criminals.
+Similar supply chain incidents or breaches could occur to us directly or indirectly through our vendors with little or no warning.
+Any inability to prevent security or privacy breaches, or the perception that such breaches may occur, could inhibit our ability to retain or attract new clients and/or result in financial losses, litigation, increased costs, negative publicity, or other adverse consequences to our business.

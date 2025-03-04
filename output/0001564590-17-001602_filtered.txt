@@ -1,0 +1,48 @@
+Many factors affect the supply of and demand for energy and, therefore, influence oil and natural gas prices, including:
+•
+the level of domestic and worldwide oil and natural gas production and inventories;
+•
+the level of drilling activity and the availability of attractive oil and natural gas field prospects, which governmental actions may affect, such as regulatory actions or legislation, or other restrictions on drilling, including those related to environmental concerns (e.g., a temporary moratorium on deepwater drilling in the Gulf of Mexico following a rig accident or oil spill);
+•
+the discovery rate of new oil and natural gas reserves and the expected cost of developing new reserves;
+•
+the actual cost of finding and producing oil and natural gas;
+•
+depletion rates;
+•
+domestic and worldwide refinery overcapacity or under capacity and utilization rates;
+•
+the availability of transportation infrastructure and refining capacity;
+•
+increases in the cost of products that the oil and gas industry uses, such as those that we provide, which may result from increases in the cost of raw materials such as steel;
+•
+shifts in end-customer preferences toward fuel efficiency and the use of natural gas;
+•
+the economic or political attractiveness of alternative fuels, such as coal, hydrocarbon, wind, solar energy and biomass-based fuels;
+•
+increases in oil and natural gas prices or historically high oil and natural gas prices, which could lower demand for oil and natural gas products;
+•
+worldwide economic activity including growth in non-Organization for Economic Co-operation and Development (“OECD”) countries, including China and India;
+•
+interest rates and the cost of capital;
+•
+national government policies, including government policies that could nationalize or expropriate oil and natural gas, E&P, refining or transportation assets;
+•
+the ability of OPEC to set and maintain production levels and prices for oil;
+•
+the level of production by non-OPEC countries;
+•
+the impact of armed hostilities, or the threat or perception of armed hostilities;
+•
+environmental regulation;
+•
+technological advances;
+•
+global weather conditions and natural disasters;
+•
+currency fluctuations; and
+•
+tax policies.
+However, our information systems could be vulnerable to natural disasters, power losses, telecommunication failures, security breaches and other problems.
+The occurrence of cyber incidents, or a deficiency in our cybersecurity, could negatively impact our business by causing a disruption to our operations, a compromise or corruption of our confidential information or damage to our Company’s image, all of which could negatively impact our financial results.
+More specifically, a cyber incident is an intentional attack or an unintentional event that can include gaining unauthorized access to systems to disrupt operations, corrupt data or steal confidential information.

@@ -1,0 +1,8 @@
+Our servers and those of third parties we use in our operations are vulnerable to computer viruses, physical or electronic break-ins and similar disruptions and periodically experience directed attacks intended to lead to interruptions and delays in our service and operations as well as loss, misuse or theft of data.
+Any attempt by hackers to disrupt our service or otherwise access our systems, if successful, could harm our business, be expensive to remedy and damage our reputation.
+We have implemented certain systems and processes to thwart hackers and, to date, hackers have not had a material impact on our service or systems.
+However, this is no assurance that hackers may not be successful in the future.
+Efforts to prevent hackers from disrupting our service or otherwise accessing our systems are expensive to implement and may limit the functionality of or otherwise negatively impact our service offering and systems.
+Our reputation and relationships with patients would be harmed if our patients’ data, particularly personally identifying data, were to be subject to a cyber-attack or otherwise accessed by unauthorized persons.
+Despite these measures, we could experience, though we have not to date experienced, a cyber-attack or other unauthorized intrusion into our patients’ data.
+In the event our security measures are breached, or if our services are subject to attacks that impair or deny the ability of patients to access our services, current and potential patients may become unwilling to provide us the information necessary for them to become users of our services or may curtail or stop using our services.

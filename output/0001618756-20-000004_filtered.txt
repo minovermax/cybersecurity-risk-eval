@@ -1,0 +1,6 @@
+As a result of such legislative and regulatory rules, we may be required to notify the owners of the personal information of any data breaches, which could harm our reputation and financial results, as well as subject us to litigation or actions by regulatory authorities.
+The techniques and sophistication used to conduct cyber-attacks and breaches, as well as the sources and targets of these attacks, change frequently and are often not recognized until such attacks are launched or have been in place for a period of time.
+Accordingly, our expenditures to prevent future cyber-attacks or breaches may not be successful.
+Information technology system failures or interruptions or breaches of our network security may interrupt our operations, subject us to increased operating costs and expose us to litigation.
+Despite our implementation of security measures, all of our technology systems are vulnerable to damage, disruption or failures due to physical theft, fire, power loss,
+telecommunications failure, or other catastrophic events, as well as from problems with transitioning to upgraded or replacement systems, internal and external security breaches, denial of service attacks, viruses, worms, and other disruptive problems caused by hackers.

@@ -1,0 +1,6 @@
+INTELLECTUAL PROPERTY AND CYBERSECURITY RISKS
+If we are unable to protect our proprietary technology, our competitive advantage could be harmed.
+Our information systems are subject to attacks, interruptions and failures.
+Our security measures may be breached as a result of third-party action, including intentional misconduct by computer hackers, employee error, malfeasance or otherwise.
+Any system, network or Internet failures, misuse by system users, the hacking into or disruption caused by the unauthorized access by third parties or loss of license rights could disrupt our ability to timely and accurately manufacture and ship products or to report our financial information in compliance with the timelines mandated by the SEC.
+Any such failure, misuse, hacking, disruptions or loss would likely cause a diversion of management's attention from the underlying business and could harm our operations.

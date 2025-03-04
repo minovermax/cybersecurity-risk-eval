@@ -1,0 +1,3 @@
+A cybersecurity breach may adversely affect the Company’s reputation, revenue and earnings.
+The Company’s information systems, and those of its third-party service providers and vendors, are vulnerable to the continually evolving cybersecurity risks.
+However, the ever-evolving threats mean the Company and third-party service providers and vendors must continually evaluate and adapt systems and processes, and there is no guarantee that they will be adequate to safeguard against all data security breaches or misuses of data.

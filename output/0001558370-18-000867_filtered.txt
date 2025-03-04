@@ -1,0 +1,38 @@
+Such endeavors may involve significant risks and uncertainties, including, but not limited to, the following:
+·
+Expected and unexpected costs incurred in identifying and pursuing these endeavors, and performing due diligence on potential targets that may or may not be successful;
+·
+Use of cash resources and incurrence of debt and contingent liabilities in funding these endeavors that may limit other potential uses of TripAdvisor’s cash, including stock repurchases, retirement of outstanding indebtedness and/or dividend payments;
+·
+Amortization expenses related to acquired intangible assets and other adverse accounting consequences;
+·
+Diversion of TripAdvisor’s management’s attention or other resources from its existing business;
+·
+Difficulties and expenses in integrating the operations, products, technology, privacy protection systems, information systems or personnel of the company, including the assimilation of corporate cultures;
+·
+Difficulties in implementing and retaining uniform standards, controls, procedures, policies and information systems;
+·
+The assumption of known and unknown debt and liabilities of the acquired company, including costs associated with litigation, cybersecurity risks assumed, and other claims relating to the acquired company;
+·
+Failure of any company which TripAdvisor has acquired, in which it has invested, or with which it has a commercial arrangement, to achieve anticipated revenue, earnings or cash flows or to retain key management or employees;
+·
+Failure to generate adequate returns on acquisitions and investments;
+·
+With respect to minority investments, limited management or operational control and reputational risk, which risk is heightened if the controlling person in such case has business interests, strategies or goals that are inconsistent with those of TripAdvisor;
+·
+Entrance into markets in which TripAdvisor has no direct prior experience and increased complexity in its business;
+·
+Impairment of goodwill or other intangible assets such as trademarks or other intellectual property arising from acquisitions; and
+·
+Adverse market reaction to acquisitions.
+Any significant system disruption in or unauthorized access to TripAdvisor’s computer systems or those of third parties that it utilizes, including those relating to cybersecurity or arising from cyberattacks, could result in a loss or degradation of service, unauthorized disclosure of data or theft of intellectual property and could harm TripAdvisor’s business.
+Significant interruptions, outages, delays or security breaches in internal systems, or systems of third parties that it relies upon, would
+I-24
+impair its ability to process transactions or display content and significantly harm its business.
+In the past, TripAdvisor has experienced cyberattacks, such as computer viruses, security intrusions, and “denial-of-service” or “bot” type attacks, that have made portions of its websites unavailable for short periods of time as well as allowed unauthorized access of its systems and data.
+TripAdvisor also faces risks associated with security breaches affecting third parties conducting business over the internet.
+TripAdvisor may need to expend significant resources to protect against security breaches or to investigate and address problems caused by breaches.
+Security breaches could result in negative publicity, damage to reputation, exposure to risk of loss or litigation and possible liability due to regulatory penalties and sanctions.
+Media coverage of data breaches has escalated, in part because of the increased number of enforcement actions, investigations and lawsuits.
+Security breaches could also cause travelers and potential users to lose confidence in TripAdvisor’s security, which would have a negative effect on the value of its brand.
+Failure to adequately protect against attacks or intrusions, whether for its own systems or systems of vendors, could expose TripAdvisor to security breaches that could have an adverse impact on financial performance.

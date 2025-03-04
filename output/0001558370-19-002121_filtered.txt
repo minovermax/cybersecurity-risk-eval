@@ -1,0 +1,9 @@
+The European Union’s General Data Protection Regulation (“GDPR”), which took effect in May 2018, has extra-territorial scope and substantial fines for breaches (up to 4% of global annual revenue or €20 million, whichever is greater).
+Many of our contracts do not limit our potential liability for breaches of confidentiality.
+Also, we could face cyber-based attacks and attempts by hackers and similar unauthorized users to gain access to or corrupt our information technology systems in order to gain access to confidential information and client data.
+Although we seek to prevent, detect and investigate these network security incidents, and have taken steps to mitigate the likelihood of network security breaches, there can be no assurance that attacks by unauthorized users will not be attempted in the future or that our security measures will be effective.
+We may also be subject to civil actions and criminal prosecution by government or government agencies for breaches relating to such data.
+Our insurance coverage for breaches or mismanagement of such data may not continue to be available on reasonable terms or in sufficient amounts to cover one or more large claims against us.
+We could have liability or our reputation could be damaged if we fail to protect client and/or our data from security breaches or cyberattacks.
+As the breadth and complexity of this infrastructure continues to grow, including as a result of the use of mobile technologies, social media and cloud-based services, the risk of security breaches and cyberattacks increases.
+Such breaches could lead to shutdowns or disruptions of or damage to our systems and those of our clients, alliance partners and vendors, and unauthorized disclosure of sensitive or confidential information, including personal data.

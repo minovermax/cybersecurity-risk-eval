@@ -1,0 +1,4 @@
+We rely on technology in our business and any cybersecurity incident, other technology disruption or delay in implementing new technology could negatively affect our business and our relationships with customers.
+These technology systems are vulnerable to disruption from circumstances beyond our control, including fire, natural disasters, power outages, systems failures, security breaches, espionage, cyber-attacks, viruses, theft and inadvertent release of information.
+Further, as we pursue our strategy to grow through acquisitions and to pursue new initiatives that improve our operations and cost structure, we are also expanding and improving our information technology, resulting in a larger technological presence and corresponding exposure to cybersecurity risk.
+If we fail to assess and identify cybersecurity risks associated with acquisitions and new initiatives, we may become increasingly vulnerable to such risks.

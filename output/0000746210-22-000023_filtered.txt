@@ -1,0 +1,2 @@
+Despite our implementation of security measures, there can be no assurance our safety and security measures will detect and prevent security breaches in a timely manner or otherwise prevent damage or interruption of our systems and operations.
+Breaches of security in our customers’ networks, or in cloud-based services provided by or enabled by us, regardless of whether the breach is attributable to a vulnerability in our products or services, could result in claims of liability against us, damage our reputation, or otherwise harm our business.

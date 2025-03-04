@@ -1,0 +1,3 @@
+Our business is highly dependent on the effective operation of our information technology systems, which are vulnerable to damage or interruption from power outages, computer and telecommunications failures, computer viruses, cyber-attacks, security breaches, catastrophic events and errors in usage.
+Our information technology systems may be vulnerable to physical or electronic intrusions, computer viruses or other attacks.
+Breaches in security could result in the loss or misuse of this information, which could, in turn, result in potential regulatory actions or litigation, including material claims for damages, as well as interruption to our operations and damage to our reputation.

@@ -1,0 +1,33 @@
+•Security breaches and improper access to or disclosure of our data or our clients’ data, or other cyber attacks on our systems, could result in litigation and regulatory risk, harm our reputation and our business.
+Our operations are subject to many hazards inherent in the cloud contact center software business, including:
+•damage to third-party and our infrastructure and data centers, related equipment and surrounding properties caused by earthquakes, hurricanes, tornadoes, floods, fires and other natural disasters, explosions and acts of terrorism;
+•security breaches resulting in loss or disclosure of confidential client and customer data and potential liability to clients and non-client third parties for such losses on disclosures; and
+•other hazards that could also result in suspension of operations, personal injury and even loss of life.
+Security breaches and improper access to or disclosure of our data or our clients’ data, or other cyber attacks on our systems, could result in litigation and regulatory risk, harm our reputation and our business.
+Unauthorized access, unauthorized use of our systems, security breaches or other cyber attacks could result in the loss of confidentiality, integrity and availability of such information, leading to litigation, governmental investigations and enforcements actions, indemnity obligations, increased expense, and other liability.
+While we have security measures in place to protect client information and minimize the probability of security breaches and other cyber attacks, if these measures fail as a result of a cyber-attack, other third-party action, employee error, malfeasance or otherwise, and someone obtains unauthorized access to our clients’ information, our reputation could be damaged, our business may suffer and we could incur significant liability.
+These laws regulate and address a range of issues including data privacy (e.g., restrictions or technological or process requirements regarding the Processing of data), cybersecurity (e.g., requirements for the protection of personal data against compromise of the confidentiality, integrity, or availability of personal data), breach notification, data governance, and risk management and reporting.
+By way of example, under the EU General Data Protection Regulation, or GDPR, data subjects have the right to access, correct, and request deletion of personal data stored or maintained by companies subject to GDPR, such companies may have shorter timeframes and broader requirements for informing data protection authorities and individuals of security breaches that affect their personal data, and, in some cases, may be required to obtain individuals’ consent to process personal data for certain purposes.
+Factors that may contribute to continuing volatility in the price of our common stock include:
+•actual or anticipated fluctuations in our operating results;
+•the impacts of the COVID-19 pandemic and related matters on the equity capital markets and economy in general, or on us or our industry in particular;
+•the financial projections we provide to the public, any changes in these projections, our failure to meet these projections, or our failure to exceed these projections by amounts or percentages expected by our investors and analysts;
+•failure of securities analysts to initiate or maintain coverage of our company, changes in financial estimates by any securities analysts who follow our company, or our failure to meet these estimates or the expectations of investors;
+•ratings changes by any securities analysts who follow our company;
+•sales of our common stock (or securities that convert to our common stock) by us or our significant stockholders, or the public announcement of same;
+•the assessment of our business or position in our market published in research and other reports;
+•announcements by us or our competitors of significant product or technical innovations, financings, acquisitions, strategic partnerships, joint ventures or capital commitments;
+•entry into the market by new competitors, or the introduction of new products or the generation of new sales by us or our competitors;
+•changes in operating performance and stock market valuations of other technology companies generally, or those in the software as a service industry in particular;
+•price and volume fluctuations in the overall stock market, including as a result of trends in the U.S. or global economy;
+•any major change in our board of directors or management;
+•lawsuits threatened or filed against us;
+•security breaches or incidents impacting our clients or their customers and security breaches of companies that provide solutions similar to our solution, which could negatively impact our industry as a whole;
+•legislation or regulation of our business, the internet and/or contact centers;
+•loss of key personnel;
+•new entrants into the contact center market, including the transition by providers of legacy on-premise contact center systems to cloud solutions;
+•acquisitions by us or our competitors, and our ability to effectively integrate and achieve the desired benefits from acquisitions by us;
+•the perceived or real impact of events that harm our direct competitors;
+•developments with respect to patents or proprietary rights;
+•general market conditions; and
+•other events or factors, including those resulting from war, incidents of terrorism or responses to these events, which would be unrelated to our business and industry, and outside of our control.

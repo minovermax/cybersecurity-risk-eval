@@ -1,0 +1,3 @@
+We may experience security breaches that could lead to the inability to protect confidential information.
+Despite the implementation of security measures, our operating systems are vulnerable to electronic breaches of security.
+Such breaches could lead to disruptions of our operations and potential unauthorized disclosure of confidential information, which could result in legal claims or proceedings.

@@ -1,0 +1,32 @@
+Though we are taking these precautionary measures as well as preparing our systems for the likelihood of increased cybersecurity threats, there is no guarantee that our precautions will fully protect our employees or enable us to maintain our productivity and any illnesses linked or alleged to be linked to our employees or service providers, whether accurate or not, could further harm our business.
+Fluctuations in our results of operations may be due to a number of factors, including:
+•the portion of our revenue attributable to software as a service, or SaaS, and license versus hardware and other sales;
+•our ability to manage the businesses we have acquired, and to integrate and manage any future acquisitions of businesses;
+•fluctuations in demand, including due to seasonality or broader economic factors, for our platforms and solutions;
+•changes in pricing by us in response to competitive pricing actions;
+•our ability to increase, retain and incentivize the service provider partners that market, sell, install and support our platforms and solutions;
+•the ability of our hardware vendors to continue to manufacture high-quality products and to supply sufficient components and products to meet our demands;
+•the timing and success of introductions of new solutions, products or upgrades by us or our competitors and the entrance of new competitors;
+•changes in our business and pricing policies or those of our competitors;
+•the ability to accurately forecast revenue as we generally rely upon our service provider partner network to generate new revenue;
+•our ability to control costs, including our operating expenses and the costs of the hardware we purchase;
+•changes in U.S. trade policies, including new or potential tariffs or penalties on imported products;
+•competition, including entry into the industry by new competitors and new offerings by existing competitors;
+•issues related to introductions of new or improved products such as supply chain disruptions or shortages of prior generation products or short-term decreased demand for next generation products;
+•perceived or actual problems with the security, privacy, integrity, reliability, quality or compatibility of our solutions, including those related to security breaches in our systems, our subscribers’ systems, unscheduled downtime, or outages;
+•the amount and timing of expenditures, including those related to expanding our operations, including through acquisitions, increasing research and development, introducing new solutions or paying litigation expenses;
+•the ability to effectively manage growth within existing and new markets domestically and abroad;
+•changes in the payment terms for our platforms and solutions;
+•collectibility of receivables due from service provider partners and other third parties;
+•the strength of regional, national and global economies; and
+•the impact of natural disasters such as earthquakes, hurricanes, fires, power outages, floods, epidemics, pandemics, including COVID-19, and other catastrophic events or man-made problems such as terrorism or global or regional economic, political and social conditions.
+In addition, due to the COVID-19 pandemic, we have enabled substantially all of our employees to work remotely which may make us more vulnerable to cyber-attacks and may create operational or other challenges, any of which could harm our systems or our business.
+Although we have taken precautionary measures to prepare for these threats and challenges, there is no guarantee that our precautions will fully protect our systems.
+Furthermore, because data back-up systems are susceptible to malfunctions and interruptions (including those due to equipment damage, power outages, human error, computer viruses, computer hacking, data corruption and a range of other hardware, software and network problems), we cannot guarantee that we will not experience data back-up failures in the future.
+If security breaches in connection with the delivery of our solutions allow unauthorized third parties to access any of this data or obtain control of our subscribers’ systems, our reputation, business, financial condition, cash flows and results of operations could be harmed.
+The legal, regulatory and contractual environment surrounding information security, privacy and credit card fraud is constantly evolving and companies that collect and retain such information are under increasing attack by cyber-criminals around the world.
+If our security measures are breached, including any breaches caused by cyber-attacks, our reputation may be damaged, we may be exposed to significant liabilities under U.S. and foreign laws, and our business and results of operations may be adversely affected.
+We cannot be certain that advances in cyber-capabilities or other developments will not compromise or breach the technology protecting the networks that access our platforms and solutions, and we can make no assurance that we will be able to detect, prevent, timely and adequately address or mitigate the negative effects of cyber-attacks or other security breaches.
+In addition, due to the COVID-19 pandemic, we have enabled substantially all of our employees to work remotely which may make us more vulnerable to cyber-attacks or other security breaches.
+Security breaches of, or sustained attacks against, our networks and infrastructure could create system disruptions and shutdowns that could result in disruptions to our operations or unauthorized access to or loss of our data.
+A cyber-attack may cause additional costs, such as investigative and remediation costs, and the costs of providing individuals and/or data owners with notice of the breach, legal fees and the costs of any additional fraud detection activities required by law, a court or a third-party.

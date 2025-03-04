@@ -1,0 +1,5 @@
+Cybersecurity, data security, and data privacy breaches may create liability for us, damage our reputation, and harm our business.
+As a cloud-based business, we face risks of cyber-attacks, computer break-ins, theft, denial-of-service attacks, and other improper activity that could jeopardize the performance of our platform and solutions and expose us to financial and reputational harm.
+The security systems and infrastructure we maintain may not be successful in protecting against all security breaches and cyber-attacks, social-engineering attacks, computer break-ins, theft, and other improper activity.
+Threats to our information technology security can take various forms, including viruses, worms, and other malicious software programs that attempt to attack our solutions or platform or to gain access to the data of our customers or their customers.
+In addition, malicious third parties may also conduct attacks designed to sabotage our platform, impede the performance of our solutions, or temporarily deny customers access to our solutions.

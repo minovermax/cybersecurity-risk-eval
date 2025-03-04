@@ -1,0 +1,8 @@
+Such systems are subject to damage or interruption from power outages, computer and telecommunications failures, computer viruses, security breaches and natural disasters.
+In addition, security breaches can also occur as a result of non-technical issues, including vandalism, catastrophic events and human error.
+Our operations may further be impacted by security breaches that occur at third-party suppliers.
+The impact of privacy breaches at service providers could also severely damage our business and reputation.
+The facilities and systems of our third-party service providers may be vulnerable to cyber-security breaches, acts of vandalism, computer viruses, misplaced or lost data, programming and/or human errors or other similar events.
+The protection of our data, which includes both potential cyber-attacks as well as any potential failure to comply with data protection laws and regulations, could subject us to sanctions and damages and could harm our reputation and business.
+In addition, information security threats, particularly cyber security threats, could pose risks to the security of our systems and networks, and the confidentiality, availability and integrity of our data.
+As techniques used in cyber-attacks evolve, we may not be able to timely detect threats or anticipate and implement adequate security measures.

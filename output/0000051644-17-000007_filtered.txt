@@ -1,0 +1,7 @@
+•
+We rely extensively on information technology systems and could face cybersecurity risks.
+The incidence of malicious technology-related events, such as cyberattacks, computer hacking, computer viruses, worms or other destructive or disruptive software, denial of service attacks or other malicious activities is on the rise worldwide.
+We operate in many respects on a decentralized basis, with a large number of agencies and legal entities, and the resulting size, diversity and disparity of our technology systems and complications in implementing standardized technologies and procedures could increase our potential vulnerability to such breakdowns, malicious intrusions or attacks.
+Likewise, data privacy breaches, as well as improper use of social media, by employees and others may pose a risk that sensitive data, such as personally identifiable information, strategic plans and trade secrets, could be exposed to third parties or to the general public.
+We also utilize third parties, including third-party “cloud” computing services, to store, transfer or process data, and system failures or network disruptions or breaches in the systems of such third parties could adversely affect our reputation or business.
+Any such breaches or breakdowns could expose us to legal liability, be expensive to remedy, result in a loss of our or our clients’ or vendors’ proprietary information and damage our reputation.

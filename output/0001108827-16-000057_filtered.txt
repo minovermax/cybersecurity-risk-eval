@@ -1,0 +1,64 @@
+There are operational risks associated with the exploration, production, gathering, transporting, and storage of gas, oil and NGL, including:
+•
+injuries and/or deaths of employees, supplier personnel, or other individuals;
+•
+fire, explosions and blowouts;
+•
+aging infrastructure and mechanical problems;
+•
+unexpected drilling conditions, including abnormally pressured formations or loss of drilling fluid circulation;
+•
+pipe, cement or casing failures;
+•
+title problems;
+•
+equipment malfunctions and/or mechanical failure;
+•
+security breaches, cyberattacks, piracy, or terrorist acts;
+•
+theft or vandalism of oilfield equipment and supplies, especially in areas of increased activity;
+•
+severe weather;
+•
+plant, pipeline, railway and other facility accidents and failures;
+•
+truck and rail loading and unloading; and
+•
+environmental accidents such as oil spills, natural gas leaks, pipeline or tank ruptures, or discharges of air pollutants, brine water or well fluids into the environment.
+Future activist efforts could result in the following:
+•
+delay or denial of drilling and other necessary permits;
+•
+shortening of lease terms or reduction in lease size;
+•
+restrictions on installation or operation of production or gathering facilities;
+•
+more stringent setback requirements from houses, schools and businesses;
+•
+towns, cities, states and counties considering bans on certain activities, including hydraulic fracturing;
+•
+restrictions on the use of certain operating practices, such as hydraulic fracturing, or the disposition of related waste materials, such as hydraulic fracturing fluids and produced water;
+•
+reduced access to water supplies;
+•
+increased severance and/or other taxes;
+•
+cyberattacks;
+•
+legal challenges or lawsuits;
+•
+negative publicity about QEP;
+•
+increased costs of doing business;
+•
+reduction in demand for QEP's production;
+•
+other adverse effects on QEP's ability to develop its properties and increase production;
+•
+increased regulation of rail transportation of crude oil;
+•
+opposition to the construction of new oil and gas pipelines; and
+•
+postponement of federal and state oil and gas lease sales.
+The U.S. government has issued public warnings that indicate that energy assets might be specific targets of cyber security threats.
+QEP's technologies, systems, networks, and those of its vendors, suppliers and other business partners may become the target of cyberattacks or information security breaches that could result in the unauthorized release, gathering, monitoring, misuse, loss or destruction of proprietary and other information, or other disruption of its business operations.

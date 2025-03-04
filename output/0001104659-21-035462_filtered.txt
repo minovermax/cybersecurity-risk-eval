@@ -1,0 +1,8 @@
+Risk factors related to cybersecurity
+The Company is dependent on information and communication systems to support its business and e-commerce sales.
+Significant interruptions in the Company’s EDI, information and communication systems from power loss, telecommunications failure, malicious attacks, or computer system failure could significantly disrupt the Company’s business and operations, as well as damage its reputation.
+The Company, particularly its retail segment and its e-commerce businesses, is subject to the risk of data loss and security breaches.
+Failure to prevent or mitigate data loss or other security breaches, including breaches of Company technology and systems, could expose the Company or its customers to a risk of loss or misuse of such information, adversely affect the Company’s operating results, result in litigation or potential liability for the Company, and otherwise harm the Company’s business and/or reputation.
+Our technology and systems, as well as those of our partners have, and in the future may, become the target of cyberattacks.
+Although the Company has developed systems and processes that are designed to protect customer information and prevent data loss and other security breaches,
+including systems and processes designed to reduce the impact of a security breach at a third-party vendor, such measures cannot provide absolute security.

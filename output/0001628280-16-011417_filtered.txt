@@ -1,0 +1,3 @@
+The U.S. government has issued public warnings that indicate that energy assets might be specific targets of cyber security threats.
+Our technologies, systems, networks, and those of its vendors, suppliers and other business partners, may become the target of cyberattacks or information security breaches that could result in the unauthorized release, gathering, monitoring, misuse, loss or destruction of proprietary and other information, or other disruption of its business operations.
+We do not maintain specialized insurance for possible liability resulting from a cyberattack on our assets that may shut down all or part of our business.

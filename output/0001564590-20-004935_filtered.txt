@@ -1,0 +1,40 @@
+Operating in a rapidly evolving industry involves a high degree of risk and our future success will depend in part on our ability to:
+•
+attract and retain market participants on our platforms on a cost-effective basis;
+•
+expand and enhance reliable and cost-effective product and service offerings for our clients;
+•
+respond effectively to competitive pressures;
+•
+respond effectively to the loss of any of our significant broker-dealer or institutional investor clients, including due to merger, consolidation, bankruptcy, liquidation or other cause (including, among other things, the collection of any amounts due from such clients);
+•
+diversify our sources of revenues;
+•
+maintain adequate control of our expenses;
+•
+operate, support, expand and develop our operations, technology, website, software, communications and other systems;
+•
+defend our trading platforms and other systems from cybersecurity threats;
+•
+manage growth in personnel and operations;
+•
+increase awareness of our brand or market positioning;
+•
+expand our sales and marketing programs;
+•
+take advantage of acquisitions, strategic alliances and other opportunities; and
+•
+respond to regulatory changes or demands.
+Our systems, networks, infrastructure and other operations, in particular our trading platforms, are vulnerable to impact or interruption from a wide variety of causes, including: irregular or heavy use of our trading platforms during peak trading times or at times of increased market volatility; power, internet or telecommunications failures; hardware failures or software errors; human error, acts of vandalism or sabotage; catastrophic events, such as natural disasters, extreme weather events or acts of war or terrorism; malicious cyberattacks or cyber incidents, such as unauthorized access, ransomware, loss or destruction of data, computer viruses or other malicious code; and the loss or failure of systems over which we have no control, such as loss of support services from critical third-party providers.
+Any failure of, or significant interruption, delay or disruption to, or security breaches affecting, our systems, networks or infrastructure has in the past, and could in the future, result in: disruption to our operations, including disruptions in service to our clients; slower response times; distribution of untimely or inaccurate market data to clients who rely on this data for their trades; delays in trade execution; incomplete or inaccurate accounting, recording or processing of trades; significant expense to repair, replace or remediate systems, networks or infrastructure; financial losses and liabilities to clients; loss of clients; legal or regulatory claims, proceedings, penalties or fines.
+Cybersecurity Risks
+Malicious cyber-attacks and other adverse events affecting our operational systems or infrastructure, or those of third parties, could disrupt our businesses, result in the disclosure of confidential information, damage our reputation and cause losses or regulatory penalties.
+Despite the defensive measures we have taken, we are, and will continue to be, subject to attacks, which may come from external factors such as governments, organized crime, hackers, and other third parties such as infrastructure-support providers and application developers, or may originate internally from an employee or service provider to whom we have granted access to our computer systems.
+Any failure of, or significant interruption, delay or disruption to, our systems, networks or infrastructure due to a cyber-attack could result in: disruption to our operations, including disruptions in service to our clients; slower response times; distribution of untimely or inaccurate market data to clients who rely on this data for their trades; delays in trade execution; incomplete or inaccurate accounting, recording or processing of trades; significant expense to repair, replace or remediate systems, networks or infrastructure; financial losses and liabilities to clients; loss of clients; legal or regulatory claims, proceedings, penalties or fines.
+Such parties could also be the source of a cyber-attack on or breach of our operational systems, data or infrastructure.
+There have been an increasing number of cyber-attacks in recent years in various industries, including ours, and cyber-security risk management has been the subject of increasing focus by our regulators.
+Our regulators in recent years have increased their examination and enforcement focus on matters relating to cybersecurity threats, including the assessment of firms’ vulnerability to cyber-attacks.
+In particular, regulatory concerns have been raised about firms establishing effective cybersecurity governance and risk management policies, practices and procedures; protecting firm networks and information; identifying and addressing risks associated with clients, vendors, and other third parties; preventing and detecting unauthorized activities; adopting effective mitigation and business continuity plans to address the impact of cybersecurity breaches; and establishing protocols for reporting cybersecurity incidents.
+Any insurance that we may have that covers a specific cybersecurity incident would not protect us from the effects of adverse regulatory actions that may result from the incident or a finding that we had inadequate cybersecurity controls, including the reputational harm that could result from such regulatory actions.
+Our remediation costs and lost revenues could be significant if we fall victim to a cyber-attack.
+We may be required to expend significant resources to repair system damage, protect against the threat of future security breaches or to alleviate problems, including reputational harm, loss of clients and revenues and litigation, caused by any breaches.

@@ -1,0 +1,9 @@
+Risk Factors
+The risks described below fall into five broad categories related to (1) oil price volatility and demand, (2) future executive, legislative or regulatory actions, (3) financial risks, (4) cybersecurity risks, and (5) those related to our operations and industry.
+Risks Relating to a Cybersecurity Breach
+A cyber breach could occur and result in information theft, data corruption, operational disruption, and/or financial loss.
+Cyberattacks on businesses have escalated in recent years.
+Our technologies, systems and networks, or those of software providers that we use, may become the target of cyberattacks or information security breaches that could compromise our process control networks or other critical systems and infrastructure, resulting in disruptions to our business operations, harm to the environment or our assets, disruptions in access to our financial reporting systems, or loss, misuse or corruption of our critical data and proprietary information, including our business information and that of our employees, partners and other third parties.
+Although we have not incurred any material losses from cyberattacks, future cyberattacks could result in significant financial losses, legal or regulatory violations, reputational harm, and legal liability.
+In addition, in connection with COVID-19 precautions, many of our employees and those of our service providers, vendors and industry partners have been working, and some may continue to work, from home or other remote-work locations, where cybersecurity protections may be less robust and cybersecurity procedures and safeguards may be less effective.
+The Audit Committee’s duties and responsibilities include reviewing and discussing the Company’s guidelines and policies with respect to risk assessment and risk management, as well as the Company’s major financial and cybersecurity risk exposures and the steps that management has taken to monitor and control such exposures.

@@ -1,0 +1,26 @@
+Our e-commerce operations are subject to numerous other risks that could have an impact on our results of operations, including:
+•
+unanticipated operating problems;
+•
+reliance on third-party computer hardware, software and service providers;
+•
+the need to continually invest in technology and security;
+•
+our ability to hire, retain and train personnel to conduct our e-commerce operations;
+•
+diversion of sales from our physical stores;
+•
+our ability to manage any upgrades or other technological changes;
+•
+our ability to provide customer-facing technology systems, including mobile technology solutions, that function reliably and provide a convenient and consistent experience for our customers;
+•
+exposure to potential liability for online content;
+•
+risks related to the failure of the computer systems that operate our e-commerce platform and the related support systems, including computer viruses, telecommunication failures and cyberattacks and break-ins and similar disruptions; and
+•
+security risks related to our electronic processing and transmission of confidential customer information.
+If our distribution center is shut down for any reason, if our information technology systems do not operate effectively, or if we are the target of attacks or security breaches, we may suffer the loss of critical data, we could incur significantly higher costs and longer lead times associated with distributing our products to our stores, our ability to operate our e-commerce platform may be impacted, and we could experience other interruptions or delays to our operations, which could have an adverse effect on our operating and financial performance.
+Although we have implemented processes to collect and protect the integrity and security of this personal information, there can be no assurance that this information will not be obtained by unauthorized persons, or collected or used inappropriately, including as a result of cybersecurity breaches, acts of vandalism, computer viruses, credit card fraud or phishing.
+Advanced cybersecurity threats are persistent and continue to evolve, making them increasingly difficult to identify and prevent.
+Natural risks, as well as other hazards associated with our operations, can result in personal injury, severe damage or destruction to our owned assets, leasehold improvements and inventory, suspension of our operations, and cybersecurity breaches.
+Our insurance covers costs relating to specified, limited matters, such as events involving casualty losses and property losses due to fire and windstorms, as well as securities litigation and certain cybersecurity incidents, but does not cover other events such as acts of war or terrorist attacks.

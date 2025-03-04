@@ -1,0 +1,4 @@
+The resolution of claims related to alleged breaches of these representations and warranties and repurchase claims could have a material adverse effect on our financial condition, cash flows and results of operations and could result in losses that exceed existing estimates and accruals.
+In 2021, we had an external review of our cybersecurity program performed by a third party, which allowed us to enhance our overall program.
+We also require employees to complete training sessions regarding matters such as cybersecurity threats and data protection on a regular basis.
+These security measures may not be sufficient for all possible occurrences and may be vulnerable to hacking, employee error, malfeasance, system error, faulty password management or other irregularities.

@@ -1,0 +1,3 @@
+Security breaches to our physical facilities, computer networks, and informational databases, and unauthorized use of, or interference with, our network could disrupt services and result in loss of customer data and customers, and increase our costs.
+In addition, computer viruses, theft, attacks by hackers, or similar disruptive problems may occur.
+If hackers gain improper access to our databases, they may be able to steal, publish, delete or modify confidential personal information concerning our subscribers.

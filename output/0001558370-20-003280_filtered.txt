@@ -1,0 +1,9 @@
+Information technology vulnerabilities and cyberattacks on our networks could have a material adverse impact on our business.
+Accordingly, maintaining the security of our computers and other electronic devices, computer networks and data storage resources is a critical issue for us and our customers and suppliers because security breaches could result in reduced or lost ability to carry on our business and loss of and/or unauthorized access to confidential information.
+From time to time, we experience cyberattacks on our information technology systems, and those of our distributors, manufacturers, suppliers and other partners, whose systems we do not control.
+Information security risks have generally increased in recent years because of the proliferation of new technologies and the increased sophistication and activities of perpetrators of cyberattacks.
+Experienced hackers, cybercriminals and perpetrators of threats may be able to penetrate our network security and misappropriate or compromise our confidential information or that of third parties, create system disruptions or cause shutdowns.
+These perpetrators of cyberattacks also may be able to develop and deploy viruses, worms, malware and other malicious software programs that attack our information and networks or otherwise exploit any security vulnerabilities of our information and networks.
+We also face the risk that we may expose our customers or partners to cyberattacks.
+As cyber threats continue to evolve, we may be required to expend additional significant resources to continue to enhance our information security measures and/or to investigate and remediate any information security vulnerabilities.
+It also provides a new private right of action for data breaches.

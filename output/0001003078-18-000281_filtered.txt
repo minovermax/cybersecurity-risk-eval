@@ -1,0 +1,11 @@
+﻿
+Disruptions or breaches of our information systems, or violations of data privacy laws, could adversely affect us.
+Our IT systems may be vulnerable to damage or disruption caused by circumstances beyond our control or anticipation, such as catastrophic events, power outages, natural disasters, computer system or network failures, computer viruses, and physical or electronic break-ins.
+In addition, our IT systems may be vulnerable to cyber-attacks, which are rapidly evolving and becoming increasingly sophisticated.
+Despite our efforts to ensure the integrity of our IT systems, as cyber-attacks evolve and become more difficult to detect and successfully defend against, one or more cyber-attacks might defeat the measures that we take to anticipate, detect, avoid or mitigate these threats.
+These cyber-attacks and any unauthorized access or disclosure of our information could compromise and expose sensitive information and damage our reputation.
+Cyber-attacks could also cause us to incur significant remediation costs, disrupt our operations and divert management attention and key IT resources.
+﻿
+Any material cyber-attack or failure of our IT systems to perform as we anticipate could disrupt our business and operations, result in transaction errors, loss of data, processing inefficiencies, downtime, litigation, substantial remediation
+costs (including potential liability for stolen assets or information and the costs of repairing system damage), the loss of sales and customers, and damage our reputation.
+If any of them experience a cyber-attack or other cyber incident, this could adversely impact their operations, which may in turn impact or adversely affect our operations.

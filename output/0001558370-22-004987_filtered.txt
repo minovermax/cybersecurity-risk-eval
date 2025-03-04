@@ -1,0 +1,15 @@
+The operating risks that may have a significant impact on our future coal operations include:
+● variations in thickness of seams of coal;
+● adverse geologic conditions, including amounts of rock and other natural materials intruding into the coal seam, that could affect the stability of the roof and the side walls of the mine;
+● environmental hazards;
+● mining and processing equipment failures, structural failures and unexpected maintenance problems;
+● fires or explosions, including as a result of methane, coal, coal dust or other explosive materials, or other accidents;
+● inclement or hazardous weather conditions and natural disasters or other force majeure events;
+● seismic activities, ground failures, rock bursts or structural cave-ins or slides;
+● delays in moving our mining equipment;
+● railroad delays or derailments;
+● security breaches or terroristic acts; and
+● other hazards or occurrences that could also result in personal injury and loss of life, pollution and suspension of operations.
+Deliberate attacks on, or security breaches in, our systems or infrastructure, or the systems or infrastructure of third parties, including systems that collect, organize, store or use personal data, or cloud-based applications could lead to corruption or loss of our proprietary data and potentially sensitive data, delays in production or delivery, difficulty in completing and settling transactions, challenges in maintaining our books and records, environmental damage, communication interruptions, other operational disruptions and third-party liability.
+Due to the nature of cyber-attacks, breaches to our or our service or equipment providers’ systems could go unnoticed for a prolonged period of time.
+Information technology solution failures, network disruptions and breaches of data security could disrupt our operations by causing delays or canceling or impeding processing of transactions and reporting financial results, resulting in the unintentional disclosure of employee, royalty owner, or other third party or our confidential information, or damage to our reputation.

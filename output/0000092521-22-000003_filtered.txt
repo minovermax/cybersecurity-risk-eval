@@ -1,0 +1,5 @@
+These efforts, led by the NERC, test and further develop the coordination, threat sharing and interaction between utilities and various government agencies relative to potential cyber and physical threats against the nation’s electric grid.
+Our industry has been the target of several attacks on operational systems and has seen an increased volume and sophistication of cyber security incidents from international activist organizations, Nation States and individuals.
+To date, no cybersecurity incident or attack has had a material impact on our business or results of operation.
+We are unable to quantify the potential impact of cyber security threats or subsequent related actions.
+The cyber security threat is dynamic and evolves continually, and our efforts to prioritize network protection may not be effective given the constant changes to threat vulnerability.

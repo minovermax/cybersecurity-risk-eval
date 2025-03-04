@@ -1,0 +1,5 @@
+Our network may be the target of potential cyber-attacks and other security breaches that could have significant negative consequences.
+Our network, including our routers, may be vulnerable to unauthorized access, computer viruses, cyber-attacks, distributed denial of service (DDOS), and other security breaches.
+An attack on or security breach of our network could result in interruption or cessation of services, our inability to meet our service level commitments, and potentially compromise customer data transmitted over our network.
+Cyber-attacks of increasing sophistication and breadth suggest an increase in cyber-attacks that may be state-sponsored or conducted by other well-financed organizations.
+Network failures, delays and errors could also result from natural disasters, power losses, security breaches, computer viruses, distributed denial of service attacks, fiber cuts, and other natural or man-made events.

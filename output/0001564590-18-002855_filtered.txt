@@ -1,0 +1,4 @@
+The Company’s information systems may experience interruptions or breaches in security.
+Information security risks for large financial institutions such as M&T have increased significantly in recent years in part because of the proliferation of new technologies, such as Internet and mobile banking to conduct financial transactions, and the increased sophistication and activities of organized crime, hackers, terrorists, nation-states, activists and other external parties.
+There have also been several highly publicized cases where hackers have requested “ransom” payments in exchange for not disclosing customer information.
+As cyber threats continue to evolve, the Company may be required to expend significant additional resources to continue to modify or enhance its layers of defense or to investigate and remediate any information security vulnerabilities.

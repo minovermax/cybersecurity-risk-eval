@@ -1,0 +1,6 @@
+In addition, in order to facilitate remote working arrangements, some of the Company’s temporary workers are accessing client workspaces from their personal devices through cloud-based systems, which could increase cybersecurity risks to the Company’s clients for which they may hold the Company liable.
+Risks Related to the Company’s Information Technology, Cybersecurity and Data Protection
+The Company’s computer and communications hardware and software systems are vulnerable to damage and interruption.
+The Company’s primary computer systems and operations are vulnerable to damage or interruption from power outages, computer and telecommunications failures, computer viruses, security breaches, catastrophic events and errors in usage by the Company’s employees and those of the Company’s vendors.
+Cyber-attacks, including attacks motivated by grievances against the business services industry in general or against the Company in particular, may disable or damage its systems.
+The potential risk of security breaches and cyber-attacks may increase as the Company introduces new service offerings.

@@ -1,0 +1,3 @@
+NTIC’s business could be negatively impacted by cyber security threats.
+NTIC faces various cyber security threats, including cyber security attacks to its information technology infrastructure and attempts by others to gain access to its proprietary or sensitive information.
+The procedures and controls NTIC uses to monitor these threats and mitigate its exposure may not be sufficient to prevent cyber security incidents.

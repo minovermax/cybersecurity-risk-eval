@@ -1,0 +1,32 @@
+Fluctuations in our results of operations may be due to a number of factors, including, but not limited to, those listed below and identified throughout this “Risk Factors” section:
+•
+our ability to retain and increase sales to customers and attract new customers, including our ability to maintain and increase our number of recurring revenue customers;
+•
+the timing and success of introductions of new solutions or upgrades by us or our competitors;
+•
+the strength of the economy, in particular as it affects the retail sector;
+•
+the financial condition of our customers;
+•
+changes in our pricing policies or those of our competitors;
+•
+competition, including entry into the industry by new competitors and new offerings by existing competitors;
+•
+the amount and timing of our expenses, including stock-based compensation and expenditures related to expanding our operations, supporting new customers, performing research and development, or introducing new solutions;
+•
+regulatory compliance costs and unforeseen legal expenses, including litigation and settlement costs;
+•
+the timing, size, and integration success of potential future acquisitions;
+•
+changes in the payment terms for our solutions; and
+•
+system or service failures, security breaches or network downtime.
+In addition, third party malfeasance, such as intentional misconduct by computer hackers, unauthorized intrusions, computer viruses or denial of service attacks, may also cause substantial service disruptions.
+While we continue to expand our focus on this issue and are taking measures to safeguard our solutions and services from cybersecurity threats and vulnerabilities, cyber-attacks and other security incidents continue to evolve in sophistication and frequency.
+In addition, our connection to the retail industry could present the opportunity for an attack on our system to serve as a way to obtain access into our users’ systems, which could have a material adverse effect on our financial condition and growth prospectus.
+Businesses in our industry have experienced material sales declines after discovering data breaches, and our business could be similarly impacted.
+Furthermore, some US states and international jurisdictions have enacted laws requiring companies to notify consumers of data security breaches involving their personal data.
+Though it is difficult to determine what, if any, harm may directly result from any specific interruption or attack, any failure to maintain performance, reliability, security and availability of our products and technical infrastructure to the satisfaction of our users may harm our reputation, impair our ability to retain existing customers and attract new customers and expose us to legal claims and government action, each of which could have a material adverse impact on our financial condition, results of operations and growth prospects.
+Our security measures may be breached as a result of third-party action, including intentional misconduct by computer hackers, employee error, malfeasance or otherwise and result in someone obtaining unauthorized access to our customers’ data or our data, including our intellectual property and other confidential business information, or our IT systems.
+Malicious third-parties may also conduct attacks designed to temporarily deny customers access to our services.
+If any compromise of this information security were to occur, or if we fail to detect and appropriately respond to a significant data security breach, we could face service disruptions, be subject to legal claims and government action, experience an adverse effect on our reputation and need to incur significant additional costs to protect against similar information security breaches in the future, each of which could adversely impact our financial condition, results of operations and growth prospects.

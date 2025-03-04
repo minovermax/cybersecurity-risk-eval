@@ -1,0 +1,2 @@
+These assets and the information technology systems on which they depend could be direct targets of, or indirectly affected by, cyber attacks and other disruptive activities, including cyber attacks and other disruptive activities on third party facilities that are interconnected to us through the regional transmission grid or natural gas pipeline infrastructure.
+Security breaches could lead to system disruptions, generating facility shutdowns or unauthorized disclosure of confidential information.

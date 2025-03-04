@@ -1,0 +1,22 @@
+While we usually require the sellers to indemnify us with respect to breaches of representations and warranties that survive, such indemnification is often limited and subject to various materiality thresholds, a significant deductible or an aggregate cap on losses.
+As a result, there is no guarantee that we will recover any amounts with respect to losses due to breaches by the sellers of their representations and warranties.
+The offerings we provide are subject to failure resulting from numerous factors, including:
+·
+human error;
+·
+power loss;
+·
+improper building maintenance by the landlords of the buildings in which our data centers are located;
+·
+physical or electronic security breaches;
+·
+fire, earthquake, hurricane, flood, and other natural disasters;
+·
+water damage;
+·
+the effect of war, terrorism, and any related conflicts or similar events worldwide; and
+·
+sabotage and vandalism.
+We may be vulnerable to security breaches that could disrupt our operations and adversely affect our business.
+Despite security measures and business continuity plans, our information technology networks and infrastructure may be vulnerable to damage, disruptions, or shutdowns due to unauthorized access, computer viruses, cyber-attacks, distributed denial of service, and other security breaches.
+An attack on or security breach of our network could result in interruption or cessation of access and services, our inability to meet our access and service level commitments, and potentially compromise customer data transmitted over our network.

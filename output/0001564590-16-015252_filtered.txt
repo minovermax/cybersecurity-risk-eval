@@ -1,0 +1,2 @@
+Although our computer and communications software is protected through physical and software safeguards, it is still vulnerable to fire, storm, flood, power loss, earthquakes, telecommunications failures, physical or software break-ins, software viruses and similar events.
+The techniques used by criminal elements to attack computer systems are sophisticated, change frequently and may originate from less regulated and remote areas of the world.

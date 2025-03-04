@@ -1,0 +1,5 @@
+Intrusions into our computer systems could result in compromise of confidential information.
+Despite the implementation of security measures, our technology or systems that we interface with, including the Internet and related systems, may be vulnerable to physical break-ins, hackers, improper employee or contractor access, computer viruses, programming errors, or similar problems.
+We may be required to expend significant capital and other resources to ensure ongoing compliance with applicable privacy and data security laws, to protect against security breaches and hackers or to alleviate problems caused by such breaches.
+Moreover, despite network security and back-up measures, some of our servers are potentially vulnerable to physical or electronic break-ins, computer viruses and similar disruptive problems.
+Breaches affecting 500 individuals or more may be publicized by federal regulators who publicly identify the breaching entity, the circumstances of the breach and the number of individuals affected.

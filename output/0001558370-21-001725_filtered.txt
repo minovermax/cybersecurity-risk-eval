@@ -1,0 +1,5 @@
+We conduct third-party due diligence and seek to obtain contractual assurance that our vendors will maintain adequate controls, such as adequate security against data breaches.
+Our critical business and information technology systems have in the past, and could in the future be damaged or interrupted by power loss, various technological failures, user errors, cyber-attacks, sabotage or acts of God.
+Constantly changing information security threats, particularly persistent cyber security threats, pose risks to the security of our systems and networks, and the confidentiality, availability and integrity of our data and the availability and integrity of our critical business functions.
+As techniques used in cyber-attacks evolve, we may not be able to timely detect threats or anticipate and implement adequate security measures.
+The failure to prevent fraud or security breaches or to adequately invest in data security could harm our business and revenues due to the reputational damage to our brand.

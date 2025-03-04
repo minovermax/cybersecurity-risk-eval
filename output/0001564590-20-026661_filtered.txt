@@ -1,0 +1,9 @@
+A greater number of these personnel working remotely may also expose us to greater risks related to cybersecurity and cyber-liability.
+Our internal computer systems or those of our CROs or other contractors or consultants, may fail or suffer security breaches, which could result in a material disruption of our drug development program.
+Despite the implementation of security measures, our internal computer systems, and those of our CROs and other third parties on which we rely, are vulnerable to damage from computer viruses, unauthorized access, natural disasters, terrorism, war and telecommunication and electrical failures.
+Cyber-attacks are increasing in their frequency, sophistication and intensity, and have become increasingly difficult to detect.
+Cybersecurity incidents resulting in the failure of our systems to operate effectively or to integrate with other systems, including those of third-parties with whom we rely on for research, clinical trial services or other business and administrative services, or a breach in security or other unauthorized access of these systems, may affect our ability to manage and maintain our operations.
+Security breaches and other inappropriate access can be difficult to detect, and any delay in identifying them may lead to increased harm of the type described above.
+There can be no assurance that the security measures we have implemented to protect our information technology systems and infrastructure will prevent service interruptions or security breaches that could adversely affect our business.
+Use of social media could give rise to liability, breaches of data security, or reputational harm.
+The CCPA defines personal information broadly and allows for fines as well as a private right of action from individuals in relation to certain security breaches involving personal information.

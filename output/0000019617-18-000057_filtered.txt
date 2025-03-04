@@ -1,0 +1,106 @@
+JPMorgan Chase’s results of operations can be negatively affected by adverse changes in any of the following:
+•
+the liquidity in the U.S. and global financial markets
+•
+the level and volatility of market prices and rates, including those for debt and equity instruments,
+Part I
+currencies, commodities, interest rates and other market indices
+•
+investor, consumer and business sentiment
+•
+events that reduce confidence in the financial markets
+•
+inflation and unemployment
+•
+the availability and cost of capital and credit
+•
+the economic effects of natural disasters, severe weather conditions, health emergencies or pandemics, cyberattacks, outbreaks of hostilities, terrorism or other geopolitical instabilities
+•
+monetary and fiscal policies and actions taken by governmental authorities, including the Federal Reserve and other central banks, and
+•
+the health of the U.S. and global economies.
+As the speed, frequency, volume and complexity of transactions increases, it becomes more challenging to effectively maintain JPMorgan Chase’s operational systems and infrastructure, especially due to the heightened risks that:
+•
+errors, whether inadvertent or malicious, cause widespread system disruption
+•
+isolated or seemingly insignificant errors in operational systems compound, or migrate to other systems over time, to become larger issues
+•
+failures in synchronization or encryption software, or degraded performance of microprocessors due to design flaws, causes disruptions in operational systems, or the inability of systems to communicate with each other, and
+•
+third parties attempt to block the use of key technology solutions by claiming that the use infringes on their intellectual property rights.
+Security breaches affecting JPMorgan Chase’s customers, or systems breakdowns or failures, security breaches or human error or misconduct affecting those other third parties, may require JPMorgan Chase to take steps to protect the integrity of its own operational systems or to safeguard confidential information.
+JPMorgan Chase’s business and operational systems could be seriously disrupted by events that are wholly or partially beyond its control, including:
+•
+cyberbreaches or breaches of physical premises
+•
+electrical or telecommunications outages
+•
+failures of, or loss of access to, operational systems, including computer systems, servers, networks and other technology assets
+•
+damage to or loss of property or assets
+•
+natural disasters or severe weather conditions
+•
+health emergencies or pandemics, or
+•
+events arising from local or larger-scale political events, including outbreaks of hostilities or terrorist acts.
+A successful cyberattack against JPMorgan Chase could cause significant harm to JPMorgan Chase or its clients and customers.
+JPMorgan Chase experiences numerous cyberattacks on its computer systems, software, networks and other technology assets on a daily basis.
+JPMorgan Chase has also been the target of significant distributed denial-of-service attacks which are intended to disrupt online banking services.
+JPMorgan Chase devotes significant resources to maintain and regularly upgrade its systems to protect them against cyberattacks.
+However, JPMorgan Chase has experienced security breaches due to cyberattacks in the past, and it is inevitable that additional breaches will occur in the future.
+A principal reason that JPMorgan Chase cannot provide absolute security against cyberattacks is that it may not always be possible to anticipate, detect or recognize threats to JPMorgan Chase’s systems, or to implement effective preventive measures against all breaches.
+This is because, among other things:
+•
+the techniques used in cyberattacks change frequently and may not be recognized until launched
+•
+cyberattacks can originate from a wide variety of sources, including third parties who are or may be involved in organized crime or linked to terrorist organizations or hostile foreign governments, and
+•
+third parties may seek to gain access to JPMorgan Chase’s systems either directly or using equipment or security passwords belonging to employees, customers, third-party service providers or other users of JPMorgan Chase’s systems.
+The risk of a security breach due to a cyberattack could increase in the future as JPMorgan Chase continues to expand its mobile-payment and other internet-based product offerings and its internal use of web-based products and applications.
+A successful penetration or circumvention of the security of JPMorgan Chase’s systems or the systems of a supplier, governmental body or another market participant could cause serious negative consequences, including:
+•
+significant disruption of JPMorgan Chase’s operations and those of its clients, customers and counterparties, including losing access to operational systems
+•
+misappropriation of confidential information of JPMorgan Chase or that of its clients, customers, counterparties or employees
+•
+damage to computers or systems of JPMorgan Chase and those of its clients, customers and counterparties
+•
+inability to fully recover and restore data that has been stolen, manipulated or destroyed, or to prevent systems from processing fraudulent transactions
+•
+violations by JPMorgan Chase of applicable privacy and other laws
+•
+financial loss to JPMorgan Chase or to its clients and customers
+•
+loss of confidence in JPMorgan Chase’s cybersecurity measures
+•
+client and customer dissatisfaction
+•
+significant exposure to litigation and regulatory fines, penalties or other sanctions, or
+•
+harm to JPMorgan Chase’s reputation.
+JPMorgan Chase may not be able to immediately address the consequences of a security breach due to a cyberattack.
+A successful breach of JPMorgan Chase’s computer systems, software, networks or other technology assets due to a cyberattack could occur and persist for an extended period of time before being detected due to, among other things:
+•
+the breadth of JPMorgan Chase’s operations and the high volume of transactions that it processes
+•
+the large number of customers, counterparties and third-party service providers with which JPMorgan Chase does business
+•
+the proliferation and increasing sophistication of cyberattacks, and
+•
+the possibility that a third party, after establishing a foothold on an internal network without being detected, might obtain access to other networks and systems.
+The extent of a particular cyberattack and the steps that JPMorgan Chase may need to take to investigate the attack may not be immediately clear, and it may take a significant amount of time before such an investigation can be completed and full and reliable information about the attack is known.
+While such an investigation is ongoing, JPMorgan Chase may not necessarily know the extent of the harm or how best to remediate it, and certain errors or actions could be repeated or compounded before they are discovered and remediated, any or all of which could
+Part I
+further increase the costs and consequences of a cyberattack.
+Harm to JPMorgan Chase’s reputation can arise from numerous sources, including:
+•
+employee misconduct
+•
+security breaches
+•
+compliance failures
+•
+litigation or regulatory fines, penalties or other sanctions, or
+•
+regulatory investigations, enforcement actions or settlements.

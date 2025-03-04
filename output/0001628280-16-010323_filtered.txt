@@ -1,0 +1,5 @@
+In addition, when we sell loans to securitization trusts or other purchasers in our Rialto segment, we give limited industry standard representations and warranties about the loans, which, if incorrect, may require us to repurchase the loans, replace them with substitute loans or indemnify persons for losses or expenses incurred as a result of
+breaches of representations and warranties.
+Information technology failures and data security breaches could harm our business.
+Our IT systems, like those of most companies, may be vulnerable to a variety of interruptions, including, but not limited to, natural disasters, telecommunications failures, hackers, and other security issues.
+Moreover, our computer systems, like those of most companies, are subjected to computer viruses or other malicious codes, and to cyber or phishing-attacks.

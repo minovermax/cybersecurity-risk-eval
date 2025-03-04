@@ -1,0 +1,6 @@
+Since our content is digitally stored and distributed online, and we accept online payments for various subscription services, we face numerous cybersecurity risks.
+If any of our internal systems or the systems of our third-party providers are compromised due to computer virus, unauthorized access, malware, and the like, then sensitive documents could be exposed or deleted, and our ability to conduct business could be impaired.
+Cyber incidents can be caused by various persons or groups, including disgruntled employees and vendors, activists, organized crime groups, and state-sponsored and individual hackers.
+To date, we have not experienced any material losses relating to cyber-attacks, computer viruses, or other systems failures.
+Although we have taken steps to protect the security of data maintained in our information systems, it is possible that our security measures will not be able to prevent the systems’ improper functioning or the improper disclosure of personally identifiable information, such as in the event of cyber-attacks.
+In addition to operational and business consequences, if our cybersecurity is breached, we could be held liable to our customers or other parties in regulatory or other actions, and we may be exposed to reputation damages and loss of trust and business.

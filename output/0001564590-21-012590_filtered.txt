@@ -1,0 +1,5 @@
+Any of these systems may be susceptible to outages due to fire, floods, power loss, telecommunications failures, usage errors by employees, computer viruses, cyberattacks or other security breaches, or similar events.
+The U.S. government has issued public warnings that indicate that energy assets might be specific targets of cyber security threats.
+Our technologies, systems and networks, and those of our vendors, suppliers and other business partners, may become the target of cyberattacks or information security breaches that could result in the unauthorized release, gathering, monitoring, misuse, loss or destruction of proprietary and other information, or other disruption of business operations.
+In the past, we have experienced data security breaches resulting from unauthorized access to our systems, which to date have not had a material impact on our operations; however, there is no assurance that such impacts will not be material in the future.
+Our insurance coverage for cyberattacks may not be sufficient to cover all the losses we may experience because of such cyberattacks.

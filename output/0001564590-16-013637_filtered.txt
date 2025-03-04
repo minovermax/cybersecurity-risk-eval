@@ -1,0 +1,46 @@
+Our quarterly and annual results of operations have varied historically from period to period, and we expect that they will continue to fluctuate due to a variety of factors, many of which are outside of our control, including:
+·
+our ability to retain existing customers and resellers, expand our existing customers’ user base and attract new customers;
+·
+our ability to introduce new solutions;
+·
+the actions of our competitors, including pricing changes or the introduction of new solutions;
+·
+our ability to effectively manage our growth;
+·
+our ability to successfully penetrate the market for larger businesses;
+·
+the mix of annual and multi-year subscriptions at any given time;
+·
+the timing, cost and effectiveness of our advertising and marketing efforts;
+·
+the timing, operating cost and capital expenditures related to the operation, maintenance and expansion of our business;
+·
+service outages or information security breaches and any related impact on our reputation;
+·
+our ability to accurately forecast revenues and appropriately plan our expenses;
+·
+our ability to realize our deferred tax assets;
+·
+costs associated with defending and resolving intellectual property infringement and other claims;
+·
+changes in tax laws, regulations, or accounting rules;
+·
+the timing and cost of developing or acquiring technologies, services or businesses and our ability to successfully manage any such acquisitions; and
+·
+the impact of worldwide economic, political, industry and market conditions.
+A cyber attack, information security breach or denial of service could delay or interrupt service to our customers, harm our reputation, or subject us to significant liability.
+Our operations depend on our ability to protect our production services from interruption or damage from unauthorized entry, computer viruses or other events beyond our control.
+We have from time to time been subject to communications fraud and cyber attacks by malicious actors, and denial of service, or DoS, and we may be subject to similar attacks in the future.
+Also, our subscriptions are web-based, and the amount of data we store for our users on our servers has been increasing as our business has grown; by maintaining larger volumes of data, RingCentral may become a more attractive target for hackers and other malicious actors.
+Despite the implementation of security measures by us or our vendors, our computing devices, infrastructure or networks, or our vendors’ computing devices, infrastructure or networks may be vulnerable to hackers, computer viruses, worms, other malicious software programs or similar disruptive problems that are caused by or through our or our vendors, customers, employees, business partners, consultants or other Internet users who attempt to invade our or our vendors’ public and private computers, tablets, mobile devices, software, or data or voice networks.
+Advances in computer capabilities, new discoveries in the field of cryptography, discovery of software bugs, social engineering activities or other developments may result in a compromise or breach of the technology we use to protect RingCentral and customer data, or of the data itself.
+In addition, due to the techniques used to obtain unauthorized access, to perform hacking, phishing and social engineering, or to sabotage systems, change and evolve frequently and may not be recognized until launched against a target, we may be unable to anticipate these techniques or to implement adequate preventative measures.
+We employ layered security measures; however, we may face threats across our infrastructure including unauthorized access, security breaches and other system disruptions.
+A cybersecurity breach could expose us to litigation, indemnity obligations, government investigations and other possible liabilities.
+A breach of our security systems could also expose us to increased costs including remediation costs, disruption of operations, or increased cybersecurity
+protection costs that may have a material adverse effect on our business.
+In addition, a cybersecurity breach of our customers’ systems can also result in exposure of their authentication credentials, unauthorized access to their accounts, exposure of their account information (including CPNI), and fraudulent calls on their accounts, which can subsequently have similar actual or perceived impacts to RingCentral as described above.
+All information systems, both internal and external, are potentially vulnerable to damage or interruption from a variety of sources, including without limitation, computer viruses, security breaches, energy blackouts, natural disasters, terrorism, war and telecommunication failures and employee or other theft, as well as third-party provider failures.
+In 2015, Canada’s privacy legislation was amended to implement mandatory data breach notification requirements and fines of up to $100,000 per occurrence for organizations that fail to keep a log of breaches or notify the Office of the Privacy Commissioner or affected individuals.
+If any disasters were to occur, our ability to operate our business could be seriously impaired, and we may endure system interruptions, reputational harm, loss of intellectual property, delays in our subscriptions development, lengthy interruptions in our services, breaches of data security and loss of critical data, all of which could harm our future results of operations.

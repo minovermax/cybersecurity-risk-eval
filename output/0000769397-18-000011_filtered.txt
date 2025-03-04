@@ -1,0 +1,84 @@
+Hackers regularly have targeted our systems, products, services and applications, and we expect them to do so in the future.
+The risk of a security incident, particularly through cyber attack or cyber intrusion, including by computer hackers, foreign governments and cyber terrorists, has increased as the number, intensity and sophistication of attempted attacks and intrusions from around the world have increased.
+These threats include but are not limited to identity theft, unauthorized access, DNS attacks, wireless network attacks, viruses and worms, advanced persistent threat (APT), application centric attacks, peer-to-peer attacks, phishing, malicious file uploads, backdoor trojans and distributed denial of service (DDoS) attacks.
+Any of the foregoing could attack our systems, products or services.
+Unauthorized access to this data may be obtained through break-ins, network breaches by unauthorized parties, employee theft or misuse, or other misconduct.
+In addition to the other factors described in this Part I, Item 1A, some of the factors that could cause our financial results to fluctuate include:
+•
+general market, economic, business, and political conditions in particular geographies, including Europe, APAC, and emerging economies;
+•
+failure to produce sufficient revenue, billings or subscription growth, and profitability;
+•
+failure to achieve anticipated levels of customer acceptance of our business model transition, including the impact of the end of perpetual licenses and the introduction of our maintenance-to-subscription program;
+•
+restructuring or other accounting charges and unexpected costs or other operating expenses;
+•
+changes in product mix, pricing pressure or changes in product pricing;
+•
+weak or negative growth in one or more of the industries we serve, including AEC, manufacturing, and digital media and entertainment markets;
+2018 Form 10-K 21
+•
+the success of new business or sales initiatives;
+•
+security breaches, related reputational harm, and potential financial penalties to customers and government entities;
+•
+timing of additional investments in the development of our platform or deployment of our services;
+•
+changes in revenue recognition or other accounting guidelines employed by us and/or established by the Financial Accounting Standards Board or other rule-making bodies;
+•
+fluctuations in foreign currency exchange rates and the effectiveness of our hedging activity;
+•
+failure to achieve and maintain cost reductions and productivity increases;
+•
+dependence on and the timing of large transactions;
+•
+changes in billings linearity;
+•
+adjustments arising from ongoing or future tax examinations;
+•
+the ability of governments around the world to adopt fiscal policies, meet their financial and debt obligations, and to finance infrastructure projects;
+•
+lower renewals of our maintenance program;
+•
+failure to expand our AutoCAD and AutoCAD LT customer base to related design products and services;
+•
+our ability to rapidly adapt to technological and customer preference changes, including those related to cloud computing, mobile devices, new computing platforms, and 3D printing;
+•
+the timing of the introduction of new products by us or our competitors;
+•
+the financial and business condition of our reseller and distribution channels;
+•
+failure to accurately predict the impact of acquired businesses or to identify and realize the anticipated benefits of acquisitions, and successfully integrate such acquired businesses and technologies;
+•
+perceived or actual technical or other problems with a product or combination of products;
+•
+unexpected or negative outcomes of matters and expenses relating to litigation or regulatory inquiries;
+•
+increases in cloud services-related expenses;
+•
+timing of product releases and retirements;
+•
+changes in tax laws or regulations, tax arrangements with foreign governments or accounting rules, such as increased use of fair value measures;
+•
+changes in sales compensation practices;
+•
+failure to effectively implement our copyright legalization programs, especially in developing countries;
+•
+failure to achieve sufficient sell-through in our channels for new or existing products;
+•
+renegotiation or termination of royalty or intellectual property arrangements;
+•
+interruptions or terminations in the business of our consultants or third-party developers;
+•
+the timing and degree of expected investments in growth and efficiency opportunities;
+2018 Form 10-K 22
+•
+failure to achieve continued success in technology advancements;
+•
+catastrophic events or natural disasters;
+•
+regulatory compliance costs;
+•
+potential goodwill impairment charges related to prior acquisitions; and
+•
+failure to appropriately estimate the scope of services under consulting arrangements.

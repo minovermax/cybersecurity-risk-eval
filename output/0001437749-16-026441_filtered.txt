@@ -1,0 +1,2 @@
+We face certain security threats relating to the confidentiality and integrity of our IT systems.
+Despite implementation of security measures, our IT systems may be vulnerable to damage from computer viruses, cyber attacks and other unauthorized access and these security breaches could result in a disruption to our operations.

@@ -1,0 +1,8 @@
+A failure or outage in our operational systems or cyber security attacks on any of our systems, or those of third parties, may adversely affect our financial results.
+Any cyber security attack that affects our facilities, our systems, our customers and any of our financial data could have a material adverse effect on our business.
+In addition, a cyber-attack on our customer and employee data may result in a financial loss, including potential fines for failure to safeguard data, and may damage our reputation.
+We have experienced cybersecurity threats to our information technology infrastructure and have experienced cyber-attacks, attempts to breach our systems and other similar incidents.
+Our insurance coverage may not be adequate to cover all the costs related to cyber-attacks or disruptions resulting from such events.
+We may incur significant costs to protect against the threat of information security breaches or to respond to or alleviate problems caused by such breaches.
+A cybersecurity attack could also be directed at our systems and result in interruptions in our operations or delivery of services to our clients and their customers.
+To reduce organizational risk from cybersecurity threats, we carry cyber liability insurance and have undertaken several initiatives in recent years.

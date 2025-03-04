@@ -1,0 +1,73 @@
+Such risks and challenges include underperformance relative to our expectations and the price paid for the acquisition; unanticipated demands on our management and operational resources; difficulty in integrating personnel, operations and systems; retention of customers of the combined businesses; assumption of contingent liabilities; acquisition-related earnings charges; and acquisition-related cybersecurity risks.
+Quarterly results may be materially adversely affected by a variety of factors, including:
+•
+timing and amount of sales and marketing expenditures;
+•
+timing of pricing changes offered by our suppliers;
+•
+timing of the introduction of new products and services by our suppliers;
+•
+changes in or availability of supplier contracts or rebate programs;
+•
+supplier rebates based upon attaining certain growth goals;
+•
+changes in the way suppliers introduce or deliver products to market;
+•
+costs of developing new applications and services;
+•
+our ability to correctly identify customer needs and preferences and predict future needs and preferences;
+•
+uncertainties regarding potential significant breaches of data security or disruptions of our information technology systems;
+•
+regulatory actions, or government regulation generally;
+•
+loss of sales representatives;
+•
+costs related to acquisitions and/or integrations of technologies or businesses;
+•
+costs associated with our self-insured insurance programs;
+•
+general market and economic conditions, as well as those specific to the supply and distribution industry and related industries;
+•
+our success in establishing or maintaining business relationships;
+•
+difficulties of manufacturers in developing and manufacturing products;
+•
+product demand and availability, or product recalls by manufacturers;
+•
+exposure to product liability and other claims in the event that the use of the products we sell results in injury;
+•
+increases in shipping costs or service issues with our third-party shippers;
+•
+fluctuations in the value of foreign currencies;
+•
+changes in interest rates;
+•
+restructuring costs;
+•
+the adoption or repeal of legislation;
+•
+changes in accounting principles; and
+•
+litigation or regulatory judgments, expenses or settlements.
+These information technology systems may be vulnerable to breakdown, wrongful intrusions, data breaches and malicious attack, which could require us to expend significant resources to eliminate these problems and address related security concerns, and could involve claims against us by private parties and/or governmental agencies.
+HIPAA requires, among other things, the implementation of various recordkeeping, operational, notice and other practices intended to safeguard that information, limit its use to allowed purposes and notify individuals in the event of privacy and security breaches.
+Risks generally associated with our information systems and cyber-security attacks could adversely affect our results of operations.
+As the breadth and complexity of our IS continue to grow, we will increasingly be exposed to the risks inherent in the development, integration and ongoing operation of evolving information systems, including:
+•
+disruption, impairment or failure of data centers, telecommunications facilities or other key infrastructure platforms;
+•
+security breaches of, cyberattacks on and other failures or malfunctions in our critical application systems or their associated hardware; and
+•
+excessive costs, excessive delays or other deficiencies in systems development and deployment.
+Our IS are vulnerable to natural disasters, power losses, computer viruses, telecommunication failures and other problems.
+Cyber threats are rapidly evolving and are becoming increasingly sophisticated.
+Despite our efforts to ensure the integrity of our systems, as cyber threats evolve and become more difficult to detect and successfully defend against, one or more cyber threats might defeat the measures that we or our vendors take to anticipate, detect, avoid or mitigate such threats.
+Certain techniques used to obtain unauthorized access, introduce malicious software, disable or degrade service, or sabotage systems may be designed to remain dormant until a triggering event and we may be unable to anticipate these techniques or implement adequate preventative measures since techniques change frequently or are not recognized until launched, and because cyberattacks can originate from a wide variety of sources.
+These data breaches and any unauthorized access or disclosure of our information could compromise intellectual property and expose sensitive business information.
+Cyber-attacks could also cause us to incur significant remediation costs, disrupt key business operations and divert attention of management and key information technology resources.
+A cyber-security attack that bypasses our IS security causing an IS security breach may lead to a material disruption of our IS and/or the loss of business information, which could adversely affect our business.
+Despite any precautions we take, damage from fire, floods, hurricanes, power loss, telecommunications failures, computer viruses, break-ins and similar events at our various computer facilities could result in interruptions in the flow of data to our servers.
+Our results of operations and cash flows could be adversely affected if our IS are interrupted, damaged by unforeseen events, are subject to cyber-security attacks, or fail for any extended period of time.
+We may need to expend additional resources in the future to continue to protect against, or to address problems caused by, any business interruptions or data security breaches.
+Breaches of information systems security could damage our reputation, disrupt operations, increase costs and/or decrease revenues.

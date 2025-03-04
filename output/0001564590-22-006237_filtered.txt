@@ -1,0 +1,3 @@
+These computer systems and networks may be subject to disruptions during the process of upgrading or replacing software, databases or components; power outages; hardware failures; computer viruses; or outside parties attempting to disrupt the Company’s business or gain unauthorized access to the Company’s electronic data.
+Additionally, the Company maintains a cybersecurity insurance policy.
+Security breaches could also result in a violation of U.S. and international privacy and other laws and subject the Company to various litigations and governmental proceedings.

@@ -1,0 +1,9 @@
+We may be required to repurchase mortgage loans or indemnify mortgage loan purchasers as a result of breaches of representations and warranties, borrower fraud, or certain borrower defaults, which could harm our liquidity, results of operations, and financial condition.
+A cybersecurity breach of a vendor's system may result in theft of our data or disruption of business processes.
+We rely on our outsourced service providers to implement and maintain prudent cybersecurity controls.
+In recent years, some banks have experienced denial of service attacks in which individuals or organizations flood the bank's website with extraordinarily high volumes of traffic, with the goal and effect of disrupting the ability of the bank to process transactions.
+The recent massive breach of the systems of a credit bureau presents additional threats as criminals now have more information about a larger portion of our country's population than past breaches have involved, which could be used by criminals to pose as customers initiating transfers of money from customer accounts.
+Unauthorized disclosure of sensitive or confidential client or customer information, whether through a breach of our computer systems or otherwise, or other breaches in the security of our systems could severely harm our business.
+Despite the security measures we have in place, our facilities and systems, and those of our third-party service providers, may be vulnerable to security breaches, acts of vandalism, computer viruses, theft of information, misplaced or lost data, programming and/or human errors, or other similar events.
+Moreover, as technology and cyberattacks change over time, we must continually monitor and change systems to guard against new threats.
+In addition, the recent massive breach of the systems of a credit bureau presents additional threats.

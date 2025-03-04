@@ -1,0 +1,8 @@
+General Risks
+Risks Related to Cybersecurity Breaches or Business System Disruptions
+We utilize various management information systems and information technology infrastructure to manage or support a variety of our business operations, and to maintain various records, which may include confidential business or proprietary information as well as information regarding our customers, business partners, employees or other third parties.
+There can be no assurance that the policies and procedures we or these third parties have in place, including system monitoring and data back-up processes, to prevent or mitigate the effects of these potential disruptions or breaches will be sufficient to prevent, detect and limit the impact of disruptions or breaches.
+We do not carry insurance against these risks, although we do invest in security technology, perform penetration tests from time to time, and design our business processes to attempt to mitigate the risk of such breaches.
+However, there can be no assurance that security breaches will not occur.
+We have experienced cybersecurity threats and incidents involving our systems and third-party systems and expect these incidents to continue.
+While none of the cybersecurity events have been material to date, a successful breach or attack could have a material negative impact on our operations or business reputation, harm our reputation and relationships with our customers, business partners, employees or other third parties, and subject us to consequences such as litigation and direct costs associated with incident response.

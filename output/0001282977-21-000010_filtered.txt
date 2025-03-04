@@ -1,0 +1,28 @@
+In addition, we may face reputational damage from, among other things, litigation against us, our failure to protect confidential information and/or breaches of our cybersecurity protections or other inappropriate disclosure of confidential information, including inadvertent disclosures.
+Our failure to prevent a cyber-security attack may disrupt our businesses, harm our reputation, result in losses or limit our growth
+Our clients typically provide us with sensitive and confidential information, which in the course of due diligence may include data of customers of our clients, including personal information.
+We may also encounter attempted security breaches and cyber-attacks on our critical data, and we may not be able to anticipate or prevent all such attacks.
+Breaches of our or third-party network security systems on which we rely could involve attacks that are intended to obtain unauthorized access to our proprietary information, destroy data or disable, degrade or sabotage our systems, often through the introduction of computer viruses, cyber-attacks and other means and could originate from a wide variety of sources, including unknown third parties outside the firm.
+Although we have policies and procedures designed to prevent or limit the likelihood and effect of the possible failure, interruption or security breach of our information and communication systems, there can be no assurance that any such failure, interruption or security breach will not occur or, if they do occur, that they will be adequately addressed, especially because the cyber-attack techniques used change frequently or are not recognized until launched.
+As cyber threats continue to multiply, become more sophisticated and threaten additional aspects of our businesses, we may also be required to expend additional resources on information security and compliance costs in order to continue to modify or enhance our protective measures or to investigate and remediate any information security vulnerabilities or other exposures.
+These risks include elevated cybersecurity risks, risks associated with the protection of Company and client confidential communications, and risk of reliance on certain technology we employ for virtual meetings or other remote communications systems.
+The GDPR has extraterritorial effect and imposes a mandatory duty on businesses to self-report personal data breaches to authorities, and, under certain circumstances, to affected individuals.
+There are important factors that could cause our actual results, level of activity, performance or achievements to differ materially from the results, level of activity, performance or achievements expressed or implied by the forward-looking statements including, but not limited to:
+•our ability to attract and retain key talent;
+•our ability to attract and maintain clients;
+•the level of merger and acquisition activity;
+•general market or economic conditions (for example, economic developments, changes in government or central bank policy, or the occurrence of an epidemic or spread of pandemic diseases);
+•the competitive environment in our industry;
+•our ability to manage and integrate strategic investments and acquisitions;
+•political, economic, legal, regulatory, operational, and other risks presented by our foreign business operations;
+•risks and uncertainties that affect whether parties are able to complete a given transaction;
+•our ability to make payments on, or repay or refinance, our debt, and to fund other contractual obligations;
+•events that adversely affect our reputation, such as employee misconduct, litigation, negative press, failure to protect confidential information, cybersecurity breaches, or conflicts of interest that arise in the course of an engagement;
+•legal and regulatory costs and risks, including those related to litigation, compliance, regulatory proceedings, enforcement actions, and regulatory scrutiny;
+•the impact of any introduction of or any changes in laws, regulations, rules or government policies on our business or our clients;
+•international trade policies and conditions;
+•the cost and resilience of our information systems, technology, and communications infrastructure;
+•cybersecurity risks;
+•catastrophic events, particularly those impacting our headquarters in New York City;
+•the impact of the COVID-19 pandemic on our business operations; and
+•fluctuations in our stock price due to market conditions or other factors.

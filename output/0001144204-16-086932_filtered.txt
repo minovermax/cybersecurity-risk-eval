@@ -1,0 +1,3 @@
+Man-Made Problems Such as Computer Viruses or Terrorism May Disrupt Our Operations and Harm Our Operating Results
+Despite our implementation of network security measures our servers are vulnerable to computer viruses, break-ins, and similar disruptions from unauthorized tampering with our computer systems.
+Efforts to limit the ability of malicious third parties to disrupt the operations of the internet or undermine our own security efforts may meet with resistance.

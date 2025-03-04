@@ -1,0 +1,2 @@
+The security risks associated with information technology systems have increased in recent years because of the increased sophistication, activities and evolving techniques of perpetrators of cyber attacks.
+A failure in or breach of KCS’s information technology security systems, or those of its third party service providers, as a result of cyber attacks or unauthorized access to its network could disrupt KCS’s business, result in the disclosure or misuse of confidential or proprietary information, increase its costs and/or cause losses and reputational damage.

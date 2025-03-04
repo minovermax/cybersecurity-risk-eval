@@ -1,0 +1,6 @@
+A failure, outage, or cybersecurity breach of our technology systems or those of third-party providers may adversely affect our operations and financial results.
+A cyber-security attack on these information technology systems may result in financial loss, including potential fines and damages for failure to safeguard data, and may negatively impact our reputation.
+The third-party systems of our business partners on which we rely could also fail or be subject to a cybersecurity attack.
+We may also need to expend significant additional resources to protect against cybersecurity threats or to address actual breaches or to redress problems caused by cybersecurity breaches.
+We have experienced cybersecurity threats to our information technology infrastructure and attacks attempting to breach our systems and other similar incidents.
+Although these prior cybersecurity incidents have not had a material impact on our results of operations, financial position, or liquidity, there is no assurance that future threats would not cause harm to our business and our reputation, and adversely affect our results of operations, financial position, and liquidity.

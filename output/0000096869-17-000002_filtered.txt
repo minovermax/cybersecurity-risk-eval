@@ -1,0 +1,4 @@
+Information technology failures and data security breaches could harm our business.
+These information technology systems are dependent upon global communications providers, web browsers, telephone systems and other aspects of the Internet infrastructure that have experienced security breaches, cyber-attacks, significant systems failures and electrical outages in the past.
+We may also be required to incur significant costs to protect against damages caused by these information technology failures or security breaches in the future.
+However, we cannot provide assurance that a security breach, cyber-attack, data theft or other significant systems failure will not occur in the future, and such occurrences could have a material and adverse effect on our consolidated results of operations or financial position.

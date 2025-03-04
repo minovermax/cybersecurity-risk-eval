@@ -1,0 +1,8 @@
+•Cybersecurity breaches of our systems and information technology could adversely impact our ability to operate.
+Additionally, we may be exposed to unexpected cybersecurity risks and additional information technology-related expenses as a result of these remote working requirements.
+Cybersecurity breaches of our systems and information technology could adversely impact our ability to operate.
+Our computer systems, as well as those of our clients, contractors and other vendors, face the threat of unauthorized access, computer hackers, viruses, malicious code, cyber attacks, phishing and other security incursions and system disruptions, including attempts to improperly access our confidential and proprietary information as well as the confidential and proprietary information of our clients and other business partners.
+While we endeavor to maintain industry-accepted security measures and technology to secure our computer systems and while we endeavor to ensure our cloud vendors that store our data maintain similar measures, these systems and the information stored on these systems may still be subject to threats.
+Furthermore, while we maintain insurance that specifically covers cybersecurity threats, our coverage may not sufficiently cover all types of losses or claims that may arise.
+Unplanned interruptions could result from natural disasters, power loss, telecommunications failures, acts of war or terrorism, acts of God, computer viruses, physical or electronic break-ins and similar events or disruptions.
+These issues may include, but are not limited to, any of the risk factors discussed in this Item 1A, including compliance with laws, project execution risk, cybersecurity and safety.

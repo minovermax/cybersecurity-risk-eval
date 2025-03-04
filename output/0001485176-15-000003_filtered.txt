@@ -1,0 +1,8 @@
+We are dependent on our information technology and telecommunications systems and third-party service providers; systems failures, interruptions and security breaches could have a material adverse effect on us.
+Our third-party service providers may be vulnerable to unauthorized access, computer viruses, phishing schemes and other security breaches.
+We may be required to expend significant additional resources to protect against the threat of such security breaches and computer viruses, or to alleviate problems caused by such security breaches or viruses.
+To the extent that the activities of our third-party service providers or the activities of our customers involve the storage and transmission of confidential information, security breaches and viruses could expose us to claims, regulatory scrutiny, litigation and other possible liabilities.
+Security breaches and other disruptions could compromise our information and expose us to liability, which would cause our business and reputation to suffer.
+We, our customers, and other financial institutions with which we interact, are subject to ongoing, continuous attempts to penetrate key systems by individual hackers, organized criminals, and in some cases, state-sponsored organizations.
+Despite our security measures, our information technology and infrastructure may be vulnerable to attacks by hackers or breached due to employee error, malfeasance or other disruptions.
+We may be required to spend significant capital and other resources to protect against the threat of security breaches and computer viruses, or to alleviate problems caused by security breaches or viruses.

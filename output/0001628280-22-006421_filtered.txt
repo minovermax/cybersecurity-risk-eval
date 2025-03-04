@@ -1,0 +1,14 @@
+While we have programs designed to comply with relevant privacy and security laws and restrictions, if a system or network that we develop, install or maintain were to fail or experience a security breach or service interruption, whether caused by us, third-party service providers, cyber security threats or other events, we may experience loss of revenue, remediation costs or face claims for damages or contract termination.
+Despite our implementation of network security measures, the products and services we sell to customers, and our servers, data centers and the cloud-based solutions on which our data, and data of our customers, suppliers and business
+partners are stored, are vulnerable to cyber-attacks, data protection breaches, computer viruses, and similar disruptions from unauthorized tampering or human error.
+Efforts to limit the ability of malicious third parties to disrupt the operations of the Internet or undermine our own security efforts may be costly to implement and meet with resistance, and may not be successful.
+Breaches of network security in our customers’ networks, or in cloud-based services provided by or enabled by us, regardless of whether the breach is attributable to a vulnerability in our products or services, could result in liability for us, damage our reputation or otherwise harm our business.
+We could also experience failures or interruptions of our systems and services, or other problems in connection with our operations, as a result of:
+•damage to or failure of our computer software or hardware or our connections;
+•errors in the processing of data by our systems;
+•computer viruses or software defects;
+•physical or electronic break-ins, sabotage, intentional acts of vandalism and similar events;
+•increased capacity demands or changes in systems requirements of our customers; and
+•errors by our employees or third-party service providers.
+Defects may cause such products to be vulnerable to advanced persistent threats ("APTs") or security attacks, cause them to fail to help secure information or temporarily interrupt customers’ networking traffic.
+Because the techniques used by hackers to access sensitive information change frequently and generally are not recognized until launched against a target, we may be unable to anticipate these techniques and provide a solution in time to protect customers’ data.

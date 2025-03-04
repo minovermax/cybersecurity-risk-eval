@@ -1,0 +1,5 @@
+To the extent that our activities involve the storage and transmission of proprietary information about our customers or users, security breaches could damage our reputation and expose us to a risk of loss or litigation and possible liability.
+We may be required to expend significant capital and other resources to protect against security breaches or to minimize problems caused by security breaches.
+Our (or our third party service providers’) security measures may not prevent security breaches.
+The failure to prevent these security breaches or a misappropriation of proprietary information may have a material adverse effect on our business, prospects, financial condition, and results of operations.
+Our servers may also be vulnerable to computer viruses, break-ins and similar disruptions from unauthorized tampering with our computer systems, which could lead to interruptions, delays, loss of critical data or the unauthorized disclosure of confidential intellectual property or client data.

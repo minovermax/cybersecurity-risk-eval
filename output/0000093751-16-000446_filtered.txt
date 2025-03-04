@@ -1,0 +1,57 @@
+In addition, our regulatory posture and related expenses have been and will continue to be affected by changes in regulatory expectations for global systemically important financial institutions applicable to, among other things, risk management, liquidity and capital planning and compliance programs, and changes in governmental enforcement approaches to perceived failures to comply with regulatory or legal obligations;
+•
+adverse changes in the regulatory ratios that we are required or will be required to meet, whether arising under the Dodd-Frank Act or the Basel III final rule, or due to changes in regulatory positions, practices or regulations in jurisdictions in which we engage in banking activities, including changes in internal or external data, formulae, models, assumptions or other advanced systems used in the calculation of our capital ratios that cause changes in those ratios as they are measured from period to period;
+•
+increasing requirements to obtain the prior approval of the Federal Reserve or our other U.S. and non-U.S. regulators for the use, allocation or distribution of our capital or other specific capital actions or programs, including acquisitions, dividends and stock purchases, without which our growth plans, distributions to shareholders, share repurchase programs or other capital initiatives may be restricted;
+•
+changes in law or regulation, or the enforcement of law or regulation, that may adversely affect our business activities or those of our clients or our counterparties, and the products or services that we sell, including additional or increased taxes or assessments thereon, capital adequacy requirements, margin requirements and changes that expose us to risks related to the adequacy of our controls or compliance programs;
+•
+financial market disruptions or economic recession, whether in the U.S., Europe, Asia or other regions;
+•
+our ability to develop and execute State Street Beacon, our multi-year program to create cost efficiencies through changes to our operations and to further digitize our service delivery to our clients, any failure of which, in whole or in part, may among other things, reduce our competitive position, diminish the cost-effectiveness of our systems and processes or provide an
+insufficient return on our associated investment;
+•
+our ability to promote a strong culture of risk management, operating controls, compliance oversight and governance that meet our expectations and those of our clients and our regulators;
+•
+the results of our review of the manner in which we invoiced certain client expenses, including the amount of expenses determined to be reimbursable, as well as potential consequences of such review including with respect to our client relationships and potential investigations by regulators;
+•
+the results of, and costs associated with, governmental or regulatory inquiries and investigations, litigation and similar claims, disputes, or proceedings;
+•
+the potential for losses arising from our investments in sponsored investment funds;
+•
+the possibility that our clients will incur substantial losses in investment pools for which we act as agent, and the possibility of significant reductions in the liquidity or valuation of assets underlying those pools;
+•
+our ability to anticipate and manage the level and timing of redemptions and withdrawals from our collateral pools and other collective investment products;
+•
+the credit agency ratings of our debt and depository obligations and investor and client perceptions of our financial strength;
+•
+adverse publicity, whether specific to State Street or regarding other industry participants or industry-wide factors, or other reputational harm;
+•
+our ability to control operational risks, data security breach risks and outsourcing risks, our ability to protect our intellectual property rights, the possibility of errors in the quantitative models we use to manage our business and the possibility that our controls will prove insufficient, fail or be circumvented;
+•
+our ability to expand our use of technology to enhance the efficiency, accuracy and reliability of our operations and our dependencies on information technology and our ability to control related risks, including cyber-crime and other threats to our information technology infrastructure and systems and their effective operation both independently and with external systems, and complexities and costs of protecting the security of our systems and data;
+•
+our ability to grow revenue, manage expenses, attract and retain highly skilled people and raise the capital necessary to achieve our business goals and comply with regulatory requirements and expectations;
+•
+changes or potential changes to the competitive environment, including changes due to regulatory and technological changes, the effects of industry consolidation and perceptions of State Street as a suitable service provider or counterparty;
+•
+changes or potential changes in the amount of compensation we receive from clients for our services, and the mix of services provided by us that clients choose;
+•
+our ability to complete acquisitions, joint ventures and divestitures, including the ability to obtain regulatory approvals, the ability to arrange financing as required and the ability to satisfy closing conditions;
+•
+the risks that our acquired businesses and joint ventures will not achieve their anticipated financial and operational benefits or will not be integrated successfully, or that the integration will take longer than anticipated, that expected synergies will not be achieved or unexpected negative synergies or liabilities will be experienced, that client and deposit retention goals will not be met, that other regulatory or operational challenges will be experienced, and that disruptions from the transaction will harm our relationships with our clients, our employees or regulators;
+•
+our ability to recognize emerging needs of our clients and to develop products that are responsive to such trends and profitable to us, the performance of and demand for the products and services we offer, and the potential for new products and services to impose additional costs on us and expose us to increased operational risk;
+•
+changes in accounting standards and practices; and
+•
+changes in tax legislation and in the interpretation of existing tax laws by U.S. and non-U.S. tax authorities that affect the amount of taxes due.
+We depend on information technology, and any failures of or damage to, attack on or unauthorized access to our information technology systems or facilities, or those of third parties with which we do business, including as a result of cyber-attacks, could result in significant limits on our ability to conduct our operations and activities, costs and reputational damage.
+In recent years, several financial services firms have suffered successful cyber-attacks launched both domestically and from abroad, resulting in the disruption of services to clients, loss or misappropriation of sensitive or private data and reputational harm.
+We also have been subjected to cyber-attack, and although we have not to our knowledge suffered a material breach of our systems, it is possible that we could suffer such a breach in the future.
+Cyber-threats are sophisticated and continually evolving.
+We may not implement effective systems and other measures to effectively prevent or mitigate the full diversity of cyber-threats or improve and adapt such systems and measures as such threats evolve and advance.
+For example, there could be sudden increases in transaction or data volumes, electrical or telecommunications outages, cyber-attacks or employee or contractor error or malfeasance.
+The third parties with which we do business, which facilitate our business activities or with whom we otherwise engage or interact, including financial intermediaries and technology infrastructure and service providers, are also susceptible to the foregoing risks (including regarding the third parties with which they are similarly interconnected or on which they otherwise rely), and our or their business operations and activities may therefore be adversely affected, perhaps materially, by failures, terminations, errors or malfeasance by, or attacks or constraints on, one or more financial, technology, infrastructure or government institutions or intermediaries with whom we or they are interconnected or conduct business.
+In particular, we, like other financial services firms, will continue to face increasing cyber threats, including computer viruses, malicious code, distributed denial of service attacks, phishing attacks, information security breaches or employee or contractor error or malfeasance that could result in the unauthorized release, gathering, monitoring, misuse, loss or destruction of our, our clients' or other parties' confidential, personal, proprietary or other information or otherwise disrupt, compromise or damage our or our clients' or other parties' business assets, operations and activities.
+Our status as a global systemically important financial institution may increase the risk that we are targeted by such cyber-security threats.

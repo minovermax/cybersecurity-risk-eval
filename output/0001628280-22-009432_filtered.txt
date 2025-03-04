@@ -1,0 +1,43 @@
+Factors that may contribute to the variability of our operating results include:
+•the addition or loss of large customers, including through acquisitions or consolidations of such customers;
+•seasonal and other variations in the timing of our sales and implementation cycles, especially in the case of our large customers;
+•travel restrictions, shelter in place orders and other social distancing measures implemented to combat the COVID-19 pandemic, and their respective impact on economic, industry and market conditions, customer spending budgets and our ability to conduct business;
+•the timing of recognition of revenue, including possible delays in the recognition of revenue due to unpredictable implementation timelines;
+•the timing and success of introductions of new products and services by us or our competitors or any other change in the competitive dynamics of our industry, including consolidation among competitors, hospital and healthcare system customers or strategic partners;
+•the amount of operating expenses and timing related to the maintenance and expansion of our business, operations and infrastructure;
+•our ability to effectively manage the size and composition of our proprietary network of healthcare professionals relative to the level of demand for services from our customers;
+•customer renewal rates and the timing and terms of such renewals;
+•technical difficulties or interruptions in our services;
+•breaches of information security or privacy;
+•our ability to hire and retain qualified personnel;
+•changes in the structure of healthcare provider and payment systems;
+•changes in the legislative or regulatory environment, including with respect to healthcare, privacy or data protection, or enforcement by government regulators, including fines, orders or consent decrees;
+•the cost and potential outcomes of ongoing or future regulatory investigations or examinations, or of future litigation;
+•political, economic and social instability, including terrorist activities and health epidemics (including the COVID-19 pandemic), and any disruption these events may cause to the global economy; and
+•changes in business or macroeconomic conditions.
+The facilities also could be subject to break-ins, computer viruses, sabotage, intentional acts of vandalism and other misconduct.
+Risks Related to Privacy, Cybersecurity, Technology and Intellectual Property
+Our proprietary software may not operate properly, which could damage our reputation, give rise to claims against us or divert application of our resources from other purposes, any of which could harm our business.
+It also tasks HHS with establishing a
+methodology whereby harmed individuals who were the victims of breaches of unsecured PHI may receive a percentage of the Civil Monetary Penalty fine paid by the violator.
+Breaches affecting 500 patients or more in the same state or jurisdiction must also be reported to the local media.
+The CCPA also created a private right of action with statutory damages for certain data breaches, thereby potentially increasing risks associated with a data breach.
+In addition to the laws discussed above, we may see more stringent state and federal privacy legislation in 2021 and beyond, as the increased cyber-attacks during the pandemic have once again put a spotlight on data privacy and security in the U.S. and other jurisdictions.
+Any potential security breach could also result in increased costs associated with liability for stolen assets or information, repairing system damage that may have been caused by such breaches, incentives offered to customers or other business
+partners in an effort to maintain our business relationships after a breach and implementing measures to prevent future occurrences, including organizational changes, deploying additional personnel and protection technologies, training employees and engaging third-party experts and consultants.
+We outsource important aspects of the storage and transmission of client and patient information, and thus rely on third parties to manage functions that have material cybersecurity risks.
+Information security risks have generally increased in recent years because of the proliferation of new technologies and the increased sophistication and activities of perpetrators of cyber-attacks.
+As cyber threats continue to evolve, we may be required to expend additional resources to further enhance our information security measures and/or to investigate and remediate any information security vulnerabilities.
+There have also been several highly publicized cases in which hackers have requested “ransom” payments in exchange for not disclosing customer or other confidential information or for not disabling the target company’s computer or other systems, and we have not been immune to this risk.
+Such failures or breaches of our security measures, or our inability to effectively resolve such failures or breaches in a timely manner, could severely damage our reputation, adversely affect customer or investor confidence in us, and reduce the demand for our services from existing and potential customers.
+We may experience cybersecurity and other breach incidents that remain undetected for an extended period.
+If an actual or perceived breach of our security occurs, or if we are unable to effectively resolve such breaches in a timely manner, the market perception of the
+effectiveness of our security measures could be harmed and we could lose sales, customers, which could have a material adverse effect on our business, operations, and financial results.
+We are exposed to data and cybersecurity risks that could result in data breaches, service interruptions, ransomware and demands, harm to our reputation, protracted and costly litigation or significant liability.
+Failure to timely upgrade or maintain computer systems, software and networks as necessary could also make us or our third-party service providers susceptible to breaches and unauthorized access and misuse.
+We may be required to expend significant additional resources to modify, investigate or remediate vulnerabilities or other exposures arising from data and cybersecurity risks.
+Despite our efforts to ensure the integrity, confidentiality, availability, and authenticity of our proprietary systems and information, it is possible that we may not be able to anticipate or to implement effective preventive measures against all cyber threats.
+The risk of unauthorized circumvention of our security measures or those of our third-party providers, clients and partners has been heightened by advances in computer and software capabilities and the increasing sophistication of hackers, including those operating on behalf of nation-state actors, who employ complex techniques involving the theft or misuse of personal and financial information, counterfeiting, “phishing” or social engineering incidents, account takeover attacks, denial or degradation of service attacks, malware, fraudulent payment and identity theft.
+Because the techniques used by hackers change frequently and are increasingly complex and sophisticated, and new technologies may not be identified until they are launched against a target, we and our third-party service providers may be unable to anticipate these techniques or detect an incident, assess its severity or impact, react or appropriately respond in a timely manner or implement adequate preventative measures.
+Our systems are also subject to compromise from internal threats, such as theft, misuse, unauthorized access or other improper actions by employees, service provides and other third parties with otherwise legitimate access to our systems or databases.
+Due to applicable laws and regulations or contractual obligations, we may also be held responsible for any failure or cybersecurity breaches attributed to our third-party service providers as they relate to the information that we share with them.
